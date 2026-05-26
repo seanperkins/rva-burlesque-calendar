@@ -15,8 +15,8 @@ SITE_URL = "https://seanperkins.github.io/rva-burlesque-calendar/"
 FEED_URL = "https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml"
 CHANNEL_TITLE = "RVA Burlesque"
 CHANNEL_DESCRIPTION = (
-    "Burlesque shows in Richmond, VA. Items are sorted by event date. "
-    "Entries marked [TBD] have inferred dates pending venue confirmation."
+    "Burlesque shows in Richmond, VA. Confirmed dates only; tentative "
+    "[TBD] dates are kept out of the feed until firmed up."
 )
 
 
@@ -53,9 +53,6 @@ def format_time_range(start, end):
 
 def build_description(event):
     lines = []
-    if event.get("tentative"):
-        lines.append("<p><em>[Tentative date — confirm with the venue before going.]</em></p>")
-
     date_obj = datetime.strptime(event["date"], "%Y-%m-%d") if event.get("date") else None
     date_str = date_obj.strftime("%A, %B %-d, %Y") if date_obj else "Date TBA"
     time_str = format_time_range(event.get("startTime"), event.get("endTime"))
@@ -73,9 +70,6 @@ def build_description(event):
 
     if event.get("description"):
         lines.append(f"<p>{escape(event['description'])}</p>")
-
-    if event.get("tentativeReason"):
-        lines.append(f"<p><small>{escape(event['tentativeReason'])}</small></p>")
 
     return "".join(lines)
 
@@ -106,7 +100,10 @@ def item_xml(event):
 
 def main():
     data = json.loads(EVENTS_PATH.read_text())
-    events = [e for e in data.get("events", []) if e.get("date")]
+    events = [
+        e for e in data.get("events", [])
+        if e.get("date") and not e.get("tentative") and not e.get("dateTBA")
+    ]
     events.sort(key=lambda e: (e["date"], e.get("startTime") or ""))
 
     build_dt = datetime.now(timezone.utc)

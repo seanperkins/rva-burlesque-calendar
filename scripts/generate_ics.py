@@ -44,7 +44,7 @@ def add_hours(time_str, hours):
 
 
 def event_lines(event):
-    if event.get("dateTBA"):
+    if event.get("dateTBA") or event.get("tentative"):
         return []
     date = event.get("date")
     if not date:
@@ -69,10 +69,7 @@ def event_lines(event):
         lines.append(f"DTSTART;VALUE=DATE:{fmt_date(date)}")
         lines.append(f"DTEND;VALUE=DATE:{end_dt.strftime('%Y%m%d')}")
 
-    title = event["title"]
-    if event.get("tentative"):
-        title = f"{title} (tentative)"
-    lines.append(fold(f"SUMMARY:{escape_ics(title)}"))
+    lines.append(fold(f"SUMMARY:{escape_ics(event['title'])}"))
 
     location = event.get("location") or ""
     if event.get("address"):
@@ -81,8 +78,6 @@ def event_lines(event):
         lines.append(fold(f"LOCATION:{escape_ics(location)}"))
 
     desc_parts = []
-    if event.get("tentative"):
-        desc_parts.append("[Tentative date — confirm with venue]")
     if event.get("description"):
         desc_parts.append(event["description"])
     if event.get("cost"):
