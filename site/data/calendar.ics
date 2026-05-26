@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RVA Burlesque//Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RVA Burlesque
+X-WR-CALDESC:Burlesque shows in Richmond, VA
+BEGIN:VEVENT
+UID:2026-06-20-0000-gallery5@rvaburlesque
+DTSTAMP:20260526T140306Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Gallery5 Burlesque Night (tentative)
+LOCATION:Gallery5\, 200 W Marshall St\, Richmond\, VA 23220
+DESCRIPTION:[Tentative date — confirm with venue]\n\nGallery5 runs burlesqu
+ e on the 3rd Saturday of each month. Theme and lineup TBA.\n\nInfo: https:
+ //gallery5arts.org/calendar
+URL:https://gallery5arts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-06-0000-ember@rvaburlesque
+DTSTAMP:20260526T140306Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:It's Britney B*tch Burlesque (themed series)
+LOCATION:Ember Music Hall\, 309 E Broad St\, Richmond\, VA 23219
+DESCRIPTION:18+ themed burlesque nights at Ember Music Hall. Series listed 
+ running through early July\; check Ember's calendar for specific show date
+ s.\n\nInfo: https://embermusichall.com/events/category/series/burlesque-sh
+ ows/ember-music-hall/richmond-virginia/
+URL:https://embermusichall.com/events/category/series/burlesque-shows/ember-music-hall/richmond-virginia/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-0000-gallery5@rvaburlesque
+DTSTAMP:20260526T140306Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Gallery5 Burlesque Night (tentative)
+LOCATION:Gallery5\, 200 W Marshall St\, Richmond\, VA 23220
+DESCRIPTION:[Tentative date — confirm with venue]\n\nGallery5 runs burlesqu
+ e on the 3rd Saturday of each month. Theme and lineup TBA.\n\nInfo: https:
+ //gallery5arts.org/calendar
+URL:https://gallery5arts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-0000-gallery5@rvaburlesque
+DTSTAMP:20260526T140306Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Gallery5 Burlesque Night (tentative)
+LOCATION:Gallery5\, 200 W Marshall St\, Richmond\, VA 23220
+DESCRIPTION:[Tentative date — confirm with venue]\n\nGallery5 runs burlesqu
+ e on the 3rd Saturday of each month. Theme and lineup TBA.\n\nInfo: https:
+ //gallery5arts.org/calendar
+URL:https://gallery5arts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-0000-gallery5@rvaburlesque
+DTSTAMP:20260526T140306Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Gallery5 Burlesque Night (tentative)
+LOCATION:Gallery5\, 200 W Marshall St\, Richmond\, VA 23220
+DESCRIPTION:[Tentative date — confirm with venue]\n\nGallery5 runs burlesqu
+ e on the 3rd Saturday of each month. Theme and lineup TBA.\n\nInfo: https:
+ //gallery5arts.org/calendar
+URL:https://gallery5arts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
+DTSTAMP:20260526T140306Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+SUMMARY:RVA Burlesque Festival
+LOCATION:RVA Burlesque Festival (multiple venues)\, Richmond\, VA
+DESCRIPTION:The major annual multi-day burlesque festival. Applications ope
+ ned in spring\; ticket info on the festival site.\n\nInfo: https://rvaburl
+ esquefestival.com/
+URL:https://rvaburlesquefestival.com/
+END:VEVENT
+END:VCALENDAR

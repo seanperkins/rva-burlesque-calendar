@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RVA Burlesque Calendar | Burlesque Shows in Richmond, VA</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Find burlesque shows in Richmond, Virginia. Browse upcoming performances at Gallery5, Strangeways Brewing, Ember Music Hall, Firehouse Theatre, and more.">
+    <meta name="keywords" content="burlesque, Richmond VA, RVA, Gallery5, Burlesque Right Meow, Pours and Pasties, Ember Music Hall, Firehouse Theatre, RVA Burlesque Festival">
+    <meta name="author" content="RVA Burlesque Calendar">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="RVA Burlesque Calendar">
+    <meta property="og:description" content="Find burlesque shows in Richmond, Virginia.">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="RVA Burlesque">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="RVA Burlesque Calendar">
+    <meta name="twitter:description" content="Find burlesque shows in Richmond, Virginia.">
+
+    <!-- Theme -->
+    <meta name="theme-color" content="#8b1e3f">
+
+    <!-- Geo -->
+    <meta name="geo.region" content="US-VA">
+    <meta name="geo.placename" content="Richmond">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RVA Burlesque Calendar",
+        "description": "A calendar of burlesque shows in Richmond, Virginia"
+    }
+    </script>
+</head>
+<body>
+    <header>
+        <h1>RVA Burlesque</h1>
+        <p class="subtitle">Burlesque shows in Richmond, VA</p>
+    </header>
+
+    <main>
+        <section class="subscribe-section" aria-labelledby="subscribe-heading">
+            <h2 id="subscribe-heading">Subscribe to Calendar</h2>
+            <p>Get the next show on your calendar before it sells out.</p>
+            <div class="subscribe-buttons">
+                <a href="#" class="subscribe-btn" id="subscribe-btn">Subscribe</a>
+                <button class="subscribe-btn secondary" id="copy-url-btn">Copy URL</button>
+            </div>
+            <p class="subscribe-hint" id="subscribe-hint" aria-live="polite"></p>
+        </section>
+
+        <section class="toolbar" aria-label="Event filters and view options">
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="filter-cost">Cost</label>
+                    <select id="filter-cost">
+                        <option value="all">All</option>
+                        <option value="free">Free</option>
+                        <option value="paid">Paid</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-type">Type</label>
+                    <select id="filter-type">
+                        <option value="all">All</option>
+                        <option value="variety">Variety</option>
+                        <option value="themed">Themed</option>
+                        <option value="bingo">Bingo</option>
+                        <option value="festival">Festival</option>
+                        <option value="immersive">Immersive</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-location">Venue</label>
+                    <select id="filter-location">
+                        <option value="all">All Venues</option>
+                    </select>
+                </div>
+            </div>
+            <div class="view-toggle" role="tablist" aria-label="View selection">
+                <button id="view-list" class="active" role="tab" aria-selected="true" aria-controls="events-list">List</button>
+                <button id="view-calendar" role="tab" aria-selected="false" aria-controls="events-calendar">Calendar</button>
+            </div>
+        </section>
+
+        <section id="events-list" class="events-container" role="tabpanel" aria-live="polite">
+            <p class="loading">Loading shows...</p>
+        </section>
+
+        <section id="events-calendar" class="events-container hidden" role="tabpanel">
+            <div class="calendar-nav">
+                <button id="cal-prev" aria-label="Previous month">&larr;</button>
+                <span id="cal-month" aria-live="polite"></span>
+                <button id="cal-next" aria-label="Next month">&rarr;</button>
+            </div>
+            <div class="calendar-grid" role="grid" aria-label="Calendar">
+                <div class="cal-header" role="columnheader">Sun</div>
+                <div class="cal-header" role="columnheader">Mon</div>
+                <div class="cal-header" role="columnheader">Tue</div>
+                <div class="cal-header" role="columnheader">Wed</div>
+                <div class="cal-header" role="columnheader">Thu</div>
+                <div class="cal-header" role="columnheader">Fri</div>
+                <div class="cal-header" role="columnheader">Sat</div>
+            </div>
+            <div id="cal-days" class="calendar-days" role="grid"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Last updated: <span id="last-updated">&mdash;</span></p>
+        <p class="disclaimer">Dates marked <em>tentative</em> are inferred from recurring patterns and not yet confirmed by the venue. Always check the venue link before heading out.</p>
+        <p class="sources">
+            Sources:
+            <a href="https://gallery5arts.org/calendar" target="_blank" rel="noopener noreferrer">Gallery5</a> &middot;
+            <a href="https://linktr.ee/burlesquerightmeow" target="_blank" rel="noopener noreferrer">Burlesque Right Meow</a> &middot;
+            <a href="https://embermusichall.com/events/category/series/burlesque-shows/ember-music-hall/richmond-virginia/" target="_blank" rel="noopener noreferrer">Ember Music Hall</a> &middot;
+            <a href="https://www.firehousetheatre.org/" target="_blank" rel="noopener noreferrer">Firehouse Theatre</a> &middot;
+            <a href="https://rvaburlesquefestival.com/" target="_blank" rel="noopener noreferrer">RVA Burlesque Festival</a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
