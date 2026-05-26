@@ -1,0 +1,110 @@
+[
+  {
+    "id": "gallery5",
+    "url": "https://gallery5arts.org/calendar",
+    "location": "Gallery5",
+    "address": "200 W Marshall St, Richmond, VA 23220",
+    "defaultTags": ["variety"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Look for ANY events tagged as burlesque, cabaret, or variety shows. Gallery5 typically runs a burlesque night on the 3rd Saturday of each month, but they also host one-off troupe productions (Afrotease, Nu Caldonia Rodeo, Immodest Opulence, RadQueer, Poppy la Fae, etc.). Extract real announced dates only — do not extrapolate the recurring pattern."
+  },
+  {
+    "id": "burlesque-right-meow",
+    "url": "https://burlesquerightmeow.ticketspice.com/",
+    "location": "Burlesque Right Meow",
+    "address": "Richmond, VA",
+    "defaultTags": ["immersive", "adult"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Burlesque Right Meow (BRM) produces multiple recurring series. Look for ticketed events on Ticketspice including: Pours and Pasties at Strangeways (Scott's Addition), Under The Veil at The Veil Brewing (Scott's Addition), Reveal Revue at Basic City, Baddies With Saddies / Dazzling Debuts / Nerdy Nights at Firehouse Theatre. For each event: capture venue, date, time, ticket URL. Also check https://www.scarletstarletrva.com/brmshows for the full BRM schedule."
+  },
+  {
+    "id": "ember",
+    "url": "https://embermusichall.com/events/category/series/burlesque-shows/ember-music-hall/richmond-virginia/",
+    "location": "Ember Music Hall",
+    "address": "309 E Broad St, Richmond, VA 23219",
+    "defaultTags": ["themed", "adult"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "18+ themed burlesque tribute series. Look for show titles, dates, times, and ticket links. Past examples: 'It's Britney B*tch Burlesque', 'Lip Sync Battle Burlesque', 'Liver Alone' (Scream tribute), 'Clothes/Off 2'."
+  },
+  {
+    "id": "ellie-quinn",
+    "url": "https://elliequinnpresents.square.site/",
+    "location": "Ellie Quinn Presents",
+    "address": "Richmond, VA",
+    "defaultTags": ["recurring"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Ellie Quinn Presents produces three recurring shows: (1) Nerdlesque brunch at Grandstaff & Stein (2113 E Main St) on the 1st Sunday monthly; (2) Burlesque Bingo at Basic City Beer Southside (212 W 6th St) on the 4th Friday monthly; (3) RVA Burlesque Bingo at Blue Bee Cider (4811 Bethlehem Rd). Pull dates as announced — do not extrapolate."
+  },
+  {
+    "id": "blue-bee",
+    "url": "https://www.bluebeecider.com/events",
+    "location": "Blue Bee Cider",
+    "address": "4811 Bethlehem Rd, Richmond, VA 23230",
+    "defaultTags": ["variety"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Look for burlesque, cabaret, or pasties-related events. Recurring shows include 'Orchard After Dark' and 'RVA Burlesque Bingo'. Also check https://www.visitrichmondva.com/event/?search=burlesque for any Blue Bee listings."
+  },
+  {
+    "id": "firehouse",
+    "url": "https://www.firehousetheatre.org/events",
+    "location": "Firehouse Theatre",
+    "address": "1609 W Broad St, Richmond, VA 23220",
+    "defaultTags": ["themed", "adult"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Firehouse hosts Burlesque Right Meow themed productions through Firehouse Fringe and similar programming. Look for any event titles containing burlesque, cabaret, variety, or BRM show names."
+  },
+  {
+    "id": "veil-brewing",
+    "url": "https://burlesquerightmeow.ticketspice.com/undertheveil",
+    "location": "The Veil Brewing Co. (Scott's Addition)",
+    "address": "1509B Belleville St, Richmond, VA 23230",
+    "defaultTags": ["immersive", "recurring", "adult"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Under The Veil is a recurring in-the-round burlesque show by Burlesque Right Meow at Veil Brewing. Tickets via Ticketspice. Pull only announced dates."
+  },
+  {
+    "id": "basic-city",
+    "url": "https://basiccityrva.com/",
+    "location": "Basic City Beer Co. (Southside)",
+    "address": "212 W 6th St, Richmond, VA 23224",
+    "defaultTags": ["variety"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Look for burlesque-related events including the Reveal Revue (by Burlesque Right Meow) and Burlesque Bingo (by Ellie Quinn). The bingo is the 4th Friday monthly but pull only announced dates."
+  },
+  {
+    "id": "dreamhaus",
+    "url": "https://www.instagram.com/dreamhausrva/",
+    "location": "DreamHaus RVA",
+    "address": "110 N 18th St, Richmond, VA 23223",
+    "defaultTags": ["variety", "recurring"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "New cabaret/burlesque/circus/drag venue in Shockoe Bottom that opened December 2025. Their Full Moon Fest series happens around each full moon. Instagram posts and stories typically list upcoming dates; also check https://www.dreamerfxstudios.com/ if linked."
+  },
+  {
+    "id": "reveler",
+    "url": "https://www.revelerexperiences.com/events",
+    "location": "Révéler Experiences",
+    "address": "3108 W Cary St, Richmond, VA 23221",
+    "defaultTags": ["variety"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Carytown cabaret venue that hosts Révéler Cabaret variety nights (jazz + burlesque + magic + drag) and occasional 'Boleros + Burlesque' benefit shows. Look for any burlesque-tagged events."
+  },
+  {
+    "id": "crescent-collective",
+    "url": "https://www.rvacrescentcollective.com/events",
+    "location": "Crescent Collective",
+    "address": "1800 Decatur St, Richmond, VA 23224",
+    "defaultTags": ["variety"],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Queer-focused rental venue that hosts Pink Faerie Productions and other independent burlesque shows. Look for any burlesque/cabaret-tagged events."
+  },
+  {
+    "id": "rva-burlesque-festival",
+    "url": "https://rvaburlesquefestival.com/",
+    "location": "RVA Burlesque Festival",
+    "address": "Richmond, VA",
+    "defaultTags": ["festival", "adult"],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Annual multi-day burlesque festival, currently slated for early November. Capture the festival dates, ticket links, and any satellite events at specific venues."
+  }
+]

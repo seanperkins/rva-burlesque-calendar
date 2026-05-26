@@ -13,6 +13,7 @@ A static site aggregating burlesque shows in Richmond, VA.
 3. The site reads the JSON and renders a filterable list + calendar view.
 4. `scripts/generate_ics.py` regenerates `site/data/calendar.ics` for calendar subscriptions.
 5. `scripts/generate_rss.py` regenerates `site/data/feed.xml` (RSS 2.0) for feed readers.
+6. `scripts/scrape.py` calls Claude CLI + Playwright to pull events from each source in `scripts/sources.json`, then merges results with `events.json` (tentative `[TBD]` entries are promoted to confirmed when a scraped event covers the same source + month).
 
 ## Event statuses
 
@@ -52,6 +53,39 @@ For a Date-TBA event, omit `date` and set `dateTBA: true` plus `expectedMonth: "
 ```bash
 python3 scripts/generate_ics.py
 python3 scripts/generate_rss.py
+```
+
+## Automated scraping
+
+Two launchd jobs keep the calendar fresh without manual intervention:
+
+| Job | Schedule | Script |
+|---|---|---|
+| `com.rva-burlesque.update` | Tuesday & Friday at 8:00 AM | `scripts/update.sh` |
+| `com.rva-burlesque.discover` | Monday at 9:00 AM (with biweekly guard) | `scripts/discover-sources.sh` |
+
+`update.sh` runs `scrape.py` against every source in `scripts/sources.json` (one Claude CLI call per source, with Playwright MCP for dynamic pages), merges results into `events.json`, regenerates the ICS + RSS feeds, and commits + pushes if anything changed.
+
+`discover-sources.sh` asks Claude to find venues and troupes we're not yet tracking, and appends any findings to `sources.json`. It's scheduled weekly but skips itself unless 12+ days have passed since the last run.
+
+Manual usage:
+
+```bash
+./scripts/update.sh                   # full update + commit + push
+python3 scripts/scrape.py --stats     # cache state per source
+python3 scripts/scrape.py -s gallery5 # scrape one source only
+python3 scripts/scrape.py --force     # bypass cache
+./scripts/discover-sources.sh         # source discovery (honors the 12-day guard)
+```
+
+To re-install the launchd agents after editing the plist templates:
+
+```bash
+launchctl unload ~/Library/LaunchAgents/com.rva-burlesque.update.plist
+launchctl unload ~/Library/LaunchAgents/com.rva-burlesque.discover.plist
+cp scripts/launchd/com.rva-burlesque.*.plist ~/Library/LaunchAgents/
+launchctl load ~/Library/LaunchAgents/com.rva-burlesque.update.plist
+launchctl load ~/Library/LaunchAgents/com.rva-burlesque.discover.plist
 ```
 
 ## Local Development
