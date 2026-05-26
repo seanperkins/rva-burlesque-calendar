@@ -636,6 +636,23 @@ main {
     font-weight: 600;
 }
 
+.subscribe-rss {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+}
+
+.subscribe-rss a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--accent);
+}
+
+.subscribe-rss a:hover {
+    color: var(--accent-hover);
+    border-bottom-color: var(--accent-hover);
+}
+
 /* Footer */
 footer {
     background: var(--bg-soft);

@@ -11,7 +11,8 @@ A static site aggregating burlesque shows in Richmond, VA.
 1. Event data lives in `site/data/events.json`.
 2. GitHub Pages serves the static `site/` directory.
 3. The site reads the JSON and renders a filterable list + calendar view.
-4. `scripts/generate_ics.py` regenerates `site/data/calendar.ics` from the JSON for calendar subscriptions.
+4. `scripts/generate_ics.py` regenerates `site/data/calendar.ics` for calendar subscriptions.
+5. `scripts/generate_rss.py` regenerates `site/data/feed.xml` (RSS 2.0) for feed readers.
 
 ## Event statuses
 
@@ -50,6 +51,7 @@ For a Date-TBA event, omit `date` and set `dateTBA: true` plus `expectedMonth: "
 
 ```bash
 python3 scripts/generate_ics.py
+python3 scripts/generate_rss.py
 ```
 
 ## Local Development
