@@ -11,7 +11,9 @@ const sourceColors = {
     "gallery5": "#d4a574",
     "burlesque-right-meow": "#c2185b",
     "ember": "#7c3aed",
-    "rva-burlesque-bingo": "#0ea5e9",
+    "ellie-quinn": "#0ea5e9",
+    "blue-bee": "#22c55e",
+    "dreamhaus": "#ec4899",
     "rva-burlesque-festival": "#dc2626"
 };
 
@@ -255,15 +257,10 @@ function renderList() {
         return;
     }
 
-    let html = "";
-
-    if (filteredDated.length > 0) {
-        html += '<h3 class="section-heading">Upcoming shows</h3>';
-        html += filteredDated.map((e, i) => renderEventCard(e, i, "dated")).join("");
-    }
+    let html = filteredDated.map((e, i) => renderEventCard(e, i, "dated")).join("");
 
     if (filteredTBA.length > 0) {
-        html += '<h3 class="section-heading">Watch this space &mdash; date TBA</h3>';
+        html += '<h3 class="section-heading">Date entirely unknown</h3>';
         html += filteredTBA.map((e, i) => renderEventCard(e, i, "tba")).join("");
     }
 
