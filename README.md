@@ -53,7 +53,18 @@ For a Date-TBA event, omit `date` and set `dateTBA: true` plus `expectedMonth: "
 ```bash
 python3 scripts/generate_ics.py
 python3 scripts/generate_rss.py
+python3 scripts/geocode.py  # populate site/data/venues.json for the map view
 ```
+
+## Map view
+
+`site/data/venues.json` holds `{lat, lng}` for each unique address found in `events.json`. The map view (Leaflet + CartoDB dark tiles) lazy-loads the library on first activation. To refresh coordinates after editing events:
+
+```bash
+python3 scripts/geocode.py
+```
+
+The geocoder uses Nominatim (OpenStreetMap) with a 1.1s delay between requests per their usage policy, and only queries addresses that aren't already cached in `venues.json`.
 
 ## Automated scraping
 

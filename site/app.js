@@ -31,6 +31,8 @@ function escapeAttr(text) {
 
 const eventsList = document.getElementById("events-list");
 const eventsCalendar = document.getElementById("events-calendar");
+const eventsMap = document.getElementById("events-map");
+const mapNoteEl = document.getElementById("map-note");
 const filterCost = document.getElementById("filter-cost");
 const filterType = document.getElementById("filter-type");
 const filterLocation = document.getElementById("filter-location");
@@ -38,6 +40,7 @@ const filterTBD = document.getElementById("filter-tbd");
 const tbdCountEl = document.getElementById("tbd-toggle-count");
 const viewListBtn = document.getElementById("view-list");
 const viewCalendarBtn = document.getElementById("view-calendar");
+const viewMapBtn = document.getElementById("view-map");
 const lastUpdatedEl = document.getElementById("last-updated");
 const calMonthEl = document.getElementById("cal-month");
 const calDaysEl = document.getElementById("cal-days");
@@ -198,6 +201,7 @@ function applyFilters() {
     updateTBDCount(today);
     renderList();
     renderCalendar();
+    if (mapInstance) drawMap();
 }
 
 function updateTBDCount(today) {
@@ -550,6 +554,169 @@ function renderCalendar() {
     calDaysEl.innerHTML = html;
 }
 
+// --- Map view ---
+let leafletLoadPromise = null;
+let venueCoordsPromise = null;
+let venueCoords = null;
+let mapInstance = null;
+let mapMarkers = [];
+
+function loadLeaflet() {
+    if (window.L) return Promise.resolve();
+    if (leafletLoadPromise) return leafletLoadPromise;
+    leafletLoadPromise = new Promise((resolve, reject) => {
+        const s = document.createElement("script");
+        s.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+        s.integrity = "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=";
+        s.crossOrigin = "";
+        s.onload = () => resolve();
+        s.onerror = () => reject(new Error("Failed to load Leaflet"));
+        document.head.appendChild(s);
+    });
+    return leafletLoadPromise;
+}
+
+function loadVenueCoords() {
+    if (venueCoords) return Promise.resolve(venueCoords);
+    if (venueCoordsPromise) return venueCoordsPromise;
+    venueCoordsPromise = fetch("data/venues.json")
+        .then(r => (r.ok ? r.json() : {}))
+        .then(data => { venueCoords = data || {}; return venueCoords; })
+        .catch(() => { venueCoords = {}; return venueCoords; });
+    return venueCoordsPromise;
+}
+
+function venueKey(event) {
+    const addr = event.address || "";
+    if (!addr) return null;
+    return addr.replace(/&#8217;/g, "’").trim().replace(/  +/g, " ");
+}
+
+function groupEventsByVenue(events) {
+    const groups = {};
+    events.forEach(ev => {
+        const key = venueKey(ev);
+        if (!key) return;
+        if (!groups[key]) {
+            groups[key] = { key, address: ev.address, location: ev.location, events: [] };
+        }
+        groups[key].events.push(ev);
+    });
+    return Object.values(groups);
+}
+
+function renderMap() {
+    if (!mapNoteEl) return;
+    mapNoteEl.textContent = "Loading map…";
+    Promise.all([loadLeaflet(), loadVenueCoords()])
+        .then(drawMap)
+        .catch(err => {
+            mapNoteEl.textContent = `Could not load map: ${err.message}`;
+        });
+}
+
+function drawMap() {
+    if (!window.L) return;
+
+    if (!mapInstance) {
+        mapInstance = L.map("map", { scrollWheelZoom: false }).setView([37.5407, -77.436], 12);
+        L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+            maxZoom: 19,
+            subdomains: "abcd",
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+        }).addTo(mapInstance);
+    }
+
+    mapMarkers.forEach(m => mapInstance.removeLayer(m));
+    mapMarkers = [];
+
+    const groups = groupEventsByVenue(filteredDated);
+    const bounds = [];
+    const missing = [];
+
+    groups.forEach(group => {
+        const coords = venueCoords[group.key];
+        if (!coords || coords.lat == null || coords.lng == null) {
+            missing.push(group);
+            return;
+        }
+        const marker = L.marker([coords.lat, coords.lng]).addTo(mapInstance);
+        marker.bindPopup(buildVenuePopup(group), { maxWidth: 320, autoPan: true });
+        mapMarkers.push(marker);
+        bounds.push([coords.lat, coords.lng]);
+    });
+
+    if (bounds.length === 1) {
+        mapInstance.setView(bounds[0], 13);
+    } else if (bounds.length > 1) {
+        mapInstance.fitBounds(bounds, { padding: [40, 40], maxZoom: 13 });
+    }
+
+    const msg = [];
+    if (groups.length === 0) {
+        msg.push("No mappable events match your filters.");
+    } else if (bounds.length === 0) {
+        msg.push("None of the matching events have geocoded venues yet.");
+    } else if (missing.length > 0) {
+        const names = missing.map(g => g.location || g.address).join(", ");
+        msg.push(`${missing.length} venue(s) not yet on the map: ${names}`);
+    }
+    mapNoteEl.textContent = msg.join(" ");
+
+    setTimeout(() => mapInstance.invalidateSize(), 0);
+}
+
+function buildVenuePopup(group) {
+    const root = document.createElement("div");
+    root.className = "map-popup";
+
+    const heading = document.createElement("h4");
+    heading.className = "map-popup-title";
+    heading.textContent = group.location || group.address;
+    root.appendChild(heading);
+
+    if (group.address && group.location) {
+        const addr = document.createElement("div");
+        addr.className = "map-popup-address";
+        addr.textContent = group.address;
+        root.appendChild(addr);
+    }
+
+    const list = document.createElement("ul");
+    list.className = "map-popup-events";
+    group.events
+        .slice()
+        .sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0))
+        .slice(0, 6)
+        .forEach(ev => {
+            const li = document.createElement("li");
+            if (ev.tentative) li.classList.add("tentative");
+            const when = document.createElement("span");
+            when.className = "map-popup-when";
+            const dateObj = new Date(ev.date + "T12:00:00");
+            const dateStr = dateObj.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+            when.textContent = dateStr + (ev.startTime ? ` · ${formatTimeRange(ev.startTime, ev.endTime).split(" - ")[0]}` : "");
+            const titleNode = ev.url
+                ? Object.assign(document.createElement("a"), {
+                    href: ev.url, target: "_blank", rel: "noopener noreferrer", textContent: ev.title
+                })
+                : Object.assign(document.createElement("span"), { textContent: ev.title });
+            li.appendChild(when);
+            li.appendChild(document.createTextNode(" — "));
+            li.appendChild(titleNode);
+            list.appendChild(li);
+        });
+    root.appendChild(list);
+
+    if (group.events.length > 6) {
+        const more = document.createElement("div");
+        more.className = "map-popup-more";
+        more.textContent = `+ ${group.events.length - 6} more`;
+        root.appendChild(more);
+    }
+    return root;
+}
+
 filterCost.addEventListener("change", applyFilters);
 filterType.addEventListener("change", applyFilters);
 filterLocation.addEventListener("change", applyFilters);
@@ -562,23 +729,26 @@ if (filterTBD) {
     });
 }
 
-viewListBtn.addEventListener("click", () => {
-    viewListBtn.classList.add("active");
-    viewListBtn.setAttribute("aria-selected", "true");
-    viewCalendarBtn.classList.remove("active");
-    viewCalendarBtn.setAttribute("aria-selected", "false");
-    eventsList.classList.remove("hidden");
-    eventsCalendar.classList.add("hidden");
-});
+function setActiveView(view) {
+    const buttons = [
+        { btn: viewListBtn, panel: eventsList, name: "list" },
+        { btn: viewCalendarBtn, panel: eventsCalendar, name: "calendar" },
+        { btn: viewMapBtn, panel: eventsMap, name: "map" },
+    ];
+    buttons.forEach(({ btn, panel, name }) => {
+        const active = name === view;
+        if (btn) {
+            btn.classList.toggle("active", active);
+            btn.setAttribute("aria-selected", active ? "true" : "false");
+        }
+        if (panel) panel.classList.toggle("hidden", !active);
+    });
+    if (view === "map") renderMap();
+}
 
-viewCalendarBtn.addEventListener("click", () => {
-    viewCalendarBtn.classList.add("active");
-    viewCalendarBtn.setAttribute("aria-selected", "true");
-    viewListBtn.classList.remove("active");
-    viewListBtn.setAttribute("aria-selected", "false");
-    eventsCalendar.classList.remove("hidden");
-    eventsList.classList.add("hidden");
-});
+viewListBtn.addEventListener("click", () => setActiveView("list"));
+viewCalendarBtn.addEventListener("click", () => setActiveView("calendar"));
+if (viewMapBtn) viewMapBtn.addEventListener("click", () => setActiveView("map"));
 
 calPrevBtn.addEventListener("click", () => {
     currentMonth.setMonth(currentMonth.getMonth() - 1);

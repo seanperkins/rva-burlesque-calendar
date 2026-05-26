@@ -687,6 +687,132 @@ main {
     color: var(--accent);
 }
 
+/* Map view */
+.map-canvas {
+    height: 480px;
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--bg-soft);
+}
+
+.map-note {
+    margin-top: 0.6rem;
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    font-style: italic;
+    text-align: center;
+    min-height: 1.2em;
+}
+
+/* Leaflet overrides — keep popups on-brand */
+.leaflet-container {
+    background: var(--bg);
+    font-family: var(--sans);
+}
+
+.leaflet-container a {
+    color: var(--accent);
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    background: var(--card-bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+}
+
+.leaflet-popup-content {
+    margin: 0.85rem 1rem;
+}
+
+.leaflet-popup-close-button {
+    color: var(--text-muted) !important;
+    padding: 6px 8px !important;
+}
+
+.leaflet-popup-close-button:hover {
+    color: var(--accent) !important;
+}
+
+.leaflet-control-attribution {
+    background: rgba(36, 19, 24, 0.75) !important;
+    color: var(--text-muted) !important;
+}
+
+.leaflet-control-attribution a {
+    color: var(--accent);
+}
+
+.leaflet-control-zoom a {
+    background: var(--card-bg) !important;
+    color: var(--accent) !important;
+    border-color: var(--border) !important;
+}
+
+.leaflet-control-zoom a:hover {
+    background: var(--bg-soft) !important;
+}
+
+.map-popup-title {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1.05rem;
+    color: var(--accent);
+    margin-bottom: 0.25rem;
+}
+
+.map-popup-address {
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    margin-bottom: 0.5rem;
+}
+
+.map-popup-events {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.map-popup-events li {
+    font-size: 0.85rem;
+    padding: 0.25rem 0;
+    border-top: 1px solid var(--border);
+}
+
+.map-popup-events li:first-child {
+    border-top: 0;
+}
+
+.map-popup-events li.tentative {
+    opacity: 0.85;
+    font-style: italic;
+}
+
+.map-popup-when {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.map-popup-events a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.map-popup-events a:hover {
+    color: var(--accent);
+    text-decoration: underline;
+}
+
+.map-popup-more {
+    margin-top: 0.4rem;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    font-style: italic;
+    text-align: right;
+}
+
 /* Subscribe Section */
 .subscribe-section {
     background: linear-gradient(135deg, var(--card-bg) 0%, var(--bg-soft) 100%);

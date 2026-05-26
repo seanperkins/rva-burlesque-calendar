@@ -1,0 +1,62 @@
+{
+  "4811 Bethlehem Rd, Richmond, VA 23230": {
+    "location": "Blue Bee Cider",
+    "address": "4811 Bethlehem Rd, Richmond, VA 23230",
+    "lat": 37.5916736,
+    "lng": -77.4888639
+  },
+  "2113 E Main St, Richmond, VA 23223": {
+    "location": "Grandstaff & Stein",
+    "address": "2113 E Main St, Richmond, VA 23223",
+    "lat": 37.5308885,
+    "lng": -77.4245957
+  },
+  "2277 Dabney Rd, Richmond, VA 23230": {
+    "location": "Strangeways Brewing (Scott's Addition)",
+    "address": "2277 Dabney Rd, Richmond, VA 23230",
+    "lat": 37.5861641,
+    "lng": -77.4830479
+  },
+  "200 W Marshall St, Richmond, VA 23220": {
+    "location": "Gallery5",
+    "address": "200 W Marshall St, Richmond, VA 23220",
+    "lat": 37.5476996,
+    "lng": -77.4428649
+  },
+  "212 W 6th St, Richmond, VA 23224": {
+    "location": "Basic City Beer Co. (Southside)",
+    "address": "212 W 6th St, Richmond, VA 23224",
+    "lat": 37.5261395,
+    "lng": -77.4421982
+  },
+  "110 N 18th St, Richmond, VA 23223": {
+    "location": "DreamHaus RVA",
+    "address": "110 N 18th St, Richmond, VA 23223",
+    "lat": 37.5342474,
+    "lng": -77.4266549
+  },
+  "309 E Broad St, Richmond, VA 23219": {
+    "location": "Ember Music Hall",
+    "address": "309 E Broad St, Richmond, VA 23219",
+    "lat": 37.5436369,
+    "lng": -77.4390229
+  },
+  "1509B Belleville St, Richmond, VA 23230": {
+    "location": "The Veil Brewing Co. (Scott's Addition)",
+    "address": "1509B Belleville St, Richmond, VA 23230",
+    "lat": 37.5708871,
+    "lng": -77.4758958
+  },
+  "1609 W Broad St, Richmond, VA 23220": {
+    "location": "Firehouse Theatre",
+    "address": "1609 W Broad St, Richmond, VA 23220",
+    "lat": 37.5541592,
+    "lng": -77.4568289
+  },
+  "Richmond, VA": {
+    "location": "RVA Burlesque Festival (multiple venues)",
+    "address": "Richmond, VA",
+    "lat": 37.5385087,
+    "lng": -77.43428
+  }
+}
