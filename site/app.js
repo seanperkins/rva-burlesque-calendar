@@ -78,10 +78,28 @@ function populateLocationFilter() {
     });
 }
 
+const SUBSCRIBE_DISMISS_COOKIE = "rvaBurlesqueSubscribeDismissed";
+
+function setCookie(name, value, days) {
+    const expires = new Date(Date.now() + days * 86400000).toUTCString();
+    const secure = window.location.protocol === "https:" ? "; Secure" : "";
+    document.cookie = `${name}=${value}; expires=${expires}; path=/; SameSite=Lax${secure}`;
+}
+
+function getCookie(name) {
+    const match = document.cookie
+        .split("; ")
+        .find(row => row.startsWith(name + "="));
+    return match ? decodeURIComponent(match.split("=").slice(1).join("=")) : null;
+}
+
 function setupSubscribeLink() {
     const subscribeBtn = document.getElementById("subscribe-btn");
+    const headerSubscribeBtn = document.getElementById("header-subscribe-btn");
     const copyBtn = document.getElementById("copy-url-btn");
     const hint = document.getElementById("subscribe-hint");
+    const section = document.getElementById("subscribe-section");
+    const dismissBtn = document.getElementById("subscribe-dismiss");
 
     let basePath = window.location.pathname;
     if (basePath.endsWith("/")) {
@@ -93,6 +111,7 @@ function setupSubscribeLink() {
     const webcalUrl = calendarUrl.replace(/^https?:/, "webcal:");
 
     if (subscribeBtn) subscribeBtn.href = webcalUrl;
+    if (headerSubscribeBtn) headerSubscribeBtn.href = webcalUrl;
 
     if (copyBtn) {
         copyBtn.addEventListener("click", async () => {
@@ -106,6 +125,17 @@ function setupSubscribeLink() {
             }
             hint.textContent = calendarUrl;
             hint.style.color = "var(--text-muted)";
+        });
+    }
+
+    if (section && getCookie(SUBSCRIBE_DISMISS_COOKIE) === "1") {
+        section.classList.add("hidden");
+    }
+
+    if (dismissBtn && section) {
+        dismissBtn.addEventListener("click", () => {
+            section.classList.add("hidden");
+            setCookie(SUBSCRIBE_DISMISS_COOKIE, "1", 365);
         });
     }
 }
