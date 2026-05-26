@@ -34,6 +34,8 @@ const eventsCalendar = document.getElementById("events-calendar");
 const filterCost = document.getElementById("filter-cost");
 const filterType = document.getElementById("filter-type");
 const filterLocation = document.getElementById("filter-location");
+const filterTBD = document.getElementById("filter-tbd");
+const tbdCountEl = document.getElementById("tbd-toggle-count");
 const viewListBtn = document.getElementById("view-list");
 const viewCalendarBtn = document.getElementById("view-calendar");
 const lastUpdatedEl = document.getElementById("last-updated");
@@ -41,6 +43,22 @@ const calMonthEl = document.getElementById("cal-month");
 const calDaysEl = document.getElementById("cal-days");
 const calPrevBtn = document.getElementById("cal-prev");
 const calNextBtn = document.getElementById("cal-next");
+
+const TBD_PREF_KEY = "rvaBurlesqueShowTBD";
+
+function loadTBDPref() {
+    try {
+        return localStorage.getItem(TBD_PREF_KEY) === "1";
+    } catch (e) {
+        return false;
+    }
+}
+
+function saveTBDPref(show) {
+    try {
+        localStorage.setItem(TBD_PREF_KEY, show ? "1" : "0");
+    } catch (e) { /* ignore */ }
+}
 
 async function init() {
     try {
@@ -140,10 +158,13 @@ function setupSubscribeLink() {
     }
 }
 
-function eventMatchesFilters(event) {
+function eventMatchesFilters(event, { ignoreTentative = false } = {}) {
     const costFilter = filterCost.value;
     const typeFilter = filterType.value;
     const locationFilter = filterLocation.value;
+    const showTBD = filterTBD && filterTBD.checked;
+
+    if (!ignoreTentative && !showTBD && event.tentative) return false;
 
     const costText = event.cost ? String(event.cost).toLowerCase() : "";
     const isFreeEvent = event.costValue === 0 || costText.includes("free");
@@ -174,8 +195,24 @@ function applyFilters() {
     filteredTBA = tbaEvents.filter(eventMatchesFilters);
     filteredTBA.sort((a, b) => (a.expectedMonth || "").localeCompare(b.expectedMonth || ""));
 
+    updateTBDCount(today);
     renderList();
     renderCalendar();
+}
+
+function updateTBDCount(today) {
+    if (!tbdCountEl) return;
+    if (filterTBD && filterTBD.checked) {
+        tbdCountEl.textContent = "";
+        return;
+    }
+    const hidden = datedEvents.filter(event => {
+        const endRef = event.endDate || event.date;
+        if (endRef < today) return false;
+        if (!event.tentative) return false;
+        return eventMatchesFilters(event, { ignoreTentative: true });
+    }).length;
+    tbdCountEl.textContent = hidden > 0 ? `${hidden} hidden` : "";
 }
 
 function formatTimeRange(start, end) {
@@ -516,6 +553,14 @@ function renderCalendar() {
 filterCost.addEventListener("change", applyFilters);
 filterType.addEventListener("change", applyFilters);
 filterLocation.addEventListener("change", applyFilters);
+
+if (filterTBD) {
+    filterTBD.checked = loadTBDPref();
+    filterTBD.addEventListener("change", () => {
+        saveTBDPref(filterTBD.checked);
+        applyFilters();
+    });
+}
 
 viewListBtn.addEventListener("click", () => {
     viewListBtn.classList.add("active");

@@ -229,6 +229,92 @@ main {
     color: var(--accent-hover);
 }
 
+/* TBD toggle */
+.tbd-toggle-row {
+    margin: -0.25rem 0 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tbd-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.4rem 0.7rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    user-select: none;
+    transition: border-color 0.15s, color 0.15s;
+}
+
+.tbd-toggle:hover {
+    border-color: var(--accent);
+    color: var(--text);
+}
+
+.tbd-toggle input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+    pointer-events: none;
+}
+
+.tbd-toggle-slot {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 16px;
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    transition: background 0.15s, border-color 0.15s;
+}
+
+.tbd-toggle-knob {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--text-muted);
+    transition: transform 0.18s ease, background 0.15s;
+}
+
+.tbd-toggle input:checked ~ .tbd-toggle-slot {
+    background: var(--wine);
+    border-color: var(--accent);
+}
+
+.tbd-toggle input:checked ~ .tbd-toggle-slot .tbd-toggle-knob {
+    background: var(--accent);
+    transform: translateX(14px);
+}
+
+.tbd-toggle input:focus-visible ~ .tbd-toggle-slot {
+    box-shadow: 0 0 0 2px rgba(212, 165, 116, 0.4);
+}
+
+.tbd-toggle-label strong {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.tbd-toggle-count {
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.tbd-toggle-count:not(:empty)::before {
+    content: "· ";
+    margin-right: 0.15rem;
+}
+
 /* Events Container */
 .events-container {
     min-height: 200px;

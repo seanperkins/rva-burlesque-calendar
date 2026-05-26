@@ -128,6 +128,17 @@
             </div>
         </section>
 
+        <section class="tbd-toggle-row" aria-label="Tentative date filter">
+            <label class="tbd-toggle">
+                <input type="checkbox" id="filter-tbd">
+                <span class="tbd-toggle-slot" aria-hidden="true">
+                    <span class="tbd-toggle-knob"></span>
+                </span>
+                <span class="tbd-toggle-label">Show <strong>[TBD]</strong> dates</span>
+                <span class="tbd-toggle-count" id="tbd-toggle-count" aria-live="polite"></span>
+            </label>
+        </section>
+
         <section id="events-list" class="events-container" role="tabpanel" aria-live="polite">
             <p class="loading">Loading shows...</p>
         </section>
