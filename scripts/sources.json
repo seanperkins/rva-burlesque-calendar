@@ -4,16 +4,21 @@
     "url": "https://gallery5arts.org/calendar",
     "location": "Gallery5",
     "address": "200 W Marshall St, Richmond, VA 23220",
-    "defaultTags": ["variety"],
+    "defaultTags": [
+      "variety"
+    ],
     "cacheTtlHours": 72,
-    "extraInstructions": "Look for ANY events tagged as burlesque, cabaret, or variety shows. Gallery5 typically runs a burlesque night on the 3rd Saturday of each month, but they also host one-off troupe productions (Afrotease, Nu Caldonia Rodeo, Immodest Opulence, RadQueer, Poppy la Fae, etc.). Extract real announced dates only — do not extrapolate the recurring pattern."
+    "extraInstructions": "Look for ANY events tagged as burlesque, cabaret, or variety shows. Gallery5 typically runs a burlesque night on the 3rd Saturday of each month, but they also host one-off troupe productions (Afrotease, Nu Caldonia Rodeo, Immodest Opulence, RadQueer, Poppy la Fae, etc.). Extract real announced dates only \u2014 do not extrapolate the recurring pattern."
   },
   {
     "id": "burlesque-right-meow",
     "url": "https://burlesquerightmeow.ticketspice.com/",
     "location": "Burlesque Right Meow",
     "address": "Richmond, VA",
-    "defaultTags": ["immersive", "adult"],
+    "defaultTags": [
+      "immersive",
+      "adult"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "Burlesque Right Meow (BRM) produces multiple recurring series. Look for ticketed events on Ticketspice including: Pours and Pasties at Strangeways (Scott's Addition), Under The Veil at The Veil Brewing (Scott's Addition), Reveal Revue at Basic City, Baddies With Saddies / Dazzling Debuts / Nerdy Nights at Firehouse Theatre. For each event: capture venue, date, time, ticket URL. Also check https://www.scarletstarletrva.com/brmshows for the full BRM schedule."
   },
@@ -22,7 +27,10 @@
     "url": "https://embermusichall.com/events/category/series/burlesque-shows/ember-music-hall/richmond-virginia/",
     "location": "Ember Music Hall",
     "address": "309 E Broad St, Richmond, VA 23219",
-    "defaultTags": ["themed", "adult"],
+    "defaultTags": [
+      "themed",
+      "adult"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "18+ themed burlesque tribute series. Look for show titles, dates, times, and ticket links. Past examples: 'It's Britney B*tch Burlesque', 'Lip Sync Battle Burlesque', 'Liver Alone' (Scream tribute), 'Clothes/Off 2'."
   },
@@ -31,16 +39,20 @@
     "url": "https://elliequinnpresents.square.site/",
     "location": "Ellie Quinn Presents",
     "address": "Richmond, VA",
-    "defaultTags": ["recurring"],
+    "defaultTags": [
+      "recurring"
+    ],
     "cacheTtlHours": 72,
-    "extraInstructions": "Ellie Quinn Presents produces three recurring shows: (1) Nerdlesque brunch at Grandstaff & Stein (2113 E Main St) on the 1st Sunday monthly; (2) Burlesque Bingo at Basic City Beer Southside (212 W 6th St) on the 4th Friday monthly; (3) RVA Burlesque Bingo at Blue Bee Cider (4811 Bethlehem Rd). Pull dates as announced — do not extrapolate."
+    "extraInstructions": "Ellie Quinn Presents produces three recurring shows: (1) Nerdlesque brunch at Grandstaff & Stein (2113 E Main St) on the 1st Sunday monthly; (2) Burlesque Bingo at Basic City Beer Southside (212 W 6th St) on the 4th Friday monthly; (3) RVA Burlesque Bingo at Blue Bee Cider (4811 Bethlehem Rd). Pull dates as announced \u2014 do not extrapolate."
   },
   {
     "id": "blue-bee",
     "url": "https://www.bluebeecider.com/events",
     "location": "Blue Bee Cider",
     "address": "4811 Bethlehem Rd, Richmond, VA 23230",
-    "defaultTags": ["variety"],
+    "defaultTags": [
+      "variety"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "Look for burlesque, cabaret, or pasties-related events. Recurring shows include 'Orchard After Dark' and 'RVA Burlesque Bingo'. Also check https://www.visitrichmondva.com/event/?search=burlesque for any Blue Bee listings."
   },
@@ -49,7 +61,10 @@
     "url": "https://www.firehousetheatre.org/events",
     "location": "Firehouse Theatre",
     "address": "1609 W Broad St, Richmond, VA 23220",
-    "defaultTags": ["themed", "adult"],
+    "defaultTags": [
+      "themed",
+      "adult"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "Firehouse hosts Burlesque Right Meow themed productions through Firehouse Fringe and similar programming. Look for any event titles containing burlesque, cabaret, variety, or BRM show names."
   },
@@ -58,7 +73,11 @@
     "url": "https://burlesquerightmeow.ticketspice.com/undertheveil",
     "location": "The Veil Brewing Co. (Scott's Addition)",
     "address": "1509B Belleville St, Richmond, VA 23230",
-    "defaultTags": ["immersive", "recurring", "adult"],
+    "defaultTags": [
+      "immersive",
+      "recurring",
+      "adult"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "Under The Veil is a recurring in-the-round burlesque show by Burlesque Right Meow at Veil Brewing. Tickets via Ticketspice. Pull only announced dates."
   },
@@ -67,7 +86,9 @@
     "url": "https://basiccityrva.com/",
     "location": "Basic City Beer Co. (Southside)",
     "address": "212 W 6th St, Richmond, VA 23224",
-    "defaultTags": ["variety"],
+    "defaultTags": [
+      "variety"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "Look for burlesque-related events including the Reveal Revue (by Burlesque Right Meow) and Burlesque Bingo (by Ellie Quinn). The bingo is the 4th Friday monthly but pull only announced dates."
   },
@@ -76,25 +97,32 @@
     "url": "https://www.instagram.com/dreamhausrva/",
     "location": "DreamHaus RVA",
     "address": "110 N 18th St, Richmond, VA 23223",
-    "defaultTags": ["variety", "recurring"],
+    "defaultTags": [
+      "variety",
+      "recurring"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "New cabaret/burlesque/circus/drag venue in Shockoe Bottom that opened December 2025. Their Full Moon Fest series happens around each full moon. Instagram posts and stories typically list upcoming dates; also check https://www.dreamerfxstudios.com/ if linked."
   },
   {
     "id": "reveler",
     "url": "https://www.revelerexperiences.com/events",
-    "location": "Révéler Experiences",
+    "location": "R\u00e9v\u00e9ler Experiences",
     "address": "3108 W Cary St, Richmond, VA 23221",
-    "defaultTags": ["variety"],
+    "defaultTags": [
+      "variety"
+    ],
     "cacheTtlHours": 72,
-    "extraInstructions": "Carytown cabaret venue that hosts Révéler Cabaret variety nights (jazz + burlesque + magic + drag) and occasional 'Boleros + Burlesque' benefit shows. Look for any burlesque-tagged events."
+    "extraInstructions": "Carytown cabaret venue that hosts R\u00e9v\u00e9ler Cabaret variety nights (jazz + burlesque + magic + drag) and occasional 'Boleros + Burlesque' benefit shows. Look for any burlesque-tagged events."
   },
   {
     "id": "crescent-collective",
     "url": "https://www.rvacrescentcollective.com/events",
     "location": "Crescent Collective",
     "address": "1800 Decatur St, Richmond, VA 23224",
-    "defaultTags": ["variety"],
+    "defaultTags": [
+      "variety"
+    ],
     "cacheTtlHours": 72,
     "extraInstructions": "Queer-focused rental venue that hosts Pink Faerie Productions and other independent burlesque shows. Look for any burlesque/cabaret-tagged events."
   },
@@ -103,8 +131,68 @@
     "url": "https://rvaburlesquefestival.com/",
     "location": "RVA Burlesque Festival",
     "address": "Richmond, VA",
-    "defaultTags": ["festival", "adult"],
+    "defaultTags": [
+      "festival",
+      "adult"
+    ],
     "cacheTtlHours": 168,
     "extraInstructions": "Annual multi-day burlesque festival, currently slated for early November. Capture the festival dates, ticket links, and any satellite events at specific venues."
+  },
+  {
+    "id": "sparkdazzle-entertainment",
+    "url": "https://www.eventbrite.com/o/sparkdazzle-entertainment-59535017183",
+    "location": "SparkDazzle Entertainment",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety",
+      "adult"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond-based burlesque production duo (Santobella Spark & Darshe Dazzles). They produce themed shows under rotating titles: Soul Train Burlesque Experience, XoXOhhh! at The Moxy, Spooky-ish at The Moxy, Rootin' For Everybody Black, Rock vs. Rap Burlesque. Shows rotate between Gallery5, The Basement, and Moxy Richmond Downtown. Capture event title, date, venue, and ticket URL. Also cross-check Instagram @sparkdazzle_ent and @rvaburlesque for unticket announcements."
+  },
+  {
+    "id": "richmond-triangle-players",
+    "url": "https://rtriangle.org/productions/",
+    "location": "Richmond Triangle Players (Robert B. Moss Theatre)",
+    "address": "1300 Altamont Ave, Richmond, VA 23230",
+    "defaultTags": [
+      "variety",
+      "recurring"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "LGBTQ+ professional theatre company producing 4 cabaret shows and 4 mainstage shows per season, plus occasional burlesque productions (e.g. Black Burlesque). Look for any production or cabaret event title containing burlesque, cabaret, variety, or adult-themed performance. The venue has cabaret-style seating and a bar."
+  },
+  {
+    "id": "the-basement-rva",
+    "url": "https://www.thebasementrva.org/events",
+    "location": "The Basement RVA",
+    "address": "300 E Broad St, Richmond, VA 23219",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Nonprofit arts venue in downtown Richmond's Arts District focused on amplifying POC and queer artists. Hosted SparkDazzle Entertainment's burlesque shows and historically Butchertown Burlesque. Look for any event tagged or titled with burlesque, cabaret, pasties, variety, or adult performance."
+  },
+  {
+    "id": "virginia-burlesque",
+    "url": "https://www.virginiaburlesque.com/producers",
+    "location": "Virginia Burlesque (Producer Directory)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 336,
+    "extraInstructions": "Virginia-wide burlesque producer and performer directory. Scan for any Richmond-area producers or troupes listed that are not already in our source list (e.g. Empress de Naste / Immodest Opulence, SparkDazzle, Afrotease). Use new names found here to search for their own event pages rather than scraping events from this directory directly."
+  },
+  {
+    "id": "outrva",
+    "url": "https://outrva.com/events",
+    "location": "OutRVA (LGBTQ+ Event Aggregator)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "LGBTQ+ tourism events calendar operated by Richmond Region Tourism. Regularly lists RVA burlesque, cabaret, and variety shows \u2014 including one-off productions from independent producers that may not have their own event pages. Search or filter for burlesque/cabaret/pasties. Good for catching shows from queer-focused troupes not tracked elsewhere."
   }
 ]
