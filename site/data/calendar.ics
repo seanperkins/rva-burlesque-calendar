@@ -6,74 +6,197 @@ METHOD:PUBLISH
 X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
-UID:2026-06-06-2000-blue-bee@rvaburlesque
-DTSTAMP:20260526T185542Z
+UID:2026-06-05-0000-burlesque-right-meow@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Pours and Pasties FXBG: Burlesque and Variety Show
+LOCATION:Strangeways Brewing Fredericksburg\, 3009 Plank Rd\, Fredericksbur
+ g\, VA 22407
+DESCRIPTION:Pours and Pasties Burlesque & Variety Show returns to Strangewa
+ ys Brewing Fredericksburg with a lineup that's equal parts fierce\, funny\
+ , and unforgettable.\n\nInfo: https://www.tickettailor.com/events/burlesqu
+ erightmeowllc/2178246
+URL:https://www.tickettailor.com/events/burlesquerightmeowllc/2178246
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-2000-ellie-quinn@rvaburlesque
+DTSTAMP:20260602T123100Z
 DTSTART:20260606T200000
-DTEND:20260606T213000
-SUMMARY:Orchard After Dark
-LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA 23230
-DESCRIPTION:Sultry\, fairy-lit burlesque experience set in an enchanted orc
- hard. 18+. Performers: Bunny Noir\, Empress de Naste\, Luna LaMorgue\, Ven
- essa Chevelle.\n\nCost: $20\n\nInfo: https://www.visitrichmondva.com/event
- /orchard-after-dark/49648/
-URL:https://www.visitrichmondva.com/event/orchard-after-dark/49648/
+DTEND:20260606T220000
+SUMMARY:Orchard After Dark 6/6
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
+DESCRIPTION:A sultry\, whimsical burlesque fantasy set in an enchanted orch
+ ard at Blue Bee Cider. Doors 7:30 PM\, show 8:00 PM. 18+.\n\nCost: $21.00\
+ n\nInfo: https://elliequinnpresents.square.site/product/orchard-after-dark
+ -6-6/KZIMQCURSKPH4QHKCWSXEWYX
+URL:https://elliequinnpresents.square.site/product/orchard-after-dark-6-6/KZIMQCURSKPH4QHKCWSXEWYX
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-06-2000-ember@rvaburlesque
-DTSTAMP:20260526T185542Z
-DTSTART:20260706T200000
-DTEND:20260706T223000
-SUMMARY:It's Britney B*tch Burlesque
-LOCATION:Ember Music Hall\, 309 E Broad St\, Richmond\, VA 23219
-DESCRIPTION:18+ themed burlesque series at Ember Music Hall. Final schedule
- d date of the run.\n\nInfo: https://embermusichall.com/events/category/ser
- ies/burlesque-shows/ember-music-hall/richmond-virginia/
-URL:https://embermusichall.com/events/category/series/burlesque-shows/ember-music-hall/richmond-virginia/
+UID:2026-06-11-2000-gallery5@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260611T200000
+DTEND:20260611T230000
+SUMMARY:Nerdy Thirsty Thursdays
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Bi-monthly nerdlesque night featuring pop-up burlesque performe
+ rs from across the DMV\, Jackbox games with prizes\, trading cards\, and a
+ nime merch.\n\nInfo: https://gallery5arts.org/calendar/2026/1/20/nerdy-thi
+ rsty-thursdays-june
+URL:https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-june
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-12-2000-ember@rvaburlesque
-DTSTAMP:20260526T185542Z
-DTSTART:20260712T200000
-DTEND:20260712T223000
-SUMMARY:Lip Sync Battle Burlesque — 10th Anniversary
-LOCATION:Ember Music Hall\, 309 E Broad St\, Richmond\, VA 23219
-DESCRIPTION:10th anniversary of Ember Music Hall's Lip Sync Battle Burlesqu
- e show.\n\nInfo: https://embermusichall.com/
-URL:https://embermusichall.com/
+UID:2026-06-13-1900-dreamhaus@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260613T190000
+DTEND:20260613T000000
+SUMMARY:Gemini Music Video Release Party!
+LOCATION:DreamHaus\, 110 N 18th St\, Richmond\, VA 23223
+DESCRIPTION:Intimate cabaret night premiering Goldii's music video "Gemini"
+  with drag by Zorro Nova\, live music from MADS\, and burlesque by Empress
+  de Naste\, followed by an afterparty set by The Disco Cat. 21+ only.\n\nC
+ ost: $20\n\nInfo: https://www.dreamerfxstudios.com/event-details-registrat
+ ion/gemini-music-video-release-party
+URL:https://www.dreamerfxstudios.com/event-details-registration/gemini-music-video-release-party
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-04-2000-ember@rvaburlesque
-DTSTAMP:20260526T185542Z
-DTSTART:20261004T200000
-DTEND:20261004T223000
-SUMMARY:Liver Alone: A Burlesque Reimagining of Scream
-LOCATION:Ember Music Hall\, 309 E Broad St\, Richmond\, VA 23219
-DESCRIPTION:Burlesque reimagining of the Scream films at Ember Music Hall. 
- Matinee and evening shows on the same day\; evening time listed here.\n\nI
- nfo: https://embermusichall.com/
-URL:https://embermusichall.com/
+UID:2026-06-14-2000-ellie-quinn@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260614T200000
+DTEND:20260614T220000
+SUMMARY:Orchard After Dark 6/14
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
+DESCRIPTION:Second night of the Orchard After Dark burlesque fantasy series
+  at Blue Bee Cider\, featuring a different cast with an interconnected sto
+ ry. Doors 7:30 PM\, show 8:00 PM. 18+.\n\nCost: $26.25\n\nInfo: https://el
+ liequinnpresents.square.site/product/orchard-after-dark-6-14/145
+URL:https://elliequinnpresents.square.site/product/orchard-after-dark-6-14/145
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-1300-gallery5@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260620T130000
+DTEND:20260620T230000
+SUMMARY:QUEER ALL WEEKEND! @ GALLERY5
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Two-day queer arts festival featuring Poppy la Fae and a roster
+  of variety performers\, with live music\, a trans vision board art instal
+ lation\, and an end-of-night dance party.\n\nInfo: https://gallery5arts.or
+ g/calendar/2026/6/20/queer-all-weekend-gallery5
+URL:https://gallery5arts.org/calendar/2026/6/20/queer-all-weekend-gallery5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-1900-outrva@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260620T190000
+DTEND:20260620T220000
+SUMMARY:Queer All Weekend @ Gallery5 — Burlesque & Variety Show
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Part of the 4th Annual Gay All Day! Fest and inaugural Trans Al
+ l Night! event\, featuring a full day of queer community programming. The 
+ evening Burlesque & Variety Show (7–10 PM) is described as 'not for the ki
+ ddos.'\n\nInfo: https://www.eventbrite.com/e/queer-all-weekend-tickets-197
+ 4937161213
+URL:https://www.eventbrite.com/e/queer-all-weekend-tickets-1974937161213
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-0000-burlesque-right-meow@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Pours and Pasties: Burlesque and Variety Show
+LOCATION:Strangeways Brewing - Scott's Addition\, 3202 W Leigh St\, Richmon
+ d\, VA 23230
+DESCRIPTION:Pours and Pasties is back at Strangeways Brewing in Scott's Add
+ ition for a wild night of glitter\, giggles\, and tantalizing talent.\n\nI
+ nfo: https://buytickets.at/burlesquerightmeowllc/2230531
+URL:https://buytickets.at/burlesquerightmeowllc/2230531
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-2000-basic-city@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260627T200000
+DTEND:20260627T220000
+SUMMARY:Masquerade Ball Burlesque and Drag Show
+LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
+DESCRIPTION:A masquerade ball-themed burlesque and drag show at Basic City 
+ RVA craft beer and pizza venue in Richmond's Manchester neighborhood.\n\nI
+ nfo: https://basiccityrva.com/events/
+URL:https://basiccityrva.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-13-2000-gallery5@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20260813T200000
+DTEND:20260813T230000
+SUMMARY:Nerdy Thirsty Thursdays
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Bi-monthly nerdlesque night featuring pop-up burlesque performe
+ rs from across the DMV\, Jackbox games with prizes\, trading cards\, and a
+ nime merch.\n\nInfo: https://gallery5arts.org/calendar/2026/1/20/nerdy-thi
+ rsty-thursdays-august
+URL:https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-august
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-2000-gallery5@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20261008T200000
+DTEND:20261008T230000
+SUMMARY:Nerdy Thirsty Thursdays
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Bi-monthly nerdlesque night featuring pop-up burlesque performe
+ rs from across the DMV\, Jackbox games with prizes\, trading cards\, and a
+ nime merch.\n\nInfo: https://gallery5arts.org/calendar/2026/1/20/nerdy-thi
+ rsty-thursdays-october
+URL:https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-october
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260526T185542Z
+DTSTAMP:20260602T123100Z
 DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261108
-SUMMARY:RVA Burlesque Festival
-LOCATION:RVA Burlesque Festival (multiple venues)\, Richmond\, VA
-DESCRIPTION:The major annual multi-day burlesque festival. Applications ope
- ned in spring\; ticket info on the festival site.\n\nInfo: https://rvaburl
- esquefestival.com/
-URL:https://rvaburlesquefestival.com/
+DTEND;VALUE=DATE:20261106
+SUMMARY:RVA Burlesque Festival 2026
+LOCATION:Richmond\, VA
+DESCRIPTION:Annual multi-day burlesque festival in Richmond\, VA running No
+ vember 5th–7th\, 2026. Tickets not yet on sale.\n\nInfo: https://rvaburles
+ quefestival.com/tickets
+URL:https://rvaburlesquefestival.com/tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-29-2000-ember@rvaburlesque
-DTSTAMP:20260526T185542Z
-DTSTART:20261129T200000
-DTEND:20261129T223000
-SUMMARY:Clothes/Off 2: Cagier & Uncaged
-LOCATION:Ember Music Hall\, 309 E Broad St\, Richmond\, VA 23219
-DESCRIPTION:Themed burlesque show at Ember Music Hall.\n\nInfo: https://emb
- ermusichall.com/
-URL:https://embermusichall.com/
+UID:2026-11-06-0000-rva-burlesque-festival@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:RVA Burlesque Festival 2026
+LOCATION:Richmond\, VA
+DESCRIPTION:Annual multi-day burlesque festival in Richmond\, VA running No
+ vember 5th–7th\, 2026. Tickets not yet on sale.\n\nInfo: https://rvaburles
+ quefestival.com/tickets
+URL:https://rvaburlesquefestival.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-0000-rva-burlesque-festival@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:RVA Burlesque Festival 2026
+LOCATION:Richmond\, VA
+DESCRIPTION:Annual multi-day burlesque festival in Richmond\, VA running No
+ vember 5th–7th\, 2026. Tickets not yet on sale.\n\nInfo: https://rvaburles
+ quefestival.com/tickets
+URL:https://rvaburlesquefestival.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-2000-gallery5@rvaburlesque
+DTSTAMP:20260602T123100Z
+DTSTART:20261210T200000
+DTEND:20261210T230000
+SUMMARY:Nerdy Thirsty Thursdays
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Bi-monthly nerdlesque night featuring pop-up burlesque performe
+ rs from across the DMV\, Jackbox games with prizes\, trading cards\, and a
+ nime merch.\n\nInfo: https://gallery5arts.org/calendar/2026/1/20/nerdy-thi
+ rsty-thursdays-december
+URL:https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-december
 END:VEVENT
 END:VCALENDAR
