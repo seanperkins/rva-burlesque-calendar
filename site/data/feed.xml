@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Tue, 02 Jun 2026 12:30:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 12:00:01 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>Pours and Pasties FXBG: Burlesque and Variety Show</title>
