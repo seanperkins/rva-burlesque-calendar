@@ -151,18 +151,6 @@
     "extraInstructions": "Richmond-based burlesque production duo (Santobella Spark & Darshe Dazzles). They produce themed shows under rotating titles: Soul Train Burlesque Experience, XoXOhhh! at The Moxy, Spooky-ish at The Moxy, Rootin' For Everybody Black, Rock vs. Rap Burlesque. Shows rotate between Gallery5, The Basement, and Moxy Richmond Downtown. Capture event title, date, venue, and ticket URL. Also cross-check Instagram @sparkdazzle_ent and @rvaburlesque for unticket announcements."
   },
   {
-    "id": "richmond-triangle-players",
-    "url": "https://rtriangle.org/productions/",
-    "location": "Richmond Triangle Players (Robert B. Moss Theatre)",
-    "address": "1300 Altamont Ave, Richmond, VA 23230",
-    "defaultTags": [
-      "variety",
-      "recurring"
-    ],
-    "cacheTtlHours": 168,
-    "extraInstructions": "LGBTQ+ professional theatre company producing 4 cabaret shows and 4 mainstage shows per season, plus occasional burlesque productions (e.g. Black Burlesque). Look for any production or cabaret event title containing burlesque, cabaret, variety, or adult-themed performance. The venue has cabaret-style seating and a bar."
-  },
-  {
     "id": "the-basement-rva",
     "url": "https://www.thebasementrva.org/events",
     "location": "The Basement RVA",

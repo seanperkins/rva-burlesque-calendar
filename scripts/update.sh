@@ -18,6 +18,8 @@ source "$SCRIPT_DIR/notify.sh"
 
 cleanup() {
     rm -f "$DATA_FILE.tmp" "$LOCK_FILE"
+    # Scraper subprocesses leave the agent-browser daemon + headless Chromium running
+    command -v agent-browser >/dev/null 2>&1 && agent-browser close >/dev/null 2>&1 || true
 }
 trap cleanup EXIT
 
