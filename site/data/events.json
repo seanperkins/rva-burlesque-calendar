@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T12:41:46Z",
+  "lastUpdated": "2026-06-12T12:40:40Z",
   "events": [
     {
       "source": "veil-brewing",
@@ -20,28 +20,6 @@
       ],
       "status": "confirmed",
       "registrationStatus": "closed",
-      "instructor": null
-    },
-    {
-      "source": "gallery5",
-      "sourceUrl": "https://gallery5arts.org/calendar",
-      "title": "Nerdy Thirsty Thursdays",
-      "date": "2026-06-11",
-      "startTime": "20:00",
-      "endTime": "23:00",
-      "location": "Gallery5",
-      "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "$10 adv / $14 dos",
-      "costValue": 10.0,
-      "url": "https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979940217489",
-      "description": "A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.",
-      "tags": [
-        "variety",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
       "instructor": null
     },
     {
@@ -71,14 +49,14 @@
       "sourceUrl": "https://gallery5arts.org/calendar",
       "title": "GAY ALL DAY! Burlesque & Variety Show",
       "date": "2026-06-20",
-      "startTime": "19:00",
+      "startTime": "20:00",
       "endTime": "22:00",
       "location": "Gallery5",
       "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "$10-25",
+      "cost": "$10-25 sliding scale",
       "costValue": 10.0,
       "url": "https://www.eventbrite.com/e/queer-all-weekend-tickets-1974937161213",
-      "description": "The 4th Annual Gay All Day Burlesque & Variety Show features a lineup of queer performers including Poppy la Fae, Gordita Maricona, Jo'Rie Tigerlily, and others, hosted by Zorro Nova with kitten Vulveeta and gogo D3ADP4NN. 18+ ticketed event on a sliding scale.",
+      "description": "The 4th annual Gay All Day burlesque & variety show featuring Bert Shaffer, Gordita Maricona, Jo'Rie Tigerlily, Mary Muse, Mx. Casey Camp, Poppy la Fae, Red Herring, Royalty Resignz, and Venessa Chevelle. 18+ ticketed event hosted by Zorro Nova, part of Queer All Weekend at Gallery5.",
       "tags": [
         "variety",
         "adult",
@@ -246,28 +224,6 @@
       "instructor": null
     },
     {
-      "source": "gallery5",
-      "sourceUrl": "https://gallery5arts.org/calendar",
-      "title": "Nerdy Thirsty Thursdays",
-      "date": "2026-08-13",
-      "startTime": "20:00",
-      "endTime": "23:00",
-      "location": "Gallery5",
-      "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "$10 adv / $14 dos",
-      "costValue": 10.0,
-      "url": "https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979940218492",
-      "description": "A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.",
-      "tags": [
-        "variety",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
       "source": "ellie-quinn",
       "sourceUrl": "https://elliequinnpresents.square.site/",
       "title": "RVA Burlesque Bingo 9/4",
@@ -290,28 +246,6 @@
       "instructor": null
     },
     {
-      "source": "gallery5",
-      "sourceUrl": "https://gallery5arts.org/calendar",
-      "title": "Nerdy Thirsty Thursdays",
-      "date": "2026-10-08",
-      "startTime": "20:00",
-      "endTime": "23:00",
-      "location": "Gallery5",
-      "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "$10 adv / $14 dos",
-      "costValue": 10.0,
-      "url": "https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223",
-      "description": "A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.",
-      "tags": [
-        "variety",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
       "source": "rva-burlesque-festival",
       "sourceUrl": "https://rvaburlesquefestival.com/",
       "title": "RVA Burlesque Festival 2026",
@@ -323,7 +257,7 @@
       "cost": "",
       "costValue": null,
       "url": "https://rvaburlesquefestival.com/tickets",
-      "description": "Annual multi-day burlesque festival in Richmond, VA running November 5th\u20137th, 2026. Tickets not yet on sale.",
+      "description": "Annual multi-day burlesque festival celebrating the art of burlesque through artistic expression, diversity, and empowerment. Runs November 5\u20137, 2026.",
       "tags": [
         "festival",
         "variety",
@@ -336,7 +270,7 @@
     {
       "source": "rva-burlesque-festival",
       "sourceUrl": "https://rvaburlesquefestival.com/",
-      "title": "RVA Burlesque Festival 2026",
+      "title": "RVA Burlesque Festival 2026 \u2014 Day 2",
       "date": "2026-11-06",
       "startTime": null,
       "endTime": null,
@@ -345,7 +279,7 @@
       "cost": "",
       "costValue": null,
       "url": "https://rvaburlesquefestival.com/tickets",
-      "description": "Annual multi-day burlesque festival in Richmond, VA running November 5th\u20137th, 2026. Tickets not yet on sale.",
+      "description": "Annual multi-day burlesque festival celebrating the art of burlesque through artistic expression, diversity, and empowerment. Runs November 5\u20137, 2026.",
       "tags": [
         "festival",
         "variety",
@@ -358,7 +292,7 @@
     {
       "source": "rva-burlesque-festival",
       "sourceUrl": "https://rvaburlesquefestival.com/",
-      "title": "RVA Burlesque Festival 2026",
+      "title": "RVA Burlesque Festival 2026 \u2014 Day 3",
       "date": "2026-11-07",
       "startTime": null,
       "endTime": null,
@@ -367,7 +301,7 @@
       "cost": "",
       "costValue": null,
       "url": "https://rvaburlesquefestival.com/tickets",
-      "description": "Annual multi-day burlesque festival in Richmond, VA running November 5th\u20137th, 2026. Tickets not yet on sale.",
+      "description": "Annual multi-day burlesque festival celebrating the art of burlesque through artistic expression, diversity, and empowerment. Runs November 5\u20137, 2026.",
       "tags": [
         "festival",
         "variety",
@@ -375,28 +309,6 @@
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
-      "instructor": null
-    },
-    {
-      "source": "gallery5",
-      "sourceUrl": "https://gallery5arts.org/calendar",
-      "title": "Nerdy Thirsty Thursdays",
-      "date": "2026-12-10",
-      "startTime": "20:00",
-      "endTime": "23:00",
-      "location": "Gallery5",
-      "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "$10 adv / $14 dos",
-      "costValue": 10.0,
-      "url": "https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223",
-      "description": "A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.",
-      "tags": [
-        "variety",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
       "instructor": null
     }
   ]

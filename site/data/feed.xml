@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Tue, 09 Jun 2026 12:41:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 12:40:40 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>Under The Veil: A Night Of Burlesque &amp; Variety Entertainment</title>
@@ -15,16 +15,6 @@
     <pubDate>Tue, 09 Jun 2026 21:00:00 +0000</pubDate>
     <description><![CDATA[<p><strong>When:</strong> Tuesday, June 9, 2026 · 9pm</p><p><strong>Where:</strong> The Veil Brewing-Scott&#x27;s Addition, 1509B Belleville St, Richmond, VA 23230</p><p><strong>Cost:</strong> $15</p><p>In-the-round burlesque and variety show by Burlesque Right Meow at Veil Brewing. Doors open at 8:30pm, show starts at 9pm; online sales closed at noon but tickets available at the door.</p>]]></description>
     <category>variety</category>
-    <category>recurring</category>
-  </item>
-  <item>
-    <title>Nerdy Thirsty Thursdays</title>
-    <link>https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979940217489</link>
-    <guid isPermaLink="false">2026-06-11-2000-gallery5@rvaburlesque</guid>
-    <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Thursday, June 11, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10 adv / $14 dos</p><p>A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.</p>]]></description>
-    <category>variety</category>
-    <category>adult</category>
     <category>recurring</category>
   </item>
   <item>
@@ -40,9 +30,9 @@
   <item>
     <title>GAY ALL DAY! Burlesque &amp; Variety Show</title>
     <link>https://www.eventbrite.com/e/queer-all-weekend-tickets-1974937161213</link>
-    <guid isPermaLink="false">2026-06-20-1900-gallery5@rvaburlesque</guid>
-    <pubDate>Sat, 20 Jun 2026 19:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, June 20, 2026 · 7pm – 10pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10-25</p><p>The 4th Annual Gay All Day Burlesque &amp; Variety Show features a lineup of queer performers including Poppy la Fae, Gordita Maricona, Jo&#x27;Rie Tigerlily, and others, hosted by Zorro Nova with kitten Vulveeta and gogo D3ADP4NN. 18+ ticketed event on a sliding scale.</p>]]></description>
+    <guid isPermaLink="false">2026-06-20-2000-gallery5@rvaburlesque</guid>
+    <pubDate>Sat, 20 Jun 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, June 20, 2026 · 8pm – 10pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10-25 sliding scale</p><p>The 4th annual Gay All Day burlesque &amp; variety show featuring Bert Shaffer, Gordita Maricona, Jo&#x27;Rie Tigerlily, Mary Muse, Mx. Casey Camp, Poppy la Fae, Red Herring, Royalty Resignz, and Venessa Chevelle. 18+ ticketed event hosted by Zorro Nova, part of Queer All Weekend at Gallery5.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
     <category>themed</category>
@@ -121,16 +111,6 @@
     <category>adult</category>
   </item>
   <item>
-    <title>Nerdy Thirsty Thursdays</title>
-    <link>https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979940218492</link>
-    <guid isPermaLink="false">2026-08-13-2000-gallery5@rvaburlesque</guid>
-    <pubDate>Thu, 13 Aug 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Thursday, August 13, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10 adv / $14 dos</p><p>A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.</p>]]></description>
-    <category>variety</category>
-    <category>adult</category>
-    <category>recurring</category>
-  </item>
-  <item>
     <title>RVA Burlesque Bingo 9/4</title>
     <link>https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL?cs=true&amp;cst=custom</link>
     <guid isPermaLink="false">2026-09-04-0000-ellie-quinn@rvaburlesque</guid>
@@ -141,54 +121,34 @@
     <category>recurring</category>
   </item>
   <item>
-    <title>Nerdy Thirsty Thursdays</title>
-    <link>https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223</link>
-    <guid isPermaLink="false">2026-10-08-2000-gallery5@rvaburlesque</guid>
-    <pubDate>Thu, 08 Oct 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Thursday, October 8, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10 adv / $14 dos</p><p>A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.</p>]]></description>
-    <category>variety</category>
-    <category>adult</category>
-    <category>recurring</category>
-  </item>
-  <item>
     <title>RVA Burlesque Festival 2026</title>
     <link>https://rvaburlesquefestival.com/tickets</link>
     <guid isPermaLink="false">2026-11-05-0000-rva-burlesque-festival@rvaburlesque</guid>
     <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Thursday, November 5, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival in Richmond, VA running November 5th–7th, 2026. Tickets not yet on sale.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Thursday, November 5, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival celebrating the art of burlesque through artistic expression, diversity, and empowerment. Runs November 5–7, 2026.</p>]]></description>
     <category>festival</category>
     <category>variety</category>
     <category>adult</category>
   </item>
   <item>
-    <title>RVA Burlesque Festival 2026</title>
+    <title>RVA Burlesque Festival 2026 — Day 2</title>
     <link>https://rvaburlesquefestival.com/tickets</link>
     <guid isPermaLink="false">2026-11-06-0000-rva-burlesque-festival@rvaburlesque</guid>
     <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, November 6, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival in Richmond, VA running November 5th–7th, 2026. Tickets not yet on sale.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Friday, November 6, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival celebrating the art of burlesque through artistic expression, diversity, and empowerment. Runs November 5–7, 2026.</p>]]></description>
     <category>festival</category>
     <category>variety</category>
     <category>adult</category>
   </item>
   <item>
-    <title>RVA Burlesque Festival 2026</title>
+    <title>RVA Burlesque Festival 2026 — Day 3</title>
     <link>https://rvaburlesquefestival.com/tickets</link>
     <guid isPermaLink="false">2026-11-07-0000-rva-burlesque-festival@rvaburlesque</guid>
     <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, November 7, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival in Richmond, VA running November 5th–7th, 2026. Tickets not yet on sale.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 7, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival celebrating the art of burlesque through artistic expression, diversity, and empowerment. Runs November 5–7, 2026.</p>]]></description>
     <category>festival</category>
     <category>variety</category>
     <category>adult</category>
-  </item>
-  <item>
-    <title>Nerdy Thirsty Thursdays</title>
-    <link>https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223</link>
-    <guid isPermaLink="false">2026-12-10-2000-gallery5@rvaburlesque</guid>
-    <pubDate>Thu, 10 Dec 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Thursday, December 10, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10 adv / $14 dos</p><p>A bi-monthly nerd-culture cozyback featuring pop-up nerdlesque performances from across the DMV, Jackbox game competitions with prizes, video and board games, and trading card/anime merch. 18+ only.</p>]]></description>
-    <category>variety</category>
-    <category>adult</category>
-    <category>recurring</category>
   </item>
 </channel>
 </rss>
