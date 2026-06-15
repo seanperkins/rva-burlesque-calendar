@@ -182,5 +182,50 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "LGBTQ+ tourism events calendar operated by Richmond Region Tourism. Regularly lists RVA burlesque, cabaret, and variety shows \u2014 including one-off productions from independent producers that may not have their own event pages. Search or filter for burlesque/cabaret/pasties. Good for catching shows from queer-focused troupes not tracked elsewhere."
+  },
+  {
+    "id": "immodest-opulence",
+    "url": "https://www.facebook.com/immodestopulence/",
+    "location": "Immodest Opulence Productions",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety",
+      "adult"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond-based burlesque troupe led by Empress de Naste. Produces regular shows at Gallery5 (3rd Saturday monthly) and occasional productions at other RVA venues. Look for upcoming event posts and linked ticket pages. Their Gallery5 dates are also captured via the gallery5 source, so prioritize any shows at non-Gallery5 venues."
+  },
+  {
+    "id": "radqueer-productions",
+    "url": "https://www.instagram.com/radqueerproductions/",
+    "location": "RadQueer Productions",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Autonomous queer arts collective based in Richmond producing burlesque and variety shows ('for rad queers and the people who love them'). Inaugurated March 2026 at Gallery5. Look for upcoming show announcements with dates, venue, and linked Eventbrite tickets. Also collaborates with Nu Caldonia Rodeo and Pink Faerie Productions on joint productions."
+  },
+  {
+    "id": "pink-faerie-productions",
+    "url": "https://www.instagram.com/pinkfaerieproductions/",
+    "location": "Pink Faerie Productions",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond burlesque producer led by Poppy la Fae and Sally Stardust. Produces themed shows at Crescent Collective and other RVA venues. Recent productions include 'Nothing But Glitter And Lashes' (Chappell Roan tribute) and 'Glitter and Lashes 2.0'. Look for event announcements with dates, venue, and ticket links."
+  },
+  {
+    "id": "richmond-cultureworks",
+    "url": "https://calendar.richmondcultureworks.org",
+    "location": "Richmond CultureWorks (Event Aggregator)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond arts events aggregator that independently lists burlesque, cabaret, and variety shows \u2014 including Pours and Pasties, Burlesque Bingo, BRM shows, and RVA Burlesque Festival dates. Good for catching independently submitted events that may not appear on other tracked sources. Search or browse by keyword 'burlesque' or 'cabaret'."
   }
 ]
