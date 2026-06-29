@@ -227,5 +227,50 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "Richmond arts events aggregator that independently lists burlesque, cabaret, and variety shows \u2014 including Pours and Pasties, Burlesque Bingo, BRM shows, and RVA Burlesque Festival dates. Good for catching independently submitted events that may not appear on other tracked sources. Search or browse by keyword 'burlesque' or 'cabaret'."
+  },
+  {
+    "id": "afrotease",
+    "url": "https://www.instagram.com/afroteaserva/",
+    "location": "Afrotease (Venessa Chevelle Productions)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety",
+      "adult"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Virginia's longest-running burlesque showcase centering BIPOC performers, produced by Venessa Chevelle since 2016. Most shows are at Gallery5 (3rd Saturday), but occasional productions appear at other RVA venues. Gallery5 shows are also captured via the gallery5 source \u2014 prioritize any events at non-Gallery5 venues. Look for show announcements with dates, venue, and linked Eventbrite ticket pages. Also check https://www.facebook.com/AfroteaseRVA/ for cross-posted event details."
+  },
+  {
+    "id": "nu-rodeo-caldonia",
+    "url": "https://www.instagram.com/nurodeocaldonia/",
+    "location": "Nu Rodeo Caldonia",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond queer BIPOC production team and artist collective combining burlesque and devised theater. Past productions include 'The Wild Caldonia Rodeo' and 'Pastie Palette: Burlesque of All Hues' at Gallery5, plus joint shows with RadQueer Productions and Pink Faerie Productions. Look for show announcements with dates, venue, and linked ticket pages."
+  },
+  {
+    "id": "hardywood",
+    "url": "https://www.hardywood.com/richmond-events",
+    "location": "Hardywood Park Craft Brewery (Richmond)",
+    "address": "2410 Ownby Ln, Richmond, VA 23220",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond craft brewery that hosts burlesque events including Ellie Quinn productions and historically Boom Boom Basics showcases. Look for any event titles or descriptions containing burlesque, cabaret, pasties, or variety show. Only the Richmond location (Ownby Ln) \u2014 do not scrape the West Creek (Goochland) calendar."
+  },
+  {
+    "id": "visit-richmond-va",
+    "url": "https://www.visitrichmondva.com/event/?search=burlesque",
+    "location": "Visit Richmond VA (Tourism Event Aggregator)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond Region Tourism events calendar. Independently aggregates burlesque, cabaret, and variety shows submitted by venues and producers \u2014 including Ember Music Hall's themed series, BRM shows, Burlesque Bingo, and the RVA Burlesque Festival. Complements outrva.com (LGBTQ-focused) and richmond-cultureworks (arts-focused) by surfacing mainstream venue submissions that may not appear on either. Search by keyword 'burlesque'; also try 'cabaret'."
   }
 ]
