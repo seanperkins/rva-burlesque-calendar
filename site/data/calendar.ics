@@ -6,259 +6,278 @@ METHOD:PUBLISH
 X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
-UID:2026-06-26-2000-reveler@rvaburlesque
-DTSTAMP:20260626T140043Z
-DTSTART:20260626T200000
-DTEND:20260626T223000
-SUMMARY:RÉVÉLER CABARET: RODEO EDITION
-LOCATION:Révéler\, 3108 W Cary St\, Richmond\, VA 23221
-DESCRIPTION:Pride goes country with a cabaret show featuring country vocali
- st Martha Spencer\, burlesque dancers\, and emcee Qing Blaze. Benefits He 
- She Ze and We\, a non-profit supporting Transgender and Nonbinary people.\
- n\nCost: $35\n\nInfo: https://buytickets.at/reveler/2252661
-URL:https://buytickets.at/reveler/2252661
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-06-26-2100-veil-brewing@rvaburlesque
-DTSTAMP:20260626T140043Z
-DTSTART:20260626T210000
-DTEND:20260626T230000
+UID:2026-06-30-2100-veil-brewing@rvaburlesque
+DTSTAMP:20260630T154247Z
+DTSTART:20260630T210000
+DTEND:20260630T230000
 SUMMARY:Under The Veil: A Night Of Burlesque & Variety Entertainment
 LOCATION:The Veil Brewing-Scott's Addition\, 1509B Belleville St\, Richmond
  \, VA 23230
-DESCRIPTION:In-the-round burlesque and variety entertainment show at Veil B
- rewing. Doors open at 8:30pm\, show starts at 9pm\; tickets available at t
- he door.\n\nInfo: https://burlesquerightmeow.ticketspice.com/undertheveil
+DESCRIPTION:In-the-round burlesque and variety show by Burlesque Right Meow
+  at Veil Brewing. Doors open at 8:30pm\, show starts at 9pm\; tickets avai
+ lable at the door.\n\nInfo: https://burlesquerightmeow.ticketspice.com/und
+ ertheveil
 URL:https://burlesquerightmeow.ticketspice.com/undertheveil
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-06-27-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260626T140043Z
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Pours and Pasties Burlesque and Variety Show
-LOCATION:Strangeways Brewing (Scott's Addition)\, 3110 West Leigh St\, Rich
- mond\, VA 23230
-DESCRIPTION:Monthly burlesque and variety show at Strangeways Brewing in Sc
- ott's Addition\, where craft beer meets dazzling burlesque entertainment.\
- n\nInfo: https://buytickets.at/burlesquerightmeowllc/2230531
-URL:https://buytickets.at/burlesquerightmeowllc/2230531
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-06-27-1900-gallery5@rvaburlesque
-DTSTAMP:20260626T140043Z
-DTSTART:20260627T190000
-DTEND:20260627T230000
-SUMMARY:Skank\, The Falsies and Chyna
-LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:A night of dancing and variety at Gallery5 featuring burlesque 
- troupe The Falsies alongside Skank and Chyna.\n\nCost: $10 adv / $15 dos\n
- \nInfo: https://www.eventbrite.com/e/skank-the-falsies-and-the-octavias-ti
- ckets-1991925165792
-URL:https://www.eventbrite.com/e/skank-the-falsies-and-the-octavias-tickets-1991925165792
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-06-27-2030-outrva@rvaburlesque
-DTSTAMP:20260626T140043Z
-DTSTART:20260627T203000
-DTEND:20260627T230000
-SUMMARY:Pours and Pasties
-LOCATION:Strangeways Brewing\, 3110 W Leigh Street\, Richmond\, VA 23230
-DESCRIPTION:Burlesque Right Meow returns to Strangeways Brewing in Scott's 
- Addition for a night of glitter\, giggles\, and tantalizing variety acts h
- osted by Conejita Luxxe. Doors at 8:30 PM\, show at 9 PM. 21+.\n\nCost: $1
- 5\n\nInfo: https://buytickets.at/burlesquerightmeowllc/2230531
-URL:https://buytickets.at/burlesquerightmeowllc/2230531
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-03-1930-outrva@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260703T193000
 DTEND:20260703T220000
 SUMMARY:Villain Era: A Burlesque Tribute to Bad Witches And Bitches
 LOCATION:Firehouse Theatre\, 1609 West Broad Street\, Richmond\, VA 23220
-DESCRIPTION:Burlesque Right Meow presents a villain-themed burlesque tribut
- e show featuring wicked witches\, power-hungry queens\, and iconic antagon
- ists performed by local artists. Doors at 7:30 PM\, show at 8 PM. 18+.\n\n
- Cost: $20\n\nInfo: https://firehousetheatre.ludus.com/show_page.php?show_i
- d=200535335
-URL:https://firehousetheatre.ludus.com/show_page.php?show_id=200535335
+DESCRIPTION:Villain Era returns to Firehouse Theatre with a new lineup of c
+ aptivating criminals\, wicked witches\, power-hungry queens\, and iconic a
+ ntagonists in a night of seductive\, theatrical burlesque. Doors at 7:30pm
+ \, show at 8pm\; $20 advance / $25 day of / $30 VIP. 18+ only.\n\nCost: $2
+ 0\n\nInfo: https://outrva.com/events/villain-era-a-burlesque-tribute-to-ba
+ d-witches-and-bitches
+URL:https://outrva.com/events/villain-era-a-burlesque-tribute-to-bad-witches-and-bitches
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-03-2000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260703T200000
 DTEND:20260703T220000
-SUMMARY:Villain Era: A Burlesque Tribute To Bad Witches and Bitches
-LOCATION:Firehouse Theatre\, 1609 West Broad Street\, Richmond\, VA 23220
-DESCRIPTION:Villain Era returns to Firehouse Theatre with captivating crimi
- nals\, wicked witches\, power-hungry queens\, and iconic antagonists in a 
- themed burlesque tribute. Doors at 7:30pm\, 18+ event. $20 advance\, $25 d
- oor\, $30 VIP.\n\nCost: $20\n\nInfo: https://firehousetheatre.ludus.com/20
- 0535335
+SUMMARY:Villain Era: A Burlesque Tribute to Bad Witches and Bitches
+LOCATION:Firehouse Theatre\, 1609 W Broad St\, Richmond\, VA 23220
+DESCRIPTION:Burlesque Right Meow Villain Era returns to Firehouse Theatre w
+ ith captivating criminals\, wicked witches\, power-hungry queens\, and ico
+ nic antagonists. Part of Firehouse Fringe. Doors at 7:30pm\, show at 8pm. 
+ For 18+ audiences. $20 advance\, $25 day-of\, $30 VIP.\n\nCost: $20\n\nInf
+ o: https://firehousetheatre.ludus.com/200535335
 URL:https://firehousetheatre.ludus.com/200535335
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-10-0000-ellie-quinn@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:RVA Burlesque Bingo 7/10
+SUMMARY:RVA Burlesque Bingo
 LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
-DESCRIPTION:Burlesque bingo where your card is filled with live performance
-  moments — mark what you see\, shout TATAS!\, and win prizes. 21+ event fe
- aturing bold striptease and campy chaos.\n\nCost: $21\n\nInfo: https://ell
- iequinnpresents.square.site/product/rva-burlesque-bingo-7-10/2JKNN6WQCJDUI
- 7Q6ZHRN77U7?cs=true&cst=custom
+DESCRIPTION:Performance-based bingo where your card is filled with moments 
+ from live burlesque acts — mark what you see\, shout TATAS!\, and win priz
+ es. 21+ event.\n\nCost: $21.00\n\nInfo: https://elliequinnpresents.square.
+ site/product/rva-burlesque-bingo-7-10/2JKNN6WQCJDUI7Q6ZHRN77U7?cs=true&cst
+ =custom
 URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-7-10/2JKNN6WQCJDUI7Q6ZHRN77U7?cs=true&cst=custom
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-10-1903-outrva@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260710T190300
 DTEND:20260710T230000
 SUMMARY:Burlesque Bingo
 LOCATION:Blue Bee Cider\, 4811 Bethlehem Road\, Richmond\, VA 23230
-DESCRIPTION:Performance-based bingo where your card tracks live burlesque m
- oments — mark what you see\, shout TATAS!\, and win prizes. Hosted by Cone
- jita Luxxe featuring Cherry Pi\, Draven DeMoan\, Reeva Jones\, and Santobe
- lla Spark.\n\nInfo: https://www.facebook.com/events/1321433460117886
-URL:https://www.facebook.com/events/1321433460117886
+DESCRIPTION:Performance-based bingo at Blue Bee Cider where your card is fi
+ lled with live burlesque moments — spot what you see\, shout TATAS!\, and 
+ win prizes. Featuring Cherry Pi\, Draven DeMoan\, Reeva Jones\, and Santob
+ ella Spark\, hosted by Conejita Luxxe.\n\nInfo: https://outrva.com/events/
+ burlesque-bingo-1
+URL:https://outrva.com/events/burlesque-bingo-1
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-11-1900-ember@rvaburlesque
-DTSTAMP:20260626T140043Z
+UID:2026-07-10-2000-richmond-cultureworks@rvaburlesque
+DTSTAMP:20260630T154247Z
+DTSTART:20260710T200000
+DTEND:20260710T220000
+SUMMARY:Burlesque Bingo
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA 23230
+DESCRIPTION:Performance-based burlesque bingo where your card is filled wit
+ h live moments to spot\; shout TATAS! to win prizes. Featuring Cherry Pi\,
+  Draven DeMoan\, Reeva Jones\, and Santobella Spark\, hosted by Conejita L
+ uxxe. Ages 21+.\n\nInfo: https://elliequinnpresents.square.site/
+URL:https://elliequinnpresents.square.site/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-1900-outrva@rvaburlesque
+DTSTAMP:20260630T154247Z
 DTSTART:20260711T190000
 DTEND:20260711T210000
-SUMMARY:BRAS
-LOCATION:Ember Music Hall\, 309 East Broad Street\, Richmond\, VA 23219
-DESCRIPTION:Burlesque and variety tribute to The Fast and the Furious franc
- hise — performers drift through daring acts and strip down faster than a q
- uarter-mile run\, transforming iconic characters and plot twists into a ni
- ght of sexy\, hilarious spectacle.\n\nCost: $33 to $84.20\n\nInfo: https:/
- /www.etix.com/ticket/p/70821873/bras-richmond-ember-music-hall?partner_id=
- 100
-URL:https://www.etix.com/ticket/p/70821873/bras-richmond-ember-music-hall?partner_id=100
+SUMMARY:BRAS: A Burlesque and Variety Tribute to The Fast and The Furious
+LOCATION:Ember Music Hall\, 309 East Broad Street West\, Richmond\, VA 2321
+ 9
+DESCRIPTION:A turbocharged burlesque and variety show celebrating The Fast 
+ and the Furious franchise\, where performers strip down faster than a quar
+ ter-mile run and transform iconic characters and ridiculous plot twists in
+ to a sexy\, hilarious spectacle. 21+ only.\n\nInfo: https://outrva.com/eve
+ nts/6biexji38aslyguk6s1g1dti4qx3op
+URL:https://outrva.com/events/6biexji38aslyguk6s1g1dti4qx3op
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-18-1900-gallery5@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260718T190000
 DTEND:20260718T230000
 SUMMARY:The Big Ga(y)me Burlesque
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Sports-themed burlesque night from the Pink Faeries (Poppy la F
- ae) featuring queer hockey players\, sapphic baseball vibes\, and Olympic 
- moments. Doors 8pm\, show 9pm. 18+ only.\n\nInfo: https://www.eventbrite.c
- om/e/the-big-gayme-burlesque-tickets-1974937238444?aff=oddtdtcreator
+DESCRIPTION:Sports-themed queer burlesque featuring hockey players\, sapphi
+ c baseball vibes\, and Olympic moments. Produced by Pink Faeries with Popp
+ y la Fae\; hosted by Zorro Nova. Doors 8pm\, show 9pm\, 18+ only.\n\nInfo:
+  https://www.eventbrite.com/e/the-big-gayme-burlesque-tickets-197493723844
+ 4?aff=oddtdtcreator
 URL:https://www.eventbrite.com/e/the-big-gayme-burlesque-tickets-1974937238444?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-07-18-2100-pink-faerie-productions@rvaburlesque
+DTSTAMP:20260630T154247Z
+DTSTART:20260718T210000
+DTEND:20260718T230000
+SUMMARY:The Big Ga(y)me
+LOCATION:Gallery 5\, 200 W Marshall St\, Richmond\, VA 23220
+DESCRIPTION:Sports-themed queer burlesque and variety show celebrating the 
+ homoeroticism of sports. Featuring performers including Ellie Quinn\, Gord
+ itamaricona\, Jorie Tiger Lily\, and more\, hosted by Zorro Nova.\n\nInfo:
+  https://www.instagram.com/pinkfaerieproductions/
+URL:https://www.instagram.com/pinkfaerieproductions/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-0000-burlesque-right-meow@rvaburlesque
+DTSTAMP:20260630T154247Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Pours and Pasties Burlesque and Variety Show
+LOCATION:Strangeways Brewing (Scott's Addition)\, 3110 West Leigh St\, Rich
+ mond\, VA 23230
+DESCRIPTION:Burlesque Right Meow's monthly burlesque and variety show at St
+ rangeways Brewing in Scott's Addition\, where craft beer meets dazzling bu
+ rlesque entertainment.\n\nInfo: https://buytickets.at/burlesquerightmeowll
+ c/2285493
+URL:https://buytickets.at/burlesquerightmeowllc/2285493
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-1900-radqueer-productions@rvaburlesque
+DTSTAMP:20260630T154247Z
+DTSTART:20260725T190000
+DTEND:20260725T230000
+SUMMARY:Violet Tease
+LOCATION:Studio Two Three\, 3311 W Clay St\, Richmond\, VA 23230
+DESCRIPTION:A night of dykey debauchery featuring burlesque performances an
+ d go-go dancers\, presented by RadQueer Productions and Slug Club. Benefit
+ s River City Roller Derby.\n\nCost: $10-$25 sliding scale\n\nInfo: https:/
+ /www.instagram.com/radqueerproductions/
+URL:https://www.instagram.com/radqueerproductions/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-07-31-1930-basic-city@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
-DESCRIPTION:Burlesque Right Meow performs live at Basic City RVA\, Richmond
- 's craft beer and pizza taproom in the Manchester neighborhood.\n\nInfo: h
- ttps://basiccityrva.com/events/
+DESCRIPTION:Burlesque show by Burlesque Right Meow at Basic City RVA craft 
+ beer and pizza taproom in Richmond.\n\nInfo: https://basiccityrva.com/even
+ ts/
 URL:https://basiccityrva.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260807T200000
 DTEND:20260807T220000
 SUMMARY:Orchard After Dark
 LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
 DESCRIPTION:A sultry\, whimsical burlesque showcase set in an enchanted orc
- hard at Blue Bee Cider — immersive fantasy\, temptation\, and transformati
- on beneath fairy lights. Doors 7:30 PM\, Show 8:00 PM\, 18+.\n\nCost: $21\
- n\nInfo: https://elliequinnpresents.square.site/product/orchard-after-dark
- -8-7/AMOUX5NOMHOEVFXAERVSXA5M?cs=true&cst=custom
+ hard at Blue Bee Cider\, with fairy lights and immersive storytelling. Doo
+ rs 7:30PM\, Show 8:00PM. 18+ event.\n\nCost: $21.00\n\nInfo: https://ellie
+ quinnpresents.square.site/product/orchard-after-dark-8-7/AMOUX5NOMHOEVFXAE
+ RVSXA5M?cs=true&cst=custom
 URL:https://elliequinnpresents.square.site/product/orchard-after-dark-8-7/AMOUX5NOMHOEVFXAERVSXA5M?cs=true&cst=custom
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-13-2000-gallery5@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260813T200000
 DTEND:20260813T230000
 SUMMARY:Nerdy Thirsty Thursdays
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Pop culture kickback featuring pop-up nerdlesque performances\,
-  a free Jackbox competition with prizes\, trading cards\, and anime merch.
-  18+ only.\n\nCost: $10 adv / $14 dos\n\nInfo: https://www.eventbrite.com/
- e/nerdy-thirsty-thursdays-tickets-1979940218492
+DESCRIPTION:Bi-monthly nerd/pop-culture kickback featuring pop-up nerdlesqu
+ e performances from across the DMV\, Jackbox games\, anime merch\, and com
+ munity gathering. 18+ only.\n\nCost: $10 adv. / $14 dos.\n\nInfo: https://
+ www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979940218492
 URL:https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979940218492
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-1900-gallery5@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260815T190000
 DTEND:20260815T223000
 SUMMARY:RadQueer presents Camp Genderf*ck!
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:RadQueer brings their queer variety cabaret Camp Genderf*ck! to
-  Gallery5.\n\nInfo: https://gallery5arts.org/calendar/2026/8/15/radqueer-p
- resents-camp-genderfck
+DESCRIPTION:Queer performance event by RadQueer Productions at Gallery5. No
+  additional details listed on the calendar at time of scrape.\n\nInfo: htt
+ ps://gallery5arts.org/calendar/2026/8/15/radqueer-presents-camp-genderfck
 URL:https://gallery5arts.org/calendar/2026/8/15/radqueer-presents-camp-genderfck
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-21-2000-gallery5@rvaburlesque
+DTSTAMP:20260630T154247Z
+DTSTART:20260821T200000
+DTEND:20260821T230000
+SUMMARY:Studio 8: A Disco Burlesque Experience
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Disco burlesque revue presented by Onyx & 8th featuring Jo'Rie 
+ Tigerlily\, Darshe Dazzles\, Kayy Lovely\, and Zorra Valetine. Blends clas
+ sic burlesque\, disco showgirl glamour\, and immersive nightlife fantasy. 
+ Doors 8pm\, show 9pm\, 18+ only.\n\nInfo: https://www.eventbrite.com/e/stu
+ dio-8-a-disco-burlesque-experience-tickets-1991429407967
+URL:https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1991429407967
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-04-0000-ellie-quinn@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:RVA Burlesque Bingo 9/4
+SUMMARY:RVA Burlesque Bingo
 LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
-DESCRIPTION:Burlesque bingo where your card is filled with live performance
-  moments — mark what you see\, shout TATAS!\, and win prizes. 21+ event fe
- aturing bold striptease and campy chaos.\n\nCost: $21\n\nInfo: https://ell
- iequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDT
- PPKVSENQWL?cs=true&cst=custom
+DESCRIPTION:Performance-based bingo where your card is filled with moments 
+ from live burlesque acts — mark what you see\, shout TATAS!\, and win priz
+ es. 21+ event.\n\nCost: $21.00\n\nInfo: https://elliequinnpresents.square.
+ site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL?cs=true&cst=
+ custom
 URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL?cs=true&cst=custom
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04-2000-outrva@rvaburlesque
-DTSTAMP:20260626T140043Z
+UID:2026-09-04-2000-richmond-cultureworks@rvaburlesque
+DTSTAMP:20260630T154247Z
 DTSTART:20260904T200000
 DTEND:20260904T220000
 SUMMARY:Burlesque Bingo
-LOCATION:Blue Bee Cider\, 4811 Bethlehem Road\, Richmond\, VA 23230
-DESCRIPTION:Performance-based bingo where your card tracks live burlesque m
- oments from Binky Daze\, Conejita Luxxe\, Isabel Astrum\, and Luna LaMorgu
- e. Shout TATAS! to win prizes. Doors at 7:30 PM\, show at 8 PM. 21+.\n\nIn
- fo: https://www.facebook.com/events/1577895107021479
-URL:https://www.facebook.com/events/1577895107021479
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA 23230
+DESCRIPTION:Performance-based burlesque bingo where your card is filled wit
+ h live moments to spot\; shout TATAS! to win prizes. Featuring Binky Daze\
+ , Conejita Luxxe\, Isabel Astrum\, and Luna LaMorgue. Ages 21+.\n\nInfo: h
+ ttps://elliequinnpresents.square.site/
+URL:https://elliequinnpresents.square.site/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
-DESCRIPTION:Burlesque Right Meow performs live at Basic City RVA\, Richmond
- 's craft beer and pizza taproom in the Manchester neighborhood.\n\nInfo: h
- ttps://basiccityrva.com/events/
+DESCRIPTION:Burlesque show by Burlesque Right Meow at Basic City RVA craft 
+ beer and pizza taproom in Richmond.\n\nInfo: https://basiccityrva.com/even
+ ts/
 URL:https://basiccityrva.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-2000-gallery5@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20261008T200000
 DTEND:20261008T230000
 SUMMARY:Nerdy Thirsty Thursdays
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Pop culture kickback featuring pop-up nerdlesque performances\,
-  a free Jackbox competition with prizes\, trading cards\, and anime merch.
-  18+ only.\n\nCost: $10 adv / $14 dos\n\nInfo: https://www.eventbrite.com/
- e/nerdy-thirsty-thursdays-tickets-1979939794223
+DESCRIPTION:Bi-monthly nerd/pop-culture kickback featuring pop-up nerdlesqu
+ e performances from across the DMV\, Jackbox games\, anime merch\, and com
+ munity gathering. 18+ only.\n\nCost: $10 adv. / $14 dos.\n\nInfo: https://
+ www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223
 URL:https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
@@ -272,15 +291,15 @@ URL:https://rvaburlesquefestival.com/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-2000-gallery5@rvaburlesque
-DTSTAMP:20260626T140043Z
+DTSTAMP:20260630T154247Z
 DTSTART:20261210T200000
 DTEND:20261210T230000
 SUMMARY:Nerdy Thirsty Thursdays
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Pop culture kickback featuring pop-up nerdlesque performances\,
-  a free Jackbox competition with prizes\, trading cards\, and anime merch.
-  18+ only.\n\nCost: $10 adv / $14 dos\n\nInfo: https://www.eventbrite.com/
- e/nerdy-thirsty-thursdays-tickets-1979939794223
+DESCRIPTION:Bi-monthly nerd/pop-culture kickback featuring pop-up nerdlesqu
+ e performances from across the DMV\, Jackbox games\, anime merch\, and com
+ munity gathering. 18+ only.\n\nCost: $10 adv. / $14 dos.\n\nInfo: https://
+ www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223
 URL:https://www.eventbrite.com/e/nerdy-thirsty-thursdays-tickets-1979939794223
 END:VEVENT
 END:VCALENDAR
