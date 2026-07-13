@@ -272,5 +272,28 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "Richmond Region Tourism events calendar. Independently aggregates burlesque, cabaret, and variety shows submitted by venues and producers \u2014 including Ember Music Hall's themed series, BRM shows, Burlesque Bingo, and the RVA Burlesque Festival. Complements outrva.com (LGBTQ-focused) and richmond-cultureworks (arts-focused) by surfacing mainstream venue submissions that may not appear on either. Search by keyword 'burlesque'; also try 'cabaret'."
+  },
+  {
+    "id": "richmond-triangle-players",
+    "url": "https://rtriangle.org/black-burlesque/",
+    "location": "Richmond Triangle Players (Robert B. Moss Theatre)",
+    "address": "1300 Altamont Ave, Richmond, VA 23230",
+    "defaultTags": [
+      "variety",
+      "themed"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "LGBTQ nonprofit theater in Scott's Addition that periodically hosts 'Black Burlesque' / 'Black is Beautiful' showcases celebrating Black burlesque performers, hosted by Jo'Rie Tigerlily and Qing Blaze. Not a monthly recurring series \u2014 pull only announced dates from this production page and cross-check https://rtriangle.org/tickets/ for the current season listing in case other burlesque/cabaret-tagged shows appear."
+  },
+  {
+    "id": "rva-burlesque-instagram",
+    "url": "https://www.instagram.com/rvaburlesque/",
+    "location": "RVA Burlesque (Community Aggregator)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Community Instagram account (not a single troupe or venue) that aggregates burlesque/cabaret event announcements, ticket links, and a newsletter covering RVA-area shows across multiple producers and venues. Useful for catching one-off or independently produced shows (e.g. themed nerdlesque nights, guest showcases) that don't have their own dedicated event pages and aren't already surfaced by other tracked sources. Extract only posts with concrete announced dates/venues."
   }
 ]
