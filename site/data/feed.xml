@@ -6,84 +6,23 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Jul 2026 12:00:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 14:51:47 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
-  <item>
-    <title>Under The Veil: A Night Of Burlesque &amp; Variety Entertainment</title>
-    <link>https://burlesquerightmeow.ticketspice.com/undertheveil</link>
-    <guid isPermaLink="false">2026-07-07-2100-veil-brewing@rvaburlesque</guid>
-    <pubDate>Tue, 07 Jul 2026 21:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Tuesday, July 7, 2026 · 9pm</p><p><strong>Where:</strong> The Veil Brewing - Scott&#x27;s Addition, 1509B Belleville St, Richmond, VA 23230</p><p><strong>Cost:</strong> $15-$20 at the door</p><p>Recurring in-the-round burlesque and variety show by Burlesque Right Meow at The Veil Brewing. Doors open 8:30pm, show starts 9pm; online sales have closed for tonight&#x27;s show, tickets available at the door.</p>]]></description>
-    <category>variety</category>
-    <category>immersive</category>
-    <category>recurring</category>
-  </item>
-  <item>
-    <title>Burlesque Bingo</title>
-    <link>https://www.facebook.com/events/1321433460117886</link>
-    <guid isPermaLink="false">2026-07-10-1903-outrva@rvaburlesque</guid>
-    <pubDate>Fri, 10 Jul 2026 19:03:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, July 10, 2026 · 7:03pm – 11pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Road, Richmond, VA, 23230</p><p>Performance-based bingo where the bingo card is filled with moments you spot during live burlesque acts, featuring Cherry Pi, Draven DeMoan, Reeva Jones, and Santobella Spark, hosted by Conejita Luxxe.</p>]]></description>
-    <category>bingo</category>
-    <category>recurring</category>
-    <category>adult</category>
-  </item>
-  <item>
-    <title>RVA Burlesque Bingo</title>
-    <link>https://elliequinnpresents.square.site/product/rva-burlesque-bingo-7-10/2JKNN6WQCJDUI7Q6ZHRN77U7</link>
-    <guid isPermaLink="false">2026-07-10-2000-ellie-quinn@rvaburlesque</guid>
-    <pubDate>Fri, 10 Jul 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, July 10, 2026 · 8pm – 9:30pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Road, Richmond, VA 23230</p><p><strong>Cost:</strong> $21.00</p><p>Performance-based burlesque bingo at Blue Bee Cider — mark your card based on live moments and mayhem, with prizes and cider. 21+.</p>]]></description>
-    <category>bingo</category>
-    <category>recurring</category>
-    <category>adult</category>
-  </item>
-  <item>
-    <title>BRAS: A Burlesque and Variety Tribute to The Fast and The Furious</title>
-    <link>https://www.facebook.com/events/848576638306510</link>
-    <guid isPermaLink="false">2026-07-11-1900-outrva@rvaburlesque</guid>
-    <pubDate>Sat, 11 Jul 2026 19:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 11, 2026 · 7pm – 9pm</p><p><strong>Where:</strong> Ember Music Hall, 309 East Broad Street West, Richmond, VA, 23219</p><p>A 21+ burlesque and variety show parodying the Fast and Furious franchise with themed acts and costumes.</p>]]></description>
-    <category>themed</category>
-    <category>adult</category>
-  </item>
   <item>
     <title>MIX! at The Moxy, A Variety Show</title>
     <link>https://www.eventbrite.com/e/mix-at-the-moxy-a-variety-show-tickets-1993023385597</link>
     <guid isPermaLink="false">2026-07-18-1830-sparkdazzle-entertainment@rvaburlesque</guid>
     <pubDate>Sat, 18 Jul 2026 18:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 18, 2026 · 6:30pm – 10pm</p><p><strong>Where:</strong> Moxy Richmond Downtown, 501 East Franklin Street, Richmond, VA 23219</p><p><strong>Cost:</strong> $19.98-$28.52</p><p>An intimate, seated variety and burlesque show at the Moxy Hotel featuring wine tastings, with performances by Chartreuse Divinity, Darshe Dazzles, Ganja Kitty, Hummingbird, Madame Vanfleet, Santobella Spark, and Tino.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, July 18, 2026 · 6:30pm – 10pm</p><p><strong>Where:</strong> Moxy Richmond Downtown, 501 East Franklin Street, Richmond, VA 23219</p><p><strong>Cost:</strong> $19.98 - $28.52</p><p>An intimate, seated variety and burlesque show at the Moxy Hotel featuring wine tastings, comedy, poetry, and burlesque acts from SparkDazzle Entertainment performers.</p>]]></description>
     <category>variety</category>
-    <category>themed</category>
     <category>adult</category>
   </item>
   <item>
-    <title>The Big Ga(y)me Burlesque</title>
-    <link>https://www.eventbrite.com/e/the-big-gayme-burlesque-tickets-1974937238444?aff=oddtdtcreator</link>
-    <guid isPermaLink="false">2026-07-18-2000-gallery5@rvaburlesque</guid>
-    <pubDate>Sat, 18 Jul 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 18, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p>Sports-themed burlesque night for Gallery5&#x27;s recurring 3rd Saturday burlesque series, produced by Pink Faeries and Poppy la Fae and hosted by Zorro Nova. 18+ show with queer/sapphic sports-inspired performances.</p>]]></description>
-    <category>themed</category>
-    <category>adult</category>
-    <category>recurring</category>
-  </item>
-  <item>
-    <title>The Big Ga(y)me</title>
-    <link>https://www.instagram.com/pinkfaerieproductions/p/DaGhiKHRE75/</link>
-    <guid isPermaLink="false">2026-07-18-2100-pink-faerie-productions@rvaburlesque</guid>
-    <pubDate>Sat, 18 Jul 2026 21:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 18, 2026 · 9pm</p><p><strong>Where:</strong> Gallery5, 200 W Marshall St, Richmond, VA 23220</p><p>A queer sports-themed burlesque and variety show from Pink Faerie Productions, featuring a full cast of Richmond-area performers exploring the homoeroticism of sports, hosted by Zorro Nova.</p>]]></description>
-    <category>variety</category>
-    <category>themed</category>
-    <category>adult</category>
-  </item>
-  <item>
-    <title>VIOLET TEASE - a burlesque show/dance party/fundraiser for RCRD</title>
+    <title>VIOLET TEASE - A Burlesque Show/Dance Party/Fundraiser for RCRD</title>
     <link>https://outrva.com/events/violet-tease-a-burlesque-showdance-partyfundraiser-for-rcrd</link>
     <guid isPermaLink="false">2026-07-25-1900-outrva@rvaburlesque</guid>
     <pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Studio Two Three, 109 West 15th St, Richmond, VA, 23224</p><p><strong>Cost:</strong> $10-$25 sliding scale</p><p>SLUG and RadQueer Productions host a queer dance party and fundraiser for River City Roller Derby featuring burlesque performances and go-go dancers, sliding scale $10-$25 (NOTAFLOF).</p>]]></description>
-    <category>variety</category>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Studio Two Three, 109 West 15th St, Richmond, VA, 23224, United States</p><p><strong>Cost:</strong> $10-$25</p><p>SLUG and RadQueer Productions present a queer dance party fundraiser for River City Roller Derby, featuring burlesque performances and go-go dancers alongside custom cocktails and a dance floor.</p>]]></description>
     <category>adult</category>
   </item>
   <item>
@@ -91,26 +30,17 @@
     <link>https://www.tinyurl.com/violettease2026</link>
     <guid isPermaLink="false">2026-07-25-1900-richmond-cultureworks@rvaburlesque</guid>
     <pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Studio Two-Three, 109 W 15th St, Richmond, VA 23224</p><p><strong>Cost:</strong> $10-$25</p><p>Queer burlesque show, dance party, and fundraiser for River City Roller Derby, hosted by SLUG and RadQueer Productions, with go-go dancers and raffles.</p>]]></description>
-    <category>adult</category>
-    <category>themed</category>
-  </item>
-  <item>
-    <title>Pours and Pasties Burlesque and Variety Show</title>
-    <link>https://buytickets.at/burlesquerightmeowllc/2285493</link>
-    <guid isPermaLink="false">2026-07-25-2030-burlesque-right-meow@rvaburlesque</guid>
-    <pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing (Scott&#x27;s Addition), 2277 Dabney Rd, Richmond, VA 23230</p><p><strong>Cost:</strong> $15 adv. / $20 dos.</p><p>Burlesque Right Meow&#x27;s summer edition of Pours and Pasties at Strangeways Brewing, featuring a lineup of burlesque and variety acts from across the region alongside craft beer. 21+.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Studio Two-Three, 109 W 15th St, Richmond, VA 23224</p><p><strong>Cost:</strong> $10-$25</p><p>RadQueer Productions and SLUG present a queer burlesque show, dance party, and fundraiser for River City Roller Derby, featuring cocktails and go-go dancers.</p>]]></description>
     <category>variety</category>
-    <category>recurring</category>
+    <category>themed</category>
     <category>adult</category>
   </item>
   <item>
     <title>Pours and Pasties Burlesque and Variety Show!</title>
-    <link>https://buytickets.at/burlesquerightmeowllc/2285493</link>
+    <link>https://outrva.com/events/pours-and-pasties-burlesque-and-variety-show-4</link>
     <guid isPermaLink="false">2026-07-25-2030-outrva@rvaburlesque</guid>
     <pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing, 3110 West Leigh Street East, Richmond, VA, 23230</p><p><strong>Cost:</strong> $15 advance, $20 door, $22 VIP</p><p>Burlesque Right Meow presents a 21+ burlesque and variety showcase at Strangeways Brewing featuring D3adp4nn, Kill Gil, Mary Jane French, Nastya Nice, Scarlet Starlet, Tziporah Tziviah, and Violet Lace.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing, 3110 West Leigh Street East, Richmond, VA, 23230, United States</p><p><strong>Cost:</strong> $15-$22</p><p>Burlesque Right Meow presents a lineup of burlesque and variety acts from across the region at Strangeways Brewing, hosted by Storm Psycho 6. 21+.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
   </item>
@@ -119,7 +49,17 @@
     <link>https://buytickets.at/burlesquerightmeowllc/2285493</link>
     <guid isPermaLink="false">2026-07-25-2030-richmond-cultureworks@rvaburlesque</guid>
     <pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing RVA - Scotts Addition, 3110 W Leigh St, Richmond, VA 23230</p><p><strong>Cost:</strong> $15-$22</p><p>Burlesque and variety showcase at Strangeways Brewing presented by Burlesque Right Meow, hosted by Storm Psycho 6. 21+.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, July 25, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing RVA - Scotts Addition, 3110 W Leigh St, Richmond, VA 23230</p><p><strong>Cost:</strong> $15-$22</p><p>Burlesque Right Meow presents a night of burlesque and variety acts at Strangeways Brewing, hosted by Storm Psycho 6. 21+.</p>]]></description>
+    <category>variety</category>
+    <category>adult</category>
+    <category>recurring</category>
+  </item>
+  <item>
+    <title>Burlesque Right Meow</title>
+    <link>https://basiccityrva.com/calendar</link>
+    <guid isPermaLink="false">2026-07-31-1930-basic-city@rvaburlesque</guid>
+    <pubDate>Fri, 31 Jul 2026 19:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Friday, July 31, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow brings a variety burlesque show to Basic City RVA&#x27;s taproom.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
     <category>recurring</category>
@@ -127,51 +67,40 @@
   <item>
     <title>The Reveal Revue: A Night Of Budding Burlesque Performances</title>
     <link>https://buytickets.at/burlesquerightmeowllc/2291157</link>
-    <guid isPermaLink="false">2026-07-31-1930-burlesque-right-meow@rvaburlesque</guid>
+    <guid isPermaLink="false">2026-07-31-1930-richmond-cultureworks@rvaburlesque</guid>
     <pubDate>Fri, 31 Jul 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, July 31, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City Beer Co. (Southside), 212 W 6th St, Richmond, VA 23224</p><p><strong>Cost:</strong> $15 adv. / $20 dos.</p><p>A showcase of up-and-coming burlesque performers and fresh new acts at Basic City Beer Co., celebrating growth and bold expression in the RVA burlesque scene. 21+.</p>]]></description>
-    <category>variety</category>
-    <category>recurring</category>
-    <category>adult</category>
-  </item>
-  <item>
-    <title>Burlesque Right Meow</title>
-    <link>https://basiccityrva.com/calendar</link>
-    <guid isPermaLink="false">2026-07-31-1930-basic-city@rvaburlesque</guid>
-    <pubDate>Fri, 31 Jul 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, July 31, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow presents a live burlesque variety show at Basic City RVA&#x27;s taproom.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Friday, July 31, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City Beer Co., 212 W 6th St, Richmond, VA 23224</p><p><strong>Cost:</strong> $15-$22</p><p>Burlesque Right Meow showcases up-and-coming burlesque performers at Basic City Beer Co., hosted by Darshe Dazzles.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
   </item>
   <item>
     <title>Orchard After Dark</title>
-    <link>https://elliequinnpresents.square.site/product/orchard-after-dark-8-7/AMOUX5NOMHOEVFXAERVSXA5M</link>
-    <guid isPermaLink="false">2026-08-07-2000-ellie-quinn@rvaburlesque</guid>
+    <link>https://elliequinnpresents.square.site/</link>
+    <guid isPermaLink="false">2026-08-07-2000-richmond-cultureworks@rvaburlesque</guid>
     <pubDate>Fri, 07 Aug 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, August 7, 2026 · 8pm – 9:30pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Road, Richmond, VA 23230</p><p><strong>Cost:</strong> $21.00</p><p>An immersive summer burlesque showcase set in an enchanted orchard at Blue Bee Cider, featuring fantasy and transformation themes. 18+.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Friday, August 7, 2026 · 8pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Rd, Richmond, VA 23230</p><p>Ellie Quinn Presents an immersive, whimsical burlesque fantasy show set in an enchanted orchard at Blue Bee Cider. 18+.</p>]]></description>
     <category>themed</category>
     <category>immersive</category>
     <category>adult</category>
   </item>
   <item>
-    <title>Studio 8: A Disco Burlesque Experience</title>
-    <link>https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1991429407967</link>
-    <guid isPermaLink="false">2026-08-21-2000-gallery5@rvaburlesque</guid>
-    <pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, August 21, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p>One-night disco-themed burlesque revue presented by Onyx &amp; 8th, featuring showgirls and immersive nightlife performances from Jo&#x27;Rie Tigerlily, Darshe Dazzles, Kayy Lovely, Zorra Valetine and more. 18+ show.</p>]]></description>
-    <category>immersive</category>
-    <category>themed</category>
-    <category>adult</category>
-  </item>
-  <item>
-    <title>RVA Burlesque Bingo</title>
-    <link>https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL</link>
-    <guid isPermaLink="false">2026-09-04-2000-ellie-quinn@rvaburlesque</guid>
+    <title>Burlesque Bingo</title>
+    <link>https://outrva.com/events/burlesque-bingo-1-zney7</link>
+    <guid isPermaLink="false">2026-09-04-2000-outrva@rvaburlesque</guid>
     <pubDate>Fri, 04 Sep 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, September 4, 2026 · 8pm – 9:30pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Road, Richmond, VA 23230</p><p><strong>Cost:</strong> $21.00</p><p>Performance-based burlesque bingo at Blue Bee Cider — mark your card based on live moments and mayhem, with prizes and cider. 21+.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Friday, September 4, 2026 · 8pm – 10pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Road, Richmond, VA, 23230, United States</p><p>Performance-based burlesque bingo night at Blue Bee Cider featuring Binky Daze, Conejita Luxxe, Isabel Astrum, and Luna LaMorgue, with bold striptease and campy chaos. 21+.</p>]]></description>
     <category>bingo</category>
-    <category>recurring</category>
     <category>adult</category>
+  </item>
+  <item>
+    <title>Burlesque Right Meow</title>
+    <link>https://basiccityrva.com/calendar</link>
+    <guid isPermaLink="false">2026-09-26-1930-basic-city@rvaburlesque</guid>
+    <pubDate>Sat, 26 Sep 2026 19:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 26, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow brings a variety burlesque show to Basic City RVA&#x27;s taproom.</p>]]></description>
+    <category>variety</category>
+    <category>adult</category>
+    <category>recurring</category>
   </item>
   <item>
     <title>RVA Burlesque Festival 2026</title>
@@ -182,6 +111,16 @@
     <category>festival</category>
     <category>variety</category>
     <category>adult</category>
+  </item>
+  <item>
+    <title>Burlesque Right Meow</title>
+    <link>https://basiccityrva.com/calendar</link>
+    <guid isPermaLink="false">2026-11-28-1930-basic-city@rvaburlesque</guid>
+    <pubDate>Sat, 28 Nov 2026 19:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 28, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow brings a variety burlesque show to Basic City RVA&#x27;s taproom.</p>]]></description>
+    <category>variety</category>
+    <category>adult</category>
+    <category>recurring</category>
   </item>
 </channel>
 </rss>
