@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-07-18-1830-sparkdazzle-entertainment@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260718T183000
 DTEND:20260718T220000
 SUMMARY:MIX! at The Moxy\, A Variety Show
@@ -22,7 +22,7 @@ URL:https://www.eventbrite.com/e/mix-at-the-moxy-a-variety-show-tickets-19930233
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-1900-outrva@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260725T190000
 DTEND:20260725T230000
 SUMMARY:VIOLET TEASE - A Burlesque Show/Dance Party/Fundraiser for RCRD
@@ -37,7 +37,7 @@ URL:https://outrva.com/events/violet-tease-a-burlesque-showdance-partyfundraiser
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260725T190000
 DTEND:20260725T230000
 SUMMARY:Violet Tease - a burlesque show/dance party/fundraiser for RCRD
@@ -50,7 +50,7 @@ URL:https://www.tinyurl.com/violettease2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-2030-outrva@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260725T203000
 DTEND:20260725T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
@@ -64,7 +64,7 @@ URL:https://outrva.com/events/pours-and-pasties-burlesque-and-variety-show-4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-2030-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260725T203000
 DTEND:20260725T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
@@ -77,7 +77,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2285493
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-1930-basic-city@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:Burlesque Right Meow
@@ -88,7 +88,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-1930-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:The Reveal Revue: A Night Of Budding Burlesque Performances
@@ -100,7 +100,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2291157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07-2000-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260807T200000
 DTEND:20260807T220000
 SUMMARY:Orchard After Dark
@@ -112,7 +112,7 @@ URL:https://elliequinnpresents.square.site/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-2000-outrva@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260904T200000
 DTEND:20260904T220000
 SUMMARY:Burlesque Bingo
@@ -126,7 +126,7 @@ URL:https://outrva.com/events/burlesque-bingo-1-zney7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
@@ -137,21 +137,19 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260714T145147Z
+DTSTAMP:20260717T120115Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
 LOCATION:Richmond\, VA
-DESCRIPTION:Annual multi-day burlesque festival celebrating the art of burl
- esque in Richmond\, VA through artistic expression\, diversity\, and empow
- erment. The 2026 event runs November 5th–7th\; specific venue\, schedule\,
-  and ticket details not yet announced.\n\nInfo: https://rvaburlesquefestiv
- al.com/tickets
+DESCRIPTION:Annual multi-day burlesque festival in Richmond\, VA\, running 
+ November 5th-7th\, 2026. Tickets\, venue\, and schedule details not yet an
+ nounced.\n\nInfo: https://rvaburlesquefestival.com/tickets
 URL:https://rvaburlesquefestival.com/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-1930-basic-city@rvaburlesque
-DTSTAMP:20260714T145148Z
+DTSTAMP:20260717T120115Z
 DTSTART:20261128T193000
 DTEND:20261128T220000
 SUMMARY:Burlesque Right Meow

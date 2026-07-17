@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 14:51:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 12:01:15 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>MIX! at The Moxy, A Variety Show</title>
@@ -107,7 +107,7 @@
     <link>https://rvaburlesquefestival.com/tickets</link>
     <guid isPermaLink="false">2026-11-05-0000-rva-burlesque-festival@rvaburlesque</guid>
     <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Thursday, November 5, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival celebrating the art of burlesque in Richmond, VA through artistic expression, diversity, and empowerment. The 2026 event runs November 5th–7th; specific venue, schedule, and ticket details not yet announced.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Thursday, November 5, 2026</p><p><strong>Where:</strong> Richmond, VA</p><p>Annual multi-day burlesque festival in Richmond, VA, running November 5th-7th, 2026. Tickets, venue, and schedule details not yet announced.</p>]]></description>
     <category>festival</category>
     <category>variety</category>
     <category>adult</category>
