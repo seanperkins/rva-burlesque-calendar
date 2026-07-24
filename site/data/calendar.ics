@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-07-21-2030-veil-brewing@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260721T203000
 DTEND:20260721T210000
 SUMMARY:Under The Veil: A Night Of Burlesque & Variety Entertainment
@@ -21,7 +21,7 @@ URL:https://burlesquerightmeow.ticketspice.com/undertheveil
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-1900-outrva@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260725T190000
 DTEND:20260725T230000
 SUMMARY:VIOLET TEASE - A Burlesque Show/Dance Party/Fundraiser for RCRD
@@ -35,7 +35,7 @@ URL:https://outrva.com/events/violet-tease-a-burlesque-showdance-partyfundraiser
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260725T190000
 DTEND:20260725T230000
 SUMMARY:Violet Tease - a burlesque show/dance party/fundraiser for RCRD
@@ -48,7 +48,7 @@ URL:https://www.tinyurl.com/violettease2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-2030-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260725T203000
 DTEND:20260725T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show RVA
@@ -63,7 +63,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2285493
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-2030-outrva@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260725T203000
 DTEND:20260725T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
@@ -76,7 +76,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2285493
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-2030-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260725T203000
 DTEND:20260725T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
@@ -90,7 +90,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2285493
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-2030-visit-richmond-va@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260725T203000
 DTEND:20260725T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
@@ -104,7 +104,7 @@ URL:https://www.visitrichmondva.com/event/pours-and-pasties-burlesque-and-variet
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-1930-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:The Reveal Revue: A Night Of Budding Burlesque Performances
@@ -117,7 +117,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2291157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-1930-basic-city@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:Burlesque Right Meow
@@ -128,7 +128,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260807T200000
 DTEND:20260807T213000
 SUMMARY:Orchard After Dark
@@ -141,7 +141,7 @@ URL:https://elliequinnpresents.square.site/product/orchard-after-dark-8-7/AMOUX5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-1900-gallery5@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260815T190000
 DTEND:20260815T223000
 SUMMARY:RadQueer presents Camp Genderf*ck
@@ -154,7 +154,7 @@ URL:https://radqueer26.eventbrite.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21-2000-gallery5@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260821T200000
 DTEND:20260821T230000
 SUMMARY:Studio 8: A Disco Burlesque Experience
@@ -168,7 +168,7 @@ URL:https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260904T200000
 DTEND:20260904T213000
 SUMMARY:RVA Burlesque Bingo
@@ -181,7 +181,7 @@ URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
@@ -192,7 +192,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260721T123904Z
+DTSTAMP:20260724T123946Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
