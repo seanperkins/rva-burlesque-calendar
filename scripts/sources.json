@@ -295,5 +295,17 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "Community Instagram account (not a single troupe or venue) that aggregates burlesque/cabaret event announcements, ticket links, and a newsletter covering RVA-area shows across multiple producers and venues. Useful for catching one-off or independently produced shows (e.g. themed nerdlesque nights, guest showcases) that don't have their own dedicated event pages and aren't already surfaced by other tracked sources. Extract only posts with concrete announced dates/venues."
+  },
+  {
+    "id": "strangeways-brewing",
+    "url": "https://strangewaysbrewing.com/happenings/",
+    "location": "Strangeways Brewing (Scott's Addition)",
+    "address": "3110 W Leigh St, Richmond, VA 23230",
+    "defaultTags": [
+      "variety",
+      "adult"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Scott's Addition brewery that hosts Burlesque Right Meow's 'Pours and Pasties' burlesque and variety show, typically monthly. Filter the happenings page for events with 'Pours & Pasties' or 'Burlesque' in the title at the Richmond/Scott's Addition location specifically (the page also lists a separate Fredericksburg location's events \u2014 exclude those). Capture date, time, and ticket link."
   }
 ]
