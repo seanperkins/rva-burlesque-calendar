@@ -1,158 +1,6 @@
 {
-  "lastUpdated": "2026-07-24T12:39:46Z",
+  "lastUpdated": "2026-07-28T12:34:03Z",
   "events": [
-    {
-      "source": "veil-brewing",
-      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/undertheveil",
-      "title": "Under The Veil: A Night Of Burlesque & Variety Entertainment",
-      "date": "2026-07-21",
-      "startTime": "20:30",
-      "endTime": "21:00",
-      "location": "The Veil Brewing - Scott's Addition",
-      "address": "1509B Belleville St, Richmond, VA 23230",
-      "cost": "$15",
-      "costValue": 15.0,
-      "url": "https://burlesquerightmeow.ticketspice.com/undertheveil",
-      "description": "An in-the-round burlesque and variety show by Burlesque Right Meow at The Veil Brewing, doors at 8:30pm with the show starting at 9pm.",
-      "tags": [
-        "variety",
-        "themed",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "closed",
-      "instructor": null
-    },
-    {
-      "source": "outrva",
-      "sourceUrl": "https://outrva.com/events",
-      "title": "VIOLET TEASE - A Burlesque Show/Dance Party/Fundraiser for RCRD",
-      "date": "2026-07-25",
-      "startTime": "19:00",
-      "endTime": "23:00",
-      "location": "Studio Two Three",
-      "address": "109 West 15th St, Richmond, VA 23224",
-      "cost": "$10-$25 sliding scale",
-      "costValue": 10,
-      "url": "https://outrva.com/events/violet-tease-a-burlesque-showdance-partyfundraiser-for-rcrd",
-      "description": "SLUG and RadQueer Productions present a night of burlesque performances, go-go dancers, and a dance party benefiting River City Roller Derby, hosted by Venessa Chevelle.",
-      "tags": [
-        "variety",
-        "themed",
-        "adult"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "richmond-cultureworks",
-      "sourceUrl": "https://calendar.richmondcultureworks.org",
-      "title": "Violet Tease - a burlesque show/dance party/fundraiser for RCRD",
-      "date": "2026-07-25",
-      "startTime": "19:00",
-      "endTime": "23:00",
-      "location": "Studio Two-Three",
-      "address": "109 W 15th St, Richmond, VA 23224",
-      "cost": "$10-$25",
-      "costValue": 10.0,
-      "url": "https://www.tinyurl.com/violettease2026",
-      "description": "RadQueer Productions and SLUG present a queer burlesque show, dance party, and fundraiser for River City Roller Derby, featuring burlesque performances and go-go dancers.",
-      "tags": [
-        "variety",
-        "adult"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "burlesque-right-meow",
-      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
-      "title": "Pours and Pasties Burlesque and Variety Show RVA",
-      "date": "2026-07-25",
-      "startTime": "20:30",
-      "endTime": "23:00",
-      "location": "Strangeways Brewing - Scott's Addition",
-      "address": "3110 West Leigh St, Richmond, VA 23230",
-      "cost": "$15-$22",
-      "costValue": 15.0,
-      "url": "https://buytickets.at/burlesquerightmeowllc/2285493",
-      "description": "Burlesque Right Meow presents a lineup of dazzling burlesque and variety acts from across the region at Strangeways Brewing, featuring D3adp4nn, Kill Gil, Mary Jane French, Nastya Nice, Scarlet Starlet, and Tziporah Tziviah.",
-      "tags": [
-        "variety",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "outrva",
-      "sourceUrl": "https://outrva.com/events",
-      "title": "Pours and Pasties Burlesque and Variety Show!",
-      "date": "2026-07-25",
-      "startTime": "20:30",
-      "endTime": "23:00",
-      "location": "Strangeways Brewing",
-      "address": "3110 West Leigh Street, Richmond, VA 23230",
-      "cost": "$15-$22",
-      "costValue": 15,
-      "url": "https://buytickets.at/burlesquerightmeowllc/2285493",
-      "description": "Burlesque Right Meow presents a lineup of burlesque and variety acts from across the region at Strangeways Brewing, hosted by Storm Psycho 6. 21+.",
-      "tags": [
-        "variety",
-        "adult"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "richmond-cultureworks",
-      "sourceUrl": "https://calendar.richmondcultureworks.org",
-      "title": "Pours and Pasties Burlesque and Variety Show!",
-      "date": "2026-07-25",
-      "startTime": "20:30",
-      "endTime": "23:00",
-      "location": "Strangeways Brewing RVA - Scotts Addition",
-      "address": "3110 W Leigh St, Richmond, VA 23230",
-      "cost": "$15-$22",
-      "costValue": 15.0,
-      "url": "https://buytickets.at/burlesquerightmeowllc/2285493",
-      "description": "Burlesque Right Meow presents a lineup of burlesque and variety acts from across the region at Strangeways Brewing, hosted by Storm Psycho 6.",
-      "tags": [
-        "variety",
-        "adult",
-        "recurring"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "visit-richmond-va",
-      "sourceUrl": "https://www.visitrichmondva.com/event/?search=burlesque",
-      "title": "Pours and Pasties Burlesque and Variety Show!",
-      "date": "2026-07-25",
-      "startTime": "20:30",
-      "endTime": "23:00",
-      "location": "Strangeways Brewing RVA Scott's - Addition",
-      "address": "3110 West Leigh Street, Richmond, VA 23230",
-      "cost": "$15 advance / $20 door / $22 VIP",
-      "costValue": 15.0,
-      "url": "https://www.visitrichmondva.com/event/pours-and-pasties-burlesque-and-variety-show!/51234/",
-      "description": "Burlesque Right Meow presents a summer burlesque and variety show at Strangeways Brewing, featuring performers from across the region. 21+.",
-      "tags": [
-        "variety",
-        "adult"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
     {
       "source": "burlesque-right-meow",
       "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
@@ -186,9 +34,10 @@
       "cost": "",
       "costValue": null,
       "url": "https://basiccityrva.com/calendar",
-      "description": "Burlesque Right Meow brings a burlesque variety show to Basic City RVA's taproom.",
+      "description": "Burlesque Right Meow brings a variety burlesque show to Basic City RVA's taproom.",
       "tags": [
-        "variety"
+        "variety",
+        "adult"
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
@@ -294,9 +143,10 @@
       "cost": "",
       "costValue": null,
       "url": "https://basiccityrva.com/calendar",
-      "description": "Burlesque Right Meow brings a burlesque variety show to Basic City RVA's taproom.",
+      "description": "Burlesque Right Meow brings a variety burlesque show to Basic City RVA's taproom.",
       "tags": [
-        "variety"
+        "variety",
+        "adult"
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
@@ -313,10 +163,30 @@
       "address": null,
       "cost": "",
       "costValue": null,
-      "url": "https://rvaburlesquefestival.com/tickets",
-      "description": "Annual multi-day burlesque festival in Richmond, VA, running November 5th-7th, 2026. Tickets, venue, and schedule details not yet announced.",
+      "url": "https://rvaburlesquefestival.com/",
+      "description": "Annual multi-day burlesque festival in Richmond, VA, running November 5-7, 2026. Ticket sales and venue/schedule details have not yet been announced.",
       "tags": [
         "festival",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "basic-city",
+      "sourceUrl": "https://basiccityrva.com/",
+      "title": "Burlesque Right Meow",
+      "date": "2026-11-28",
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "location": "Basic City RVA",
+      "address": "212 W 6th St, Richmond, VA 23224",
+      "cost": "",
+      "costValue": null,
+      "url": "https://basiccityrva.com/calendar",
+      "description": "Burlesque Right Meow brings a variety burlesque show to Basic City RVA's taproom.",
+      "tags": [
         "variety",
         "adult"
       ],

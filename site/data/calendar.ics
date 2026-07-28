@@ -6,105 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
-UID:2026-07-21-2030-veil-brewing@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260721T203000
-DTEND:20260721T210000
-SUMMARY:Under The Veil: A Night Of Burlesque & Variety Entertainment
-LOCATION:The Veil Brewing - Scott's Addition\, 1509B Belleville St\, Richmo
- nd\, VA 23230
-DESCRIPTION:An in-the-round burlesque and variety show by Burlesque Right M
- eow at The Veil Brewing\, doors at 8:30pm with the show starting at 9pm.\n
- \nCost: $15\n\nInfo: https://burlesquerightmeow.ticketspice.com/undertheve
- il
-URL:https://burlesquerightmeow.ticketspice.com/undertheveil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-25-1900-outrva@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260725T190000
-DTEND:20260725T230000
-SUMMARY:VIOLET TEASE - A Burlesque Show/Dance Party/Fundraiser for RCRD
-LOCATION:Studio Two Three\, 109 West 15th St\, Richmond\, VA 23224
-DESCRIPTION:SLUG and RadQueer Productions present a night of burlesque perf
- ormances\, go-go dancers\, and a dance party benefiting River City Roller 
- Derby\, hosted by Venessa Chevelle.\n\nCost: $10-$25 sliding scale\n\nInfo
- : https://outrva.com/events/violet-tease-a-burlesque-showdance-partyfundra
- iser-for-rcrd
-URL:https://outrva.com/events/violet-tease-a-burlesque-showdance-partyfundraiser-for-rcrd
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-25-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260725T190000
-DTEND:20260725T230000
-SUMMARY:Violet Tease - a burlesque show/dance party/fundraiser for RCRD
-LOCATION:Studio Two-Three\, 109 W 15th St\, Richmond\, VA 23224
-DESCRIPTION:RadQueer Productions and SLUG present a queer burlesque show\, 
- dance party\, and fundraiser for River City Roller Derby\, featuring burle
- sque performances and go-go dancers.\n\nCost: $10-$25\n\nInfo: https://www
- .tinyurl.com/violettease2026
-URL:https://www.tinyurl.com/violettease2026
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-25-2030-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260725T203000
-DTEND:20260725T230000
-SUMMARY:Pours and Pasties Burlesque and Variety Show RVA
-LOCATION:Strangeways Brewing - Scott's Addition\, 3110 West Leigh St\, Rich
- mond\, VA 23230
-DESCRIPTION:Burlesque Right Meow presents a lineup of dazzling burlesque an
- d variety acts from across the region at Strangeways Brewing\, featuring D
- 3adp4nn\, Kill Gil\, Mary Jane French\, Nastya Nice\, Scarlet Starlet\, an
- d Tziporah Tziviah.\n\nCost: $15-$22\n\nInfo: https://buytickets.at/burles
- querightmeowllc/2285493
-URL:https://buytickets.at/burlesquerightmeowllc/2285493
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-25-2030-outrva@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260725T203000
-DTEND:20260725T230000
-SUMMARY:Pours and Pasties Burlesque and Variety Show!
-LOCATION:Strangeways Brewing\, 3110 West Leigh Street\, Richmond\, VA 23230
-DESCRIPTION:Burlesque Right Meow presents a lineup of burlesque and variety
-  acts from across the region at Strangeways Brewing\, hosted by Storm Psyc
- ho 6. 21+.\n\nCost: $15-$22\n\nInfo: https://buytickets.at/burlesquerightm
- eowllc/2285493
-URL:https://buytickets.at/burlesquerightmeowllc/2285493
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-25-2030-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260725T203000
-DTEND:20260725T230000
-SUMMARY:Pours and Pasties Burlesque and Variety Show!
-LOCATION:Strangeways Brewing RVA - Scotts Addition\, 3110 W Leigh St\, Rich
- mond\, VA 23230
-DESCRIPTION:Burlesque Right Meow presents a lineup of burlesque and variety
-  acts from across the region at Strangeways Brewing\, hosted by Storm Psyc
- ho 6.\n\nCost: $15-$22\n\nInfo: https://buytickets.at/burlesquerightmeowll
- c/2285493
-URL:https://buytickets.at/burlesquerightmeowllc/2285493
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-25-2030-visit-richmond-va@rvaburlesque
-DTSTAMP:20260724T123946Z
-DTSTART:20260725T203000
-DTEND:20260725T230000
-SUMMARY:Pours and Pasties Burlesque and Variety Show!
-LOCATION:Strangeways Brewing RVA Scott's - Addition\, 3110 West Leigh Stree
- t\, Richmond\, VA 23230
-DESCRIPTION:Burlesque Right Meow presents a summer burlesque and variety sh
- ow at Strangeways Brewing\, featuring performers from across the region. 2
- 1+.\n\nCost: $15 advance / $20 door / $22 VIP\n\nInfo: https://www.visitri
- chmondva.com/event/pours-and-pasties-burlesque-and-variety-show!/51234/
-URL:https://www.visitrichmondva.com/event/pours-and-pasties-burlesque-and-variety-show!/51234/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-31-1930-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:The Reveal Revue: A Night Of Budding Burlesque Performances
@@ -117,18 +20,18 @@ URL:https://buytickets.at/burlesquerightmeowllc/2291157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-1930-basic-city@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260731T193000
 DTEND:20260731T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
-DESCRIPTION:Burlesque Right Meow brings a burlesque variety show to Basic C
+DESCRIPTION:Burlesque Right Meow brings a variety burlesque show to Basic C
  ity RVA's taproom.\n\nInfo: https://basiccityrva.com/calendar
 URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260807T200000
 DTEND:20260807T213000
 SUMMARY:Orchard After Dark
@@ -141,7 +44,7 @@ URL:https://elliequinnpresents.square.site/product/orchard-after-dark-8-7/AMOUX5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-1900-gallery5@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260815T190000
 DTEND:20260815T223000
 SUMMARY:RadQueer presents Camp Genderf*ck
@@ -154,7 +57,7 @@ URL:https://radqueer26.eventbrite.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21-2000-gallery5@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260821T200000
 DTEND:20260821T230000
 SUMMARY:Studio 8: A Disco Burlesque Experience
@@ -168,7 +71,7 @@ URL:https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260904T200000
 DTEND:20260904T213000
 SUMMARY:RVA Burlesque Bingo
@@ -181,25 +84,36 @@ URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
-DESCRIPTION:Burlesque Right Meow brings a burlesque variety show to Basic C
+DESCRIPTION:Burlesque Right Meow brings a variety burlesque show to Basic C
  ity RVA's taproom.\n\nInfo: https://basiccityrva.com/calendar
 URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260724T123946Z
+DTSTAMP:20260728T123403Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
 LOCATION:Richmond\, VA
 DESCRIPTION:Annual multi-day burlesque festival in Richmond\, VA\, running 
- November 5th-7th\, 2026. Tickets\, venue\, and schedule details not yet an
- nounced.\n\nInfo: https://rvaburlesquefestival.com/tickets
-URL:https://rvaburlesquefestival.com/tickets
+ November 5-7\, 2026. Ticket sales and venue/schedule details have not yet 
+ been announced.\n\nInfo: https://rvaburlesquefestival.com/
+URL:https://rvaburlesquefestival.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-1930-basic-city@rvaburlesque
+DTSTAMP:20260728T123403Z
+DTSTART:20261128T193000
+DTEND:20261128T220000
+SUMMARY:Burlesque Right Meow
+LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
+DESCRIPTION:Burlesque Right Meow brings a variety burlesque show to Basic C
+ ity RVA's taproom.\n\nInfo: https://basiccityrva.com/calendar
+URL:https://basiccityrva.com/calendar
 END:VEVENT
 END:VCALENDAR
