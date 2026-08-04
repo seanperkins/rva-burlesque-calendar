@@ -1,46 +1,26 @@
 {
-  "lastUpdated": "2026-07-31T12:00:03Z",
+  "lastUpdated": "2026-08-04T12:32:18Z",
   "events": [
     {
-      "source": "burlesque-right-meow",
-      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
-      "title": "The Reveal Revue: A Night Of Budding Burlesque Performances",
-      "date": "2026-07-31",
-      "startTime": "19:30",
-      "endTime": "22:00",
-      "location": "Basic City Beer Co.",
-      "address": "212 W 6th St, Richmond, VA 23224",
-      "cost": "$15-$22",
-      "costValue": 15.0,
-      "url": "https://buytickets.at/burlesquerightmeowllc/2291157",
-      "description": "Burlesque Right Meow showcases up-and-coming burlesque performers at Basic City Beer Co., celebrating growth, creativity, and bold expression.",
-      "tags": [
-        "variety",
-        "adult"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "basic-city",
-      "sourceUrl": "https://basiccityrva.com/",
-      "title": "Burlesque Right Meow",
-      "date": "2026-07-31",
-      "startTime": "19:30",
-      "endTime": "22:00",
-      "location": "Basic City RVA",
-      "address": "212 W 6th St, Richmond, VA 23224",
+      "source": "veil-brewing",
+      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/undertheveil",
+      "title": "Under The Veil: A Night Of Burlesque & Variety Entertainment",
+      "date": "2026-08-04",
+      "startTime": "21:00",
+      "endTime": null,
+      "location": "The Veil Brewing Co - Scott's Addition",
+      "address": "1509B Belleville St, Richmond, VA 23230",
       "cost": "",
       "costValue": null,
-      "url": "https://basiccityrva.com/calendar",
-      "description": "Burlesque Right Meow brings a variety burlesque show to Basic City RVA's taproom.",
+      "url": "https://burlesquerightmeow.ticketspice.com/undertheveil",
+      "description": "Burlesque Right Meow's in-the-round burlesque and variety show at The Veil Brewing. Doors at 8:30pm, show at 9pm; online sales closed for this date, tickets available at the door.",
       "tags": [
         "variety",
-        "adult"
+        "adult",
+        "recurring"
       ],
       "status": "confirmed",
-      "registrationStatus": "unknown",
+      "registrationStatus": "closed",
       "instructor": null
     },
     {
@@ -88,6 +68,29 @@
       "instructor": null
     },
     {
+      "source": "richmond-cultureworks",
+      "sourceUrl": "https://calendar.richmondcultureworks.org",
+      "title": "CAMP GENDERF*CK! Burlesque & Variety Show",
+      "date": "2026-08-15",
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "location": "Gallery5",
+      "address": "200 W Marshall St, Richmond, VA 23220",
+      "cost": "$10-$25",
+      "costValue": 10.0,
+      "url": "https://radqueer26.eventbrite.com",
+      "description": "RadQueer Productions presents a burlesque celebration of camp and genderf*ck, hosted by Mx. Casey Camp and featuring Bert Shaffer, Gordita Maricona, Journey, Jungle Julia, Leila Lovely, Mister E, Mouse Macabre, Qing Blaze, and Salem Sirene. Doors 7PM, show 8PM, 18+.",
+      "tags": [
+        "variety",
+        "themed",
+        "adult",
+        "lgbtqia"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "gallery5",
       "sourceUrl": "https://gallery5arts.org/calendar",
       "title": "Studio 8: A Disco Burlesque Experience",
@@ -107,6 +110,28 @@
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "burlesque-right-meow",
+      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
+      "title": "Pours and Pasties Burlesque and Variety Show",
+      "date": "2026-08-22",
+      "startTime": null,
+      "endTime": null,
+      "location": "Strangeways Brewing (Scott's Addition)",
+      "address": "3110 West Leigh St, Richmond, VA 23230",
+      "cost": "",
+      "costValue": null,
+      "url": "https://buytickets.at/burlesquerightmeowllc/2329614",
+      "description": "Burlesque Right Meow's recurring burlesque and variety show at Strangeways Brewing's Scott's Addition tasting room.",
+      "tags": [
+        "variety",
+        "recurring",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
@@ -142,8 +167,8 @@
       "address": "212 W 6th St, Richmond, VA 23224",
       "cost": "",
       "costValue": null,
-      "url": "https://basiccityrva.com/calendar",
-      "description": "Burlesque Right Meow brings a variety burlesque show to Basic City RVA's taproom.",
+      "url": "https://basiccityrva.com/events/",
+      "description": "Burlesque Right Meow performs a live burlesque show at Basic City RVA.",
       "tags": [
         "variety",
         "adult"
@@ -184,8 +209,8 @@
       "address": "212 W 6th St, Richmond, VA 23224",
       "cost": "",
       "costValue": null,
-      "url": "https://basiccityrva.com/calendar",
-      "description": "Burlesque Right Meow brings a variety burlesque show to Basic City RVA's taproom.",
+      "url": "https://basiccityrva.com/events/",
+      "description": "Burlesque Right Meow performs a live burlesque show at Basic City RVA.",
       "tags": [
         "variety",
         "adult"

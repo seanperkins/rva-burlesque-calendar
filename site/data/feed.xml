@@ -6,25 +6,17 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Fri, 31 Jul 2026 12:00:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 12:32:18 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
-    <title>The Reveal Revue: A Night Of Budding Burlesque Performances</title>
-    <link>https://buytickets.at/burlesquerightmeowllc/2291157</link>
-    <guid isPermaLink="false">2026-07-31-1930-burlesque-right-meow@rvaburlesque</guid>
-    <pubDate>Fri, 31 Jul 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, July 31, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City Beer Co., 212 W 6th St, Richmond, VA 23224</p><p><strong>Cost:</strong> $15-$22</p><p>Burlesque Right Meow showcases up-and-coming burlesque performers at Basic City Beer Co., celebrating growth, creativity, and bold expression.</p>]]></description>
+    <title>Under The Veil: A Night Of Burlesque &amp; Variety Entertainment</title>
+    <link>https://burlesquerightmeow.ticketspice.com/undertheveil</link>
+    <guid isPermaLink="false">2026-08-04-2100-veil-brewing@rvaburlesque</guid>
+    <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Tuesday, August 4, 2026 · 9pm</p><p><strong>Where:</strong> The Veil Brewing Co - Scott&#x27;s Addition, 1509B Belleville St, Richmond, VA 23230</p><p>Burlesque Right Meow&#x27;s in-the-round burlesque and variety show at The Veil Brewing. Doors at 8:30pm, show at 9pm; online sales closed for this date, tickets available at the door.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
-  </item>
-  <item>
-    <title>Burlesque Right Meow</title>
-    <link>https://basiccityrva.com/calendar</link>
-    <guid isPermaLink="false">2026-07-31-1930-basic-city@rvaburlesque</guid>
-    <pubDate>Fri, 31 Jul 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, July 31, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow brings a variety burlesque show to Basic City RVA&#x27;s taproom.</p>]]></description>
-    <category>variety</category>
-    <category>adult</category>
+    <category>recurring</category>
   </item>
   <item>
     <title>Orchard After Dark</title>
@@ -47,6 +39,17 @@
     <category>adult</category>
   </item>
   <item>
+    <title>CAMP GENDERF*CK! Burlesque &amp; Variety Show</title>
+    <link>https://radqueer26.eventbrite.com</link>
+    <guid isPermaLink="false">2026-08-15-2000-richmond-cultureworks@rvaburlesque</guid>
+    <pubDate>Sat, 15 Aug 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, August 15, 2026 · 8pm – 10:30pm</p><p><strong>Where:</strong> Gallery5, 200 W Marshall St, Richmond, VA 23220</p><p><strong>Cost:</strong> $10-$25</p><p>RadQueer Productions presents a burlesque celebration of camp and genderf*ck, hosted by Mx. Casey Camp and featuring Bert Shaffer, Gordita Maricona, Journey, Jungle Julia, Leila Lovely, Mister E, Mouse Macabre, Qing Blaze, and Salem Sirene. Doors 7PM, show 8PM, 18+.</p>]]></description>
+    <category>variety</category>
+    <category>themed</category>
+    <category>adult</category>
+    <category>lgbtqia</category>
+  </item>
+  <item>
     <title>Studio 8: A Disco Burlesque Experience</title>
     <link>https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1991429407967</link>
     <guid isPermaLink="false">2026-08-21-2000-gallery5@rvaburlesque</guid>
@@ -54,6 +57,16 @@
     <description><![CDATA[<p><strong>When:</strong> Friday, August 21, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p>Presented by Onyx &amp; 8th, a one-night disco-themed burlesque and variety revue blending classic burlesque, showgirl glamour, and immersive nightlife performance. Doors at 8pm, show at 9pm; 18+ only.</p>]]></description>
     <category>themed</category>
     <category>immersive</category>
+    <category>adult</category>
+  </item>
+  <item>
+    <title>Pours and Pasties Burlesque and Variety Show</title>
+    <link>https://buytickets.at/burlesquerightmeowllc/2329614</link>
+    <guid isPermaLink="false">2026-08-22-0000-burlesque-right-meow@rvaburlesque</guid>
+    <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, August 22, 2026</p><p><strong>Where:</strong> Strangeways Brewing (Scott&#x27;s Addition), 3110 West Leigh St, Richmond, VA 23230</p><p>Burlesque Right Meow&#x27;s recurring burlesque and variety show at Strangeways Brewing&#x27;s Scott&#x27;s Addition tasting room.</p>]]></description>
+    <category>variety</category>
+    <category>recurring</category>
     <category>adult</category>
   </item>
   <item>
@@ -68,10 +81,10 @@
   </item>
   <item>
     <title>Burlesque Right Meow</title>
-    <link>https://basiccityrva.com/calendar</link>
+    <link>https://basiccityrva.com/events/</link>
     <guid isPermaLink="false">2026-09-26-1930-basic-city@rvaburlesque</guid>
     <pubDate>Sat, 26 Sep 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, September 26, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow brings a variety burlesque show to Basic City RVA&#x27;s taproom.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 26, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow performs a live burlesque show at Basic City RVA.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
   </item>
@@ -86,10 +99,10 @@
   </item>
   <item>
     <title>Burlesque Right Meow</title>
-    <link>https://basiccityrva.com/calendar</link>
+    <link>https://basiccityrva.com/events/</link>
     <guid isPermaLink="false">2026-11-28-1930-basic-city@rvaburlesque</guid>
     <pubDate>Sat, 28 Nov 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, November 28, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow brings a variety burlesque show to Basic City RVA&#x27;s taproom.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 28, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow performs a live burlesque show at Basic City RVA.</p>]]></description>
     <category>variety</category>
     <category>adult</category>
   </item>
