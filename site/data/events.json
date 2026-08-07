@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T12:32:18Z",
+  "lastUpdated": "2026-08-07T12:01:58Z",
   "events": [
     {
       "source": "veil-brewing",
@@ -180,22 +180,64 @@
     {
       "source": "rva-burlesque-festival",
       "sourceUrl": "https://rvaburlesquefestival.com/",
-      "title": "RVA Burlesque Festival 2026",
+      "title": "RVA Burlesque Festival: Thursday Kick-Off Showcase at The Workshop by T&D",
       "date": "2026-11-05",
-      "startTime": null,
+      "startTime": "20:00",
       "endTime": null,
-      "location": "Richmond, VA",
-      "address": null,
-      "cost": "",
-      "costValue": null,
-      "url": "https://rvaburlesquefestival.com/",
-      "description": "Annual multi-day burlesque festival in Richmond, VA, running November 5-7, 2026. Ticket sales and venue/schedule details have not yet been announced.",
+      "location": "The Workshop by T&D",
+      "address": "1400 Mactavish Ave, Richmond, VA 23230",
+      "cost": "$20",
+      "costValue": 20.0,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Kick-off showcase of the 2026 RVA Burlesque Festival at The Workshop by T&D. Doors at 7pm, show at 8pm.",
       "tags": [
         "festival",
-        "adult"
+        "variety"
       ],
       "status": "confirmed",
-      "registrationStatus": "unknown",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "rva-burlesque-festival",
+      "sourceUrl": "https://rvaburlesquefestival.com/",
+      "title": "RVA Burlesque Festival: Friday Showcase at Ember Music Hall",
+      "date": "2026-11-06",
+      "startTime": "20:00",
+      "endTime": null,
+      "location": "Ember Music Hall",
+      "address": "309 E Broad Street, Richmond, VA 23219",
+      "cost": "$25",
+      "costValue": 25.0,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Friday night showcase of the 2026 RVA Burlesque Festival at Ember Music Hall. Doors at 7pm, show at 8pm.",
+      "tags": [
+        "festival",
+        "variety"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "rva-burlesque-festival",
+      "sourceUrl": "https://rvaburlesquefestival.com/",
+      "title": "RVA Burlesque Festival: Saturday Showcase at Bolling Haxall House",
+      "date": "2026-11-07",
+      "startTime": "20:00",
+      "endTime": null,
+      "location": "Bolling Haxall House",
+      "address": "211 E Franklin Street, Richmond, VA 23219",
+      "cost": "$30",
+      "costValue": 30.0,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Saturday night showcase of the 2026 RVA Burlesque Festival at Bolling Haxall House. Doors at 7pm, show at 8pm.",
+      "tags": [
+        "festival",
+        "variety"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
