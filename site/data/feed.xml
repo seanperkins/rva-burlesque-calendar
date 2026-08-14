@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Tue, 11 Aug 2026 12:27:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 12:00:03 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>Under The Veil: A Night Of Burlesque &amp; Variety Entertainment</title>

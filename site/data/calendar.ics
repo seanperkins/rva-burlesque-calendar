@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-08-11-2100-veil-brewing@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260811T210000
 DTEND:20260811T230000
 SUMMARY:Under The Veil: A Night Of Burlesque & Variety Entertainment
@@ -21,7 +21,7 @@ URL:https://burlesquerightmeow.ticketspice.com/undertheveil
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-1900-gallery5@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260815T190000
 DTEND:20260815T223000
 SUMMARY:RadQueer presents Camp Genderf*ck
@@ -34,7 +34,7 @@ URL:https://radqueer26.eventbrite.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-1900-visit-richmond-va@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260815T190000
 DTEND:20260815T223000
 SUMMARY:Camp Genderf*ck! Burlesque & Variety Show
@@ -48,7 +48,7 @@ URL:https://www.visitrichmondva.com/event/camp-genderf*ck!-burlesque-%26-variety
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21-2000-gallery5@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260821T200000
 DTEND:20260821T230000
 SUMMARY:Studio 8: A Disco Burlesque Experience
@@ -61,7 +61,7 @@ URL:https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-22-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Pours and Pasties Burlesque and Variety Show
@@ -73,7 +73,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2329614
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-22-2030-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260822T203000
 DTEND:20260822T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
@@ -86,7 +86,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2329614
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260904T200000
 DTEND:20260904T213000
 SUMMARY:RVA Burlesque Bingo
@@ -100,7 +100,7 @@ URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
@@ -111,7 +111,7 @@ URL:https://basiccityrva.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20261105T200000
 DTEND:20261105T220000
 SUMMARY:RVA Burlesque Festival: Thursday Kick-Off Showcase at The Workshop 
@@ -124,7 +124,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20261106T200000
 DTEND:20261106T220000
 SUMMARY:RVA Burlesque Festival: Friday Showcase at Ember Music Hall
@@ -136,7 +136,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20261107T200000
 DTEND:20261107T220000
 SUMMARY:RVA Burlesque Festival: Saturday Showcase at Bolling Haxall House
@@ -148,7 +148,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-1930-basic-city@rvaburlesque
-DTSTAMP:20260811T122725Z
+DTSTAMP:20260814T120003Z
 DTSTART:20261128T193000
 DTEND:20261128T220000
 SUMMARY:Burlesque Right Meow
