@@ -6,155 +6,200 @@ METHOD:PUBLISH
 X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
-UID:2026-08-11-2100-veil-brewing@rvaburlesque
-DTSTAMP:20260814T120003Z
-DTSTART:20260811T210000
-DTEND:20260811T230000
-SUMMARY:Under The Veil: A Night Of Burlesque & Variety Entertainment
-LOCATION:The Veil Brewing - Scott's Addition\, 1509B Belleville St\, Richmo
- nd\, VA 23230
-DESCRIPTION:Burlesque and variety show by Burlesque Right Meow at The Veil 
- Brewing\, performed in-the-round. Online ticket sales have closed for this
-  show\; tickets available at the door.\n\nInfo: https://burlesquerightmeow
- .ticketspice.com/undertheveil
-URL:https://burlesquerightmeow.ticketspice.com/undertheveil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-15-1900-gallery5@rvaburlesque
-DTSTAMP:20260814T120003Z
-DTSTART:20260815T190000
-DTEND:20260815T223000
-SUMMARY:RadQueer presents Camp Genderf*ck
-LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA\, 23220
-DESCRIPTION:RadQueer Productions presents a burlesque celebration of all th
- ings camp and genderf*ck\, hosted by Mx. Casey Camp with a lineup of LGBTQ
- + performers. 18+ only.\n\nCost: $10-$25 sliding scale\n\nInfo: https://ra
- dqueer26.eventbrite.com/
-URL:https://radqueer26.eventbrite.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-15-1900-visit-richmond-va@rvaburlesque
-DTSTAMP:20260814T120003Z
-DTSTART:20260815T190000
-DTEND:20260815T223000
-SUMMARY:Camp Genderf*ck! Burlesque & Variety Show
-LOCATION:Gallery 5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:RadQueer Productions presents a burlesque celebration of camp a
- nd genderf*ck\, hosted by Mx. Casey Camp and featuring a lineup of LGBTQ+ 
- performers. 18+ only.\n\nCost: $10-$25 sliding scale\n\nInfo: https://www.
- visitrichmondva.com/event/camp-genderf*ck!-burlesque-%26-variety-show/5145
- 9/
-URL:https://www.visitrichmondva.com/event/camp-genderf*ck!-burlesque-%26-variety-show/51459/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-21-2000-gallery5@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20260821T200000
 DTEND:20260821T230000
 SUMMARY:Studio 8: A Disco Burlesque Experience
-LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA\, 23220
-DESCRIPTION:Onyx & 8th present a one-night disco-themed burlesque and varie
- ty revue with showgirls\, immersive performance\, and nightlife glamour. 1
- 8+ only.\n\nInfo: https://www.eventbrite.com/e/studio-8-a-disco-burlesque-
- experience-tickets-1991429407967
-URL:https://www.eventbrite.com/e/studio-8-a-disco-burlesque-experience-tickets-1991429407967
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:A one-night-only disco burlesque revue presented by Onyx & 8th\
+ , blending classic burlesque\, disco-era showgirl glamour\, and immersive 
+ nightlife performance. Doors at 8pm\, show at 9pm\, 18+ only.\n\nInfo: htt
+ ps://gallery5arts.org/calendar/studio-8-disco-burlesque
+URL:https://gallery5arts.org/calendar/studio-8-disco-burlesque
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-2000-outrva@rvaburlesque
+DTSTAMP:20260818T134214Z
+DTSTART:20260821T200000
+DTEND:20260821T220000
+SUMMARY:Cabernet Cabaret
+LOCATION:Black Iris- Social Club\, Art Gallery\, Event Space\, 321 East Bro
+ ad Street\, Richmond\, VA\, 23219\, United States
+DESCRIPTION:A wine tasting paired with a burlesque experience featuring fou
+ r of Richmond's best burlesque performers\, four paired wines\, and a surp
+ rise finale performance.\n\nCost: $40\n\nInfo: https://www.eventbrite.com/
+ e/cabernet-cabaret-tickets-1997772114172
+URL:https://www.eventbrite.com/e/cabernet-cabaret-tickets-1997772114172
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-22-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:Pours and Pasties Burlesque and Variety Show
-LOCATION:Strangeways Brewing (Scott's Addition)
-DESCRIPTION:Burlesque Right Meow presents a burlesque and variety show at S
- trangeways Brewing in Scott's Addition.\n\nInfo: https://buytickets.at/bur
- lesquerightmeowllc/2329614
+SUMMARY:Pours and Pasties
+LOCATION:Strangeways Brewing
+DESCRIPTION:Burlesque Right Meow's Pours and Pasties burlesque and variety 
+ show at Strangeways Brewing in Scott's Addition.\n\nInfo: https://buyticke
+ ts.at/burlesquerightmeowllc/2329614
+URL:https://buytickets.at/burlesquerightmeowllc/2329614
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-0000-strangeways-brewing@rvaburlesque
+DTSTAMP:20260818T134214Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Pours & Pasties Burlesque -Scott's Addition
+LOCATION:Strangeways Brewing - Scott's Addition\, 3110 West Leigh St\, Rich
+ mond\, VA 23230
+DESCRIPTION:Burlesque Right Meow's Pours & Pasties returns to Strangeways B
+ rewing with a night of burlesque featuring Cherry Pi\, Evie Vixen\, Harley
+  Munch\, Hunny Du Bunns\, LaShawn Rose\, Mouse Macabre\, and Scarlet Starl
+ et\, hosted by Bunny Senpai. $15 advance / $20 door general admission\, $2
+ 2 VIP reserved seating.\n\nCost: $15\n\nInfo: https://buytickets.at/burles
+ querightmeowllc/2329614
+URL:https://buytickets.at/burlesquerightmeowllc/2329614
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-2030-outrva@rvaburlesque
+DTSTAMP:20260818T134214Z
+DTSTART:20260822T203000
+DTEND:20260822T230000
+SUMMARY:Pours and Pasties Burlesque and Variety Show!
+LOCATION:Strangeways Brewing-Scott's Addition\, 3116 W Leigh St\, Richmond\
+ , VA\, 23230\, United States
+DESCRIPTION:Burlesque Right Meow returns to Strangeways Brewing with a nigh
+ t of burlesque and variety acts featuring Cherry Pi\, Evie Vixen\, Harley 
+ Munch\, Hunny Du Bunns\, LaShawn Rose\, Mouse Macabre\, and Scarlet Starle
+ t\, hosted by Bunny Senpai.\n\nCost: $15\n\nInfo: https://buytickets.at/bu
+ rlesquerightmeowllc/2329614
 URL:https://buytickets.at/burlesquerightmeowllc/2329614
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-22-2030-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20260822T203000
 DTEND:20260822T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show!
 LOCATION:Strangeways Brewing RVA - Scotts Addition\, 3110 W Leigh St\, Rich
  mond\, VA 23230
-DESCRIPTION:Burlesque Right Meow returns to Strangeways Brewing for a night
-  of burlesque and variety acts paired with craft beverages. 21+ only.\n\nC
- ost: $15-$22\n\nInfo: https://buytickets.at/burlesquerightmeowllc/2329614
+DESCRIPTION:Burlesque Right Meow presents a night of glitter\, tease\, and 
+ variety entertainment at Strangeways Brewing\, featuring Cherry Pi\, Evie 
+ Vixen\, Harley Munch\, Hunny Du Bunns\, LaShawn Rose\, Mouse Macabre\, and
+  Scarlet Starlet\, hosted by Bunny Senpai.\n\nCost: $15\n\nInfo: https://b
+ uytickets.at/burlesquerightmeowllc/2329614
+URL:https://buytickets.at/burlesquerightmeowllc/2329614
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-2030-visit-richmond-va@rvaburlesque
+DTSTAMP:20260818T134214Z
+DTSTART:20260822T203000
+DTEND:20260822T230000
+SUMMARY:Pours and Pasties Burlesque and Variety Show!
+LOCATION:Strangeways Brewing RVA Scott's - Addition\, 3110 West Leigh Stree
+ t\, Richmond\, VA 23230
+DESCRIPTION:Burlesque Right Meow presents a night of burlesque and variety 
+ at Strangeways Brewing\, featuring Cherry Pi\, Evie Vixen\, Harley Munch\,
+  Hunny Du Bunns\, LaShawn Rose\, Mouse Macabre\, and Scarlet Starlet\, hos
+ ted by Bunny Senpai.\n\nCost: $15 in advance\, $20 at door\, $22 VIP seati
+ ng\n\nInfo: https://buytickets.at/burlesquerightmeowllc/2329614
 URL:https://buytickets.at/burlesquerightmeowllc/2329614
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-2000-ellie-quinn@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20260904T200000
 DTEND:20260904T213000
 SUMMARY:RVA Burlesque Bingo
 LOCATION:Blue Bee Cider\, 4811 Bethlehem Road\, Richmond\, VA 23230
-DESCRIPTION:Performance-based bingo at Blue Bee Cider where the burlesque a
- cts fill your bingo card with moments to spot live\; prizes\, cider\, and 
- cheering encouraged. 21+ event.\n\nCost: $21.00\n\nInfo: https://elliequin
- npresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSE
- NQWL?cs=true&cst=custom
-URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL?cs=true&cst=custom
+DESCRIPTION:Burlesque bingo at Blue Bee Cider where the performances are th
+ e game — mark your card as bold striptease and campy chaos unfold live\, w
+ ith prizes for eagle-eyed players. 21+.\n\nCost: $21\n\nInfo: https://elli
+ equinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTP
+ PKVSENQWL
+URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-1900-richmond-cultureworks@rvaburlesque
+DTSTAMP:20260818T134214Z
+DTSTART:20260905T190000
+DTEND:20260905T210000
+SUMMARY:Liver Alone 2
+LOCATION:Ember Music Hall\, 309 E Broad St\, Richmond\, VA 23219
+DESCRIPTION:Ellie Quinn Presents a horror burlesque reimagining of Scream 2
+ \, featuring Caza Blanca\, Conejita Luxxe\, Ellie Quinn\, Empress de Naste
+ '\, Esther Gin\, Kill Gil\, London St. Juniper\, and special guests Cece D
+ ynamite and Ember Blaize.\n\nInfo: https://www.etix.com/ticket/p/30892292/
+ liver-alone-2-richmond-ember-musi...
+URL:https://www.etix.com/ticket/p/30892292/liver-alone-2-richmond-ember-musi...
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
 DESCRIPTION:Burlesque Right Meow performs a live burlesque show at Basic Ci
- ty RVA.\n\nInfo: https://basiccityrva.com/events/
-URL:https://basiccityrva.com/events/
+ ty RVA.\n\nInfo: https://basiccityrva.com/calendar
+URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20261105T200000
-DTEND:20261105T220000
-SUMMARY:RVA Burlesque Festival: Thursday Kick-Off Showcase at The Workshop 
- by T&D
+DTEND:20261105T230000
+SUMMARY:RVA Burlesque Festival: Thursday Kick-Off Showcase
 LOCATION:The Workshop by T&D\, 1400 Mactavish Ave\, Richmond\, VA 23230
-DESCRIPTION:Kick-off showcase of the 2026 RVA Burlesque Festival at The Wor
- kshop by T&D. Doors at 7pm\, show at 8pm.\n\nCost: $20\n\nInfo: https://ww
- w.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
+DESCRIPTION:Kick-off showcase of the 2026 RVA Burlesque Festival\, doors at
+  7pm\, show at 8pm.\n\nCost: $20\n\nInfo: https://www.zeffy.com/en-US/tick
+ eting/2026-rva-burlesque-festival
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20261106T200000
-DTEND:20261106T220000
-SUMMARY:RVA Burlesque Festival: Friday Showcase at Ember Music Hall
+DTEND:20261106T230000
+SUMMARY:RVA Burlesque Festival: Friday Showcase
 LOCATION:Ember Music Hall\, 309 E Broad Street\, Richmond\, VA 23219
-DESCRIPTION:Friday night showcase of the 2026 RVA Burlesque Festival at Emb
- er Music Hall. Doors at 7pm\, show at 8pm.\n\nCost: $25\n\nInfo: https://w
- ww.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
+DESCRIPTION:Friday night showcase of the 2026 RVA Burlesque Festival\, door
+ s at 7pm\, show at 8pm.\n\nCost: $25\n\nInfo: https://www.zeffy.com/en-US/
+ ticketing/2026-rva-burlesque-festival
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20261107T200000
-DTEND:20261107T220000
-SUMMARY:RVA Burlesque Festival: Saturday Showcase at Bolling Haxall House
+DTEND:20261107T230000
+SUMMARY:RVA Burlesque Festival: Saturday Showcase
 LOCATION:Bolling Haxall House\, 211 E Franklin Street\, Richmond\, VA 23219
-DESCRIPTION:Saturday night showcase of the 2026 RVA Burlesque Festival at B
- olling Haxall House. Doors at 7pm\, show at 8pm.\n\nCost: $30\n\nInfo: htt
- ps://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
+DESCRIPTION:Saturday night showcase closing out the 2026 RVA Burlesque Fest
+ ival\, doors at 7pm\, show at 8pm.\n\nCost: $30\n\nInfo: https://www.zeffy
+ .com/en-US/ticketing/2026-rva-burlesque-festival
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-1900-basic-city@rvaburlesque
+DTSTAMP:20260818T134214Z
+DTSTART:20261127T190000
+DTEND:20261127T220000
+SUMMARY:Nerdleque by Psycho 7 Productions
+LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
+DESCRIPTION:Nerdleque\, a nerd-themed burlesque variety show by Psycho 7 Pr
+ oductions\, at Basic City RVA.\n\nInfo: https://basiccityrva.com/calendar
+URL:https://basiccityrva.com/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-1930-basic-city@rvaburlesque
-DTSTAMP:20260814T120003Z
+DTSTAMP:20260818T134214Z
 DTSTART:20261128T193000
 DTEND:20261128T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
 DESCRIPTION:Burlesque Right Meow performs a live burlesque show at Basic Ci
- ty RVA.\n\nInfo: https://basiccityrva.com/events/
-URL:https://basiccityrva.com/events/
+ ty RVA.\n\nInfo: https://basiccityrva.com/calendar
+URL:https://basiccityrva.com/calendar
 END:VEVENT
 END:VCALENDAR
