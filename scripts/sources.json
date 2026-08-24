@@ -307,5 +307,28 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "Scott's Addition brewery that hosts Burlesque Right Meow's 'Pours and Pasties' burlesque and variety show, typically monthly. Filter the happenings page for events with 'Pours & Pasties' or 'Burlesque' in the title at the Richmond/Scott's Addition location specifically (the page also lists a separate Fredericksburg location's events \u2014 exclude those). Capture date, time, and ticket link."
+  },
+  {
+    "id": "grandstaff-stein",
+    "url": "https://grandstaffandstein.com/burlesque-brunch/",
+    "location": "Grandstaff & Stein",
+    "address": "2113 E Main St, Richmond, VA 23223",
+    "defaultTags": [
+      "variety",
+      "recurring"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Speakeasy/restaurant hosting a recurring Burlesque Brunch (the venue for Ellie Quinn Presents' nerdlesque brunch, already tracked via the ellie-quinn source). Scrape this venue page directly since it may list additional dates or venue-specific details not on Ellie Quinn's own site. No cover charge; check for date/time listings and any non-Ellie-Quinn burlesque bookings."
+  },
+  {
+    "id": "styleweekly-calendar",
+    "url": "https://www.styleweekly.com/events/",
+    "location": "Style Weekly (Richmond Alt-Weekly Events Calendar)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond alt-weekly newspaper's community events calendar, independently lists burlesque/cabaret/variety shows submitted by producers (RadQueer, SparkDazzle, Immodest Opulence, Pink Faerie, etc.) that may include listing details or dates not surfaced by other tracked aggregators. Search/filter for 'burlesque' or 'cabaret'. Requires a browser user-agent \u2014 a plain fetch without one can 403."
   }
 ]
