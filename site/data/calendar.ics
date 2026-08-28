@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-09-04-2000-blue-bee@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART:20260904T200000
 DTEND:20260904T213000
 SUMMARY:RVA Burlesque Bingo September
@@ -21,7 +21,7 @@ URL:https://www.bluebeecider.com/facebook-event/rva-burlesque-bingo-september/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-1900-outrva@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART:20260905T190000
 DTEND:20260905T210000
 SUMMARY:Liver Alone 2: A Burlesque Reimagining of Scream 2
@@ -36,7 +36,7 @@ URL:https://www.etix.com/ticket/p/30892292/liver-alone-2-richmond-ember-music-ha
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Pours and Pasties: Burlesque and Variety Show
@@ -46,7 +46,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2371532
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-0000-nu-rodeo-caldonia@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Black Champagne II
@@ -58,7 +58,7 @@ URL:https://www.instagram.com/nurodeocaldonia/p/DcbkPaGh2DG/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-2000-gallery5@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART:20260919T200000
 DTEND:20260919T230000
 SUMMARY:NRC presents Black Champagne II
@@ -73,7 +73,7 @@ URL:https://www.eventbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Dazzling Debuts: A Burlesque Student Showcase
@@ -83,7 +83,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2371548
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260825T123011Z
+DTSTAMP:20260828T120210Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
@@ -91,41 +91,5 @@ LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
 DESCRIPTION:Burlesque Right Meow performs a live burlesque show at Basic Ci
  ty RVA.\n\nInfo: https://basiccityrva.com/
 URL:https://basiccityrva.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260825T123011Z
-DTSTART:20261105T200000
-DTEND:20261105T230000
-SUMMARY:RVA Burlesque Festival: Thursday Kick-Off Showcase
-LOCATION:The Workshop by T&D\, 1400 Mactavish Ave\, Richmond\, VA 23230
-DESCRIPTION:Kick-off showcase of the 2026 RVA Burlesque Festival\, doors at
-  7pm\, show at 8pm.\n\nCost: $20\n\nInfo: https://www.zeffy.com/en-US/tick
- eting/2026-rva-burlesque-festival
-URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260825T123011Z
-DTSTART:20261106T200000
-DTEND:20261106T230000
-SUMMARY:RVA Burlesque Festival: Friday Showcase
-LOCATION:Ember Music Hall\, 309 E Broad Street\, Richmond\, VA 23219
-DESCRIPTION:Friday night showcase of the 2026 RVA Burlesque Festival\, door
- s at 7pm\, show at 8pm.\n\nCost: $25\n\nInfo: https://www.zeffy.com/en-US/
- ticketing/2026-rva-burlesque-festival
-URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-07-2000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260825T123011Z
-DTSTART:20261107T200000
-DTEND:20261107T230000
-SUMMARY:RVA Burlesque Festival: Saturday Showcase
-LOCATION:Bolling Haxall House\, 211 E Franklin Street\, Richmond\, VA 23219
-DESCRIPTION:Saturday night showcase closing out the 2026 RVA Burlesque Fest
- ival\, doors at 7pm\, show at 8pm.\n\nCost: $30\n\nInfo: https://www.zeffy
- .com/en-US/ticketing/2026-rva-burlesque-festival
-URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 END:VCALENDAR
