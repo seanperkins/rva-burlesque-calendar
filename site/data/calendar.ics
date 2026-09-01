@@ -6,90 +6,108 @@ METHOD:PUBLISH
 X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
-UID:2026-09-04-2000-blue-bee@rvaburlesque
-DTSTAMP:20260828T120210Z
+UID:2026-09-04-0000-styleweekly-calendar@rvaburlesque
+DTSTAMP:20260901T122314Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:RVA Burlesque Bingo
+LOCATION:Blue Bee Cider\, Richmond\, VA
+DESCRIPTION:Cost: $20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-2000-ellie-quinn@rvaburlesque
+DTSTAMP:20260901T122314Z
 DTSTART:20260904T200000
 DTEND:20260904T213000
-SUMMARY:RVA Burlesque Bingo September
-LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd Ste A\, Richmond\, VA 23230
-DESCRIPTION:Performance-based burlesque bingo night at Blue Bee Cider featu
- ring Binky Daze\, Isabel Astrum\, and Luna LaMorgue\, with special guests 
- Cece Dynamite and Ember Alert from New Orleans. 21+\, doors at 7:30pm.\n\n
- Info: https://www.bluebeecider.com/facebook-event/rva-burlesque-bingo-sept
- ember/
-URL:https://www.bluebeecider.com/facebook-event/rva-burlesque-bingo-september/
+SUMMARY:RVA Burlesque Bingo
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Road\, Richmond\, VA 23230
+DESCRIPTION:Performance-based bingo where the audience marks their cards ba
+ sed on live burlesque moments. 21+ event with prizes and cider.\n\nCost: $
+ 21\n\nInfo: https://elliequinnpresents.square.site/product/rva-burlesque-b
+ ingo-9-4/C2KEQTCU7KECDTPPKVSENQWL
+URL:https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-0000-styleweekly-calendar@rvaburlesque
+DTSTAMP:20260901T122314Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Liver Alone 2
+LOCATION:Ember Music Hall\, Richmond\, VA
+DESCRIPTION:Cost: $25–$60
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-1900-outrva@rvaburlesque
-DTSTAMP:20260828T120210Z
+DTSTAMP:20260901T122314Z
 DTSTART:20260905T190000
 DTEND:20260905T210000
 SUMMARY:Liver Alone 2: A Burlesque Reimagining of Scream 2
-LOCATION:Ember Music Hall\, 309 East Broad Street West\, Richmond\, VA 2321
- 9\, United States
-DESCRIPTION:Horror-burlesque parody of Scream 2 by Ellie Quinn Presents\, f
- eaturing Caza Blanca\, Conejita Luxxe\, Ellie Quinn\, Empress de Naste'\, 
- Esther Gin\, Kill Gil\, London St. Juniper\, with New Orleans guests Cece 
- Dynamite and Ember Alert.\n\nInfo: https://www.etix.com/ticket/p/30892292/
- liver-alone-2-richmond-ember-music-hall
-URL:https://www.etix.com/ticket/p/30892292/liver-alone-2-richmond-ember-music-hall
+LOCATION:Ember Music Hall\, 309 East Broad Street West\, Richmond\, VA\, 23
+ 219\, United States
+DESCRIPTION:Horror burlesque show reimagining Scream 2\, featuring Caza Bla
+ nca\, Conejita Luxxe\, Ellie Quinn\, Empress de Naste'\, Esther Gin\, Kill
+  Gil\, London St. Juniper\, and special guests Cece Dynamite and Ember Ale
+ rt. 21+.\n\nInfo: https://www.facebook.com/events/1744798309992209/
+URL:https://www.facebook.com/events/1744798309992209/
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260828T120210Z
+UID:2026-09-12-0000-styleweekly-calendar@rvaburlesque
+DTSTAMP:20260901T122314Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:Pours and Pasties: Burlesque and Variety Show
-LOCATION:Strangeways Brewing - Scott's Addition\, Richmond\, VA
-DESCRIPTION:Info: https://buytickets.at/burlesquerightmeowllc/2371532
+SUMMARY:Pours and Pasties Burlesque and Variety Show
+LOCATION:Strangeways Brewing – Scott's Addition\, Richmond\, VA
+DESCRIPTION:Cost: $15–$22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-2030-outrva@rvaburlesque
+DTSTAMP:20260901T122314Z
+DTSTART:20260912T203000
+DTEND:20260912T230000
+SUMMARY:Pours and Pasties Burlesque and Variety Show
+LOCATION:Strangeways Brewing - Scott's Addition\, 3110 West Leigh Street Ea
+ st\, Richmond\, VA\, 23230\, United States
+DESCRIPTION:Monthly burlesque and variety show at Strangeways Brewing hoste
+ d by Darshe Dazzles\, featuring Athanor Dance Collective\, JayJae Franches
+ ca\, Julep\, Leila Lovely\, Madame Van Fleet\, Mx. Casey Camp\, and Scarle
+ t Starlet. 21+.\n\nCost: $15 advance / $20 door / $22 VIP\n\nInfo: https:/
+ /buytickets.at/burlesquerightmeowllc/2371532
 URL:https://buytickets.at/burlesquerightmeowllc/2371532
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-19-0000-nu-rodeo-caldonia@rvaburlesque
-DTSTAMP:20260828T120210Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Black Champagne II
-LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Nu Rodeo Caldonia presents an evening of Black luxury and sophi
- sti-ratchetry at Gallery5. Tickets available now.\n\nInfo: https://www.ins
- tagram.com/nurodeocaldonia/p/DcbkPaGh2DG/
-URL:https://www.instagram.com/nurodeocaldonia/p/DcbkPaGh2DG/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-19-2000-gallery5@rvaburlesque
-DTSTAMP:20260828T120210Z
+DTSTAMP:20260901T122314Z
 DTSTART:20260919T200000
 DTEND:20260919T230000
 SUMMARY:NRC presents Black Champagne II
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Nu Rodeo Caldonia's Black Champagne II\, a Sophista-Ratchet Aff
- air burlesque night hosted by Qing Blaze & Jo'Rie Tigerlily\, featuring Ju
- ngle Julia\, Kayy Lovely\, and Venessa Chevelle. Every 3rd Saturday is bur
- lesque night at Gallery5. 18+ only.\n\nCost: $15–$80\n\nInfo: https://www.
- eventbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035791218?aff
- =oddtdtcreator
+DESCRIPTION:Nu Rodeo Caldonia presents Black Champagne II\, a Sophista-Ratc
+ het Affair hosted by Qing Blaze & Jo'Rie Tigerlily\, featuring Jungle Juli
+ a\, Kayy Lovely\, Venessa Chevelle and more. 18+ only\, doors at 8pm\, sho
+ w at 9pm.\n\nCost: $15-$80\n\nInfo: https://www.eventbrite.com/e/nrc-prese
+ nts-black-champagne-ii-tickets-1975035791218?aff=oddtdtcreator
 URL:https://www.eventbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035791218?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260828T120210Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Dazzling Debuts: A Burlesque Student Showcase
-LOCATION:Basic City Beer Co\, Richmond\, VA
-DESCRIPTION:Info: https://buytickets.at/burlesquerightmeowllc/2371548
-URL:https://buytickets.at/burlesquerightmeowllc/2371548
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260828T120210Z
+DTSTAMP:20260901T122314Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
-DESCRIPTION:Burlesque Right Meow performs a live burlesque show at Basic Ci
- ty RVA.\n\nInfo: https://basiccityrva.com/
+DESCRIPTION:Burlesque Right Meow performs at Basic City RVA.\n\nInfo: https
+ ://basiccityrva.com/
+URL:https://basiccityrva.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-1930-basic-city@rvaburlesque
+DTSTAMP:20260901T122314Z
+DTSTART:20261128T193000
+DTEND:20261128T220000
+SUMMARY:Burlesque Right Meow
+LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
+DESCRIPTION:Burlesque Right Meow performs at Basic City RVA.\n\nInfo: https
+ ://basiccityrva.com/
 URL:https://basiccityrva.com/
 END:VEVENT
 END:VCALENDAR
