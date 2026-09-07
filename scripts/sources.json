@@ -330,5 +330,29 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "Richmond alt-weekly newspaper's community events calendar, independently lists burlesque/cabaret/variety shows submitted by producers (RadQueer, SparkDazzle, Immodest Opulence, Pink Faerie, etc.) that may include listing details or dates not surfaced by other tracked aggregators. Search/filter for 'burlesque' or 'cabaret'. Requires a browser user-agent \u2014 a plain fetch without one can 403."
+  },
+  {
+    "id": "psycho-7-productions",
+    "url": "https://www.instagram.com/psycho7productions/",
+    "location": "Psycho 7 Productions",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond nerdlesque/variety production team running pop-culture-themed burlesque shows (e.g. 'Super Mario Cabaret', 'Diamonds and Pearls: A Pok\u00e9mon Nerdlesque Gathering', 'Avatar - The Last Reveal', the recurring 'Nerdy Thirsty Thursdays' kickback) at venues including Gallery5 and The Basement RVA. Cross-check their Eventbrite organizer page (search 'Psycho 7 Productions' or 'Storm Psycho 6/ Psycho 7 Productions') for ticket links. Extract only announced dates; skip any show already captured via the gallery5 or the-basement-rva sources unless this page has additional date/detail not listed there."
+  },
+  {
+    "id": "galaxycon-richmond-after-dark",
+    "url": "https://galaxycon.com/pages/galaxycon-richmond-after-dark",
+    "location": "GalaxyCon Richmond (After Dark Cabaret)",
+    "address": "Greater Richmond Convention Center, 403 N 3rd St, Richmond, VA 23219",
+    "defaultTags": [
+      "festival",
+      "themed",
+      "adult"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Annual pop-culture convention (typically late March) that runs an 18+ 'After Dark Cabaret' featuring nerdlesque, crossplay, and burlesque variety acts as a ticketed add-on. Capture the specific After Dark Cabaret date/time and ticket link for the current year's con \u2014 do not pull unrelated daytime programming. Only announced dates; this is not a monthly recurring show."
   }
 ]
