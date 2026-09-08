@@ -6,89 +6,147 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Fri, 04 Sep 2026 12:00:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 12:33:20 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
-    <title>RVA Burlesque Bingo</title>
-    <link>https://seanperkins.github.io/rva-burlesque-calendar/</link>
-    <guid isPermaLink="false">2026-09-04-0000-styleweekly-calendar@rvaburlesque</guid>
-    <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, September 4, 2026</p><p><strong>Where:</strong> Blue Bee Cider, Richmond, VA</p><p><strong>Cost:</strong> $20</p>]]></description>
+    <title>Pours and Pasties Burlesque and Variety Show</title>
+    <link>https://buytickets.at/burlesquerightmeowllc/2371532</link>
+    <guid isPermaLink="false">2026-09-12-0000-burlesque-right-meow@rvaburlesque</guid>
+    <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 12, 2026</p><p><strong>Where:</strong> Strangeways Brewing - Scott&#x27;s Addition</p><p>Burlesque and variety show produced by Burlesque Right Meow at Strangeways Brewing in Scott&#x27;s Addition.</p>]]></description>
     <category>variety</category>
-  </item>
-  <item>
-    <title>RVA Burlesque Bingo</title>
-    <link>https://elliequinnpresents.square.site/product/rva-burlesque-bingo-9-4/C2KEQTCU7KECDTPPKVSENQWL</link>
-    <guid isPermaLink="false">2026-09-04-2000-ellie-quinn@rvaburlesque</guid>
-    <pubDate>Fri, 04 Sep 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Friday, September 4, 2026 · 8pm – 9:30pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Road, Richmond, VA 23230</p><p><strong>Cost:</strong> $21</p><p>Performance-based bingo where the audience marks their cards based on live burlesque moments. 21+ event with prizes and cider.</p>]]></description>
-    <category>bingo</category>
-    <category>recurring</category>
-    <category>adult</category>
-  </item>
-  <item>
-    <title>Liver Alone 2</title>
-    <link>https://seanperkins.github.io/rva-burlesque-calendar/</link>
-    <guid isPermaLink="false">2026-09-05-0000-styleweekly-calendar@rvaburlesque</guid>
-    <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, September 5, 2026</p><p><strong>Where:</strong> Ember Music Hall, Richmond, VA</p><p><strong>Cost:</strong> $25–$60</p>]]></description>
-    <category>variety</category>
-  </item>
-  <item>
-    <title>Liver Alone 2: A Burlesque Reimagining of Scream 2</title>
-    <link>https://www.facebook.com/events/1744798309992209/</link>
-    <guid isPermaLink="false">2026-09-05-1900-outrva@rvaburlesque</guid>
-    <pubDate>Sat, 05 Sep 2026 19:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, September 5, 2026 · 7pm – 9pm</p><p><strong>Where:</strong> Ember Music Hall, 309 East Broad Street West, Richmond, VA, 23219, United States</p><p>Horror burlesque show reimagining Scream 2, featuring Caza Blanca, Conejita Luxxe, Ellie Quinn, Empress de Naste&#x27;, Esther Gin, Kill Gil, London St. Juniper, and special guests Cece Dynamite and Ember Alert. 21+.</p>]]></description>
-    <category>themed</category>
-    <category>adult</category>
   </item>
   <item>
     <title>Pours and Pasties Burlesque and Variety Show</title>
-    <link>https://seanperkins.github.io/rva-burlesque-calendar/</link>
-    <guid isPermaLink="false">2026-09-12-0000-styleweekly-calendar@rvaburlesque</guid>
-    <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, September 12, 2026</p><p><strong>Where:</strong> Strangeways Brewing – Scott&#x27;s Addition, Richmond, VA</p><p><strong>Cost:</strong> $15–$22</p>]]></description>
+    <link>https://www.styleweekly.com/event/pours-and-pasties-burlesque-and-variety-show-6/</link>
+    <guid isPermaLink="false">2026-09-12-2000-styleweekly-calendar@rvaburlesque</guid>
+    <pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 12, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing – Scotts Addition, 3110 W Leigh St, Richmond, VA 23230</p><p><strong>Cost:</strong> $15 – $22</p><p>Burlesque Right Meow presents an evening of burlesque and variety at Strangeways Brewing, featuring Athanor Dance Collective, JayJae Franchesca, Julep, Leila Lovely, Madame Van Fleet, Mx. Casey Camp, and Scarlet Starlet, hosted by Darshe Dazzles. 21+.</p>]]></description>
     <category>variety</category>
+    <category>adult</category>
+    <category>recurring</category>
   </item>
   <item>
     <title>Pours and Pasties Burlesque and Variety Show</title>
     <link>https://buytickets.at/burlesquerightmeowllc/2371532</link>
-    <guid isPermaLink="false">2026-09-12-2030-outrva@rvaburlesque</guid>
+    <guid isPermaLink="false">2026-09-12-2030-richmond-cultureworks@rvaburlesque</guid>
     <pubDate>Sat, 12 Sep 2026 20:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, September 12, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing - Scott&#x27;s Addition, 3110 West Leigh Street East, Richmond, VA, 23230, United States</p><p><strong>Cost:</strong> $15 advance / $20 door / $22 VIP</p><p>Monthly burlesque and variety show at Strangeways Brewing hosted by Darshe Dazzles, featuring Athanor Dance Collective, JayJae Franchesca, Julep, Leila Lovely, Madame Van Fleet, Mx. Casey Camp, and Scarlet Starlet. 21+.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 12, 2026 · 8:30pm – 11pm</p><p><strong>Where:</strong> Strangeways Brewing RVA - Scotts Addition, 3110 W Leigh St, Richmond, VA 23230</p><p><strong>Cost:</strong> $15</p><p>Burlesque Right Meow presents an evening of burlesque and variety performances at Strangeways Brewing, hosted by Darshe Dazzles with a lineup including Athanor Dance Collective, JayJae Franchesca, Julep, Leila Lovely, Madame Van Fleet, Mx. Casey Camp, and Scarlet Starlet.</p>]]></description>
     <category>variety</category>
-    <category>recurring</category>
     <category>adult</category>
+    <category>recurring</category>
+  </item>
+  <item>
+    <title>Pours and Pasties Burlesque &amp; Variety Show</title>
+    <link>https://linktr.ee/burlesquerightmeow</link>
+    <guid isPermaLink="false">2026-09-12-2100-rva-burlesque-instagram@rvaburlesque</guid>
+    <pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 12, 2026 · 9pm</p><p><strong>Where:</strong> Strangeways Brewing in Scott&#x27;s Addition, 3110 W Leigh St, Richmond, VA</p><p><strong>Cost:</strong> $15</p>]]></description>
+    <category>variety</category>
   </item>
   <item>
     <title>NRC presents Black Champagne II</title>
     <link>https://www.eventbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035791218?aff=oddtdtcreator</link>
     <guid isPermaLink="false">2026-09-19-2000-gallery5@rvaburlesque</guid>
     <pubDate>Sat, 19 Sep 2026 20:00:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, September 19, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $15-$80</p><p>Nu Rodeo Caldonia presents Black Champagne II, a Sophista-Ratchet Affair hosted by Qing Blaze &amp; Jo&#x27;Rie Tigerlily, featuring Jungle Julia, Kayy Lovely, Venessa Chevelle and more. 18+ only, doors at 8pm, show at 9pm.</p>]]></description>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 19, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $15-$80</p><p>Nu Rodeo Caldonia presents Black Champagne II, a burlesque night hosted by Qing Blaze &amp; Jo&#x27;Rie Tigerlily featuring Jungle Julia, Kayy Lovely, Venessa Chevelle and more. Doors at 8pm, show at 9pm, 18+.</p>]]></description>
     <category>variety</category>
     <category>themed</category>
     <category>adult</category>
     <category>recurring</category>
   </item>
   <item>
+    <title>Cabaret UnHappy Hour on Thursday</title>
+    <link>https://seanperkins.github.io/rva-burlesque-calendar/</link>
+    <guid isPermaLink="false">2026-09-24-0000-outrva@rvaburlesque</guid>
+    <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Thursday, September 24, 2026</p><p><strong>Where:</strong> The Poe Museum, Richmond, VA</p>]]></description>
+    <category>variety</category>
+  </item>
+  <item>
+    <title>Dazzling Debuts: A Burlesque Student Showcase</title>
+    <link>https://buytickets.at/burlesquerightmeowllc/2371548</link>
+    <guid isPermaLink="false">2026-09-26-0000-burlesque-right-meow@rvaburlesque</guid>
+    <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, September 26, 2026</p><p><strong>Where:</strong> Basic City Beer Co</p><p>Burlesque student showcase produced by Burlesque Right Meow at Basic City Beer Co.</p>]]></description>
+    <category>variety</category>
+  </item>
+  <item>
     <title>Burlesque Right Meow</title>
-    <link>https://basiccityrva.com/</link>
+    <link>https://basiccityrva.com/calendar</link>
     <guid isPermaLink="false">2026-09-26-1930-basic-city@rvaburlesque</guid>
     <pubDate>Sat, 26 Sep 2026 19:30:00 +0000</pubDate>
     <description><![CDATA[<p><strong>When:</strong> Saturday, September 26, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow performs at Basic City RVA.</p>]]></description>
     <category>variety</category>
+  </item>
+  <item>
+    <title>RVA Burlesque Festival: Thursday Kick-Off Show</title>
+    <link>https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival</link>
+    <guid isPermaLink="false">2026-11-05-1900-rva-burlesque-festival@rvaburlesque</guid>
+    <pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Thursday, November 5, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> The Workshop by T&amp;D, 1400 Mactavish Ave, Richmond, VA 23230</p><p><strong>Cost:</strong> $20</p><p>Kick-off showcase for the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors 7pm, show 8pm.</p>]]></description>
+    <category>festival</category>
+    <category>variety</category>
     <category>adult</category>
   </item>
   <item>
-    <title>Burlesque Right Meow</title>
-    <link>https://basiccityrva.com/</link>
-    <guid isPermaLink="false">2026-11-28-1930-basic-city@rvaburlesque</guid>
-    <pubDate>Sat, 28 Nov 2026 19:30:00 +0000</pubDate>
-    <description><![CDATA[<p><strong>When:</strong> Saturday, November 28, 2026 · 7:30pm – 10pm</p><p><strong>Where:</strong> Basic City RVA, 212 W 6th St, Richmond, VA 23224</p><p>Burlesque Right Meow performs at Basic City RVA.</p>]]></description>
+    <title>2026 RVA Burlesque Festival: Kick-Off Show</title>
+    <link>https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival</link>
+    <guid isPermaLink="false">2026-11-05-2000-burlesque-right-meow@rvaburlesque</guid>
+    <pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Thursday, November 5, 2026 · 8pm</p><p><strong>Where:</strong> The Workshop by T&amp;D, 1400 Mactavish Ave, Richmond VA 23230</p><p><strong>Cost:</strong> $20</p><p>Kick-off showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors at 7pm, show at 8pm.</p>]]></description>
+    <category>festival</category>
+    <category>variety</category>
+  </item>
+  <item>
+    <title>RVA Burlesque Festival: Friday Showcase</title>
+    <link>https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival</link>
+    <guid isPermaLink="false">2026-11-06-1900-rva-burlesque-festival@rvaburlesque</guid>
+    <pubDate>Fri, 06 Nov 2026 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Friday, November 6, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Ember Music Hall, 309 E Broad Street, Richmond, VA 23219</p><p><strong>Cost:</strong> $25</p><p>Friday night showcase for the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors 7pm, show 8pm.</p>]]></description>
+    <category>festival</category>
     <category>variety</category>
     <category>adult</category>
+  </item>
+  <item>
+    <title>2026 RVA Burlesque Festival: Friday Showcase</title>
+    <link>https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival</link>
+    <guid isPermaLink="false">2026-11-06-2000-burlesque-right-meow@rvaburlesque</guid>
+    <pubDate>Fri, 06 Nov 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Friday, November 6, 2026 · 8pm</p><p><strong>Where:</strong> Ember Music Hall, 309 E Broad Street, Richmond VA 23219</p><p><strong>Cost:</strong> $25</p><p>Friday night showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors at 7pm, show at 8pm.</p>]]></description>
+    <category>festival</category>
+    <category>variety</category>
+  </item>
+  <item>
+    <title>RVA Burlesque Festival: Saturday Showcase</title>
+    <link>https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival</link>
+    <guid isPermaLink="false">2026-11-07-1900-rva-burlesque-festival@rvaburlesque</guid>
+    <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 7, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Bolling Haxall House, 211 E Franklin Street, Richmond, VA 23219</p><p><strong>Cost:</strong> $30</p><p>Saturday night showcase for the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors 7pm, show 8pm.</p>]]></description>
+    <category>festival</category>
+    <category>variety</category>
+    <category>adult</category>
+  </item>
+  <item>
+    <title>2026 RVA Burlesque Festival: Saturday Showcase</title>
+    <link>https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival</link>
+    <guid isPermaLink="false">2026-11-07-2000-burlesque-right-meow@rvaburlesque</guid>
+    <pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 7, 2026 · 8pm</p><p><strong>Where:</strong> Bolling Haxall House, 211 E Franklin Street, Richmond VA 23219</p><p><strong>Cost:</strong> $30</p><p>Saturday night showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors at 7pm, show at 8pm.</p>]]></description>
+    <category>festival</category>
+    <category>variety</category>
+  </item>
+  <item>
+    <title>Orchard After Dark: A Burlesque Fantasy</title>
+    <link>https://elliequinnpresents.square.site/</link>
+    <guid isPermaLink="false">2026-12-04-2000-blue-bee@rvaburlesque</guid>
+    <pubDate>Fri, 04 Dec 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Friday, December 4, 2026 · 8pm – 9:30pm</p><p><strong>Where:</strong> Blue Bee Cider, 4811 Bethlehem Rd Ste A, Richmond, VA 23230</p><p>A sultry, whimsical burlesque experience set in an enchanted orchard at Blue Bee Cider, featuring Conejita Luxxe, Empress de Naste&#x27;, Valentina, and Venessa Chevelle. 18+, doors at 7:30 PM.</p>]]></description>
+    <category>variety</category>
+    <category>themed</category>
+    <category>immersive</category>
+    <category>adult</category>
+    <category>recurring</category>
   </item>
 </channel>
 </rss>
