@@ -6,20 +6,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
-UID:2026-09-12-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260908T123320Z
+UID:2026-09-12-0000-outrva@rvaburlesque
+DTSTAMP:20260911T140402Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Pours and Pasties Burlesque and Variety Show
-LOCATION:Strangeways Brewing - Scott's Addition
-DESCRIPTION:Burlesque and variety show produced by Burlesque Right Meow at 
- Strangeways Brewing in Scott's Addition.\n\nInfo: https://buytickets.at/bu
- rlesquerightmeowllc/2371532
-URL:https://buytickets.at/burlesquerightmeowllc/2371532
+LOCATION:Strangeways Brewing - Scott's Addition\, Richmond\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-2000-styleweekly-calendar@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20260912T200000
 DTEND:20260912T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show
@@ -35,7 +31,7 @@ URL:https://www.styleweekly.com/event/pours-and-pasties-burlesque-and-variety-sh
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-2030-richmond-cultureworks@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20260912T203000
 DTEND:20260912T230000
 SUMMARY:Pours and Pasties Burlesque and Variety Show
@@ -50,7 +46,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2371532
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-2100-rva-burlesque-instagram@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20260912T210000
 DTEND:20260912T230000
 SUMMARY:Pours and Pasties Burlesque & Variety Show
@@ -61,21 +57,22 @@ URL:https://linktr.ee/burlesquerightmeow
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-2000-gallery5@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20260919T200000
 DTEND:20260919T230000
 SUMMARY:NRC presents Black Champagne II
 LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Nu Rodeo Caldonia presents Black Champagne II\, a burlesque nig
- ht hosted by Qing Blaze & Jo'Rie Tigerlily featuring Jungle Julia\, Kayy L
- ovely\, Venessa Chevelle and more. Doors at 8pm\, show at 9pm\, 18+.\n\nCo
- st: $15-$80\n\nInfo: https://www.eventbrite.com/e/nrc-presents-black-champ
- agne-ii-tickets-1975035791218?aff=oddtdtcreator
+DESCRIPTION:Nu Rodeo Caldonia's 3rd Saturday burlesque night returns with a
+  Black-wealth\, Sophista-Ratchet themed show hosted by Qing Blaze & Jo'Rie
+  Tigerlily\, featuring Jungle Julia\, Kayy Lovely\, Venessa Chevelle and m
+ ore. 18+\, doors 8pm\, show 9pm.\n\nCost: $15-$80\n\nInfo: https://www.eve
+ ntbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035791218?aff=od
+ dtdtcreator
 URL:https://www.eventbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035791218?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-0000-outrva@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Cabaret UnHappy Hour on Thursday
@@ -83,30 +80,57 @@ LOCATION:The Poe Museum\, Richmond\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-0000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Dazzling Debuts: A Burlesque Student Showcase
-LOCATION:Basic City Beer Co
-DESCRIPTION:Burlesque student showcase produced by Burlesque Right Meow at 
- Basic City Beer Co.\n\nInfo: https://buytickets.at/burlesquerightmeowllc/2
- 371548
+LOCATION:Basic City Beer Co - Southside\, 212 West 6th Street\, Richmond\, 
+ VA
+DESCRIPTION:Student showcase produced by Burlesque Right Meow featuring new
+  performers making their burlesque debut.\n\nInfo: https://buytickets.at/b
+ urlesquerightmeowllc/2371548
 URL:https://buytickets.at/burlesquerightmeowllc/2371548
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-1930-basic-city@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20260926T193000
 DTEND:20260926T220000
 SUMMARY:Burlesque Right Meow
 LOCATION:Basic City RVA\, 212 W 6th St\, Richmond\, VA 23224
-DESCRIPTION:Burlesque Right Meow performs at Basic City RVA.\n\nInfo: https
- ://basiccityrva.com/calendar
-URL:https://basiccityrva.com/calendar
+DESCRIPTION:Burlesque show at Basic City RVA.\n\nInfo: https://basiccityrva
+ .com/
+URL:https://basiccityrva.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-2000-ellie-quinn@rvaburlesque
+DTSTAMP:20260911T140402Z
+DTSTART:20261002T200000
+DTEND:20261002T220000
+SUMMARY:Orchard After Dark: A Burlesque Fantasy
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
+DESCRIPTION:A sultry\, whimsical burlesque experience set in an enchanted o
+ rchard at Blue Bee Cider\, featuring Anya Yabbos\, Boobarella\, Twirlisha 
+ Devine\, and Ellie Quinn\, hosted by Venessa Chevelle. Doors 7:30PM\, show
+  8:00PM\, 18+.\n\nCost: $21.00\n\nInfo: https://elliequinnpresents.square.
+ site/product/orchard-after-dark-10-2/CS6XB3HLEEROTX6GZUCC3VHC
+URL:https://elliequinnpresents.square.site/product/orchard-after-dark-10-2/CS6XB3HLEEROTX6GZUCC3VHC
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-0000-burlesque-right-meow@rvaburlesque
+DTSTAMP:20260911T140402Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:2026 RVA Burlesque Festival: Thursday Kick-Off Showcase
+LOCATION:The Workshop by T&D
+DESCRIPTION:Kick-off showcase of the 2026 RVA Burlesque Festival\, hosted b
+ y the Virginia Burlesque Association.\n\nCost: $20\n\nInfo: https://www.ze
+ ffy.com/en-US/ticketing/2026-rva-burlesque-festival
+URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-1900-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20261105T190000
 DTEND:20261105T230000
 SUMMARY:RVA Burlesque Festival: Thursday Kick-Off Show
@@ -117,21 +141,20 @@ DESCRIPTION:Kick-off showcase for the 2026 RVA Burlesque Festival\, hosted
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-05-2000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260908T123320Z
-DTSTART:20261105T200000
-DTEND:20261105T220000
-SUMMARY:2026 RVA Burlesque Festival: Kick-Off Show
-LOCATION:The Workshop by T&D\, 1400 Mactavish Ave\, Richmond VA 23230
-DESCRIPTION:Kick-off showcase of the 2026 RVA Burlesque Festival\, hosted b
- y the Virginia Burlesque Association. Doors at 7pm\, show at 8pm.\n\nCost:
-  $20\n\nInfo: https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-fes
- tival
+UID:2026-11-06-0000-burlesque-right-meow@rvaburlesque
+DTSTAMP:20260911T140402Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:2026 RVA Burlesque Festival: Friday Showcase
+LOCATION:Ember Music Hall
+DESCRIPTION:Friday night showcase of the 2026 RVA Burlesque Festival\, host
+ ed by the Virginia Burlesque Association.\n\nCost: $25\n\nInfo: https://ww
+ w.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1900-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20261106T190000
 DTEND:20261106T230000
 SUMMARY:RVA Burlesque Festival: Friday Showcase
@@ -143,21 +166,20 @@ DESCRIPTION:Friday night showcase for the 2026 RVA Burlesque Festival\, hos
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-06-2000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260908T123320Z
-DTSTART:20261106T200000
-DTEND:20261106T220000
-SUMMARY:2026 RVA Burlesque Festival: Friday Showcase
-LOCATION:Ember Music Hall\, 309 E Broad Street\, Richmond VA 23219
-DESCRIPTION:Friday night showcase of the 2026 RVA Burlesque Festival\, host
- ed by the Virginia Burlesque Association. Doors at 7pm\, show at 8pm.\n\nC
- ost: $25\n\nInfo: https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque
- -festival
+UID:2026-11-07-0000-burlesque-right-meow@rvaburlesque
+DTSTAMP:20260911T140402Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:2026 RVA Burlesque Festival: Saturday Showcase
+LOCATION:Bolling Haxall House
+DESCRIPTION:Saturday night showcase of the 2026 RVA Burlesque Festival\, ho
+ sted by the Virginia Burlesque Association.\n\nCost: $30\n\nInfo: https://
+ www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-1900-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20260908T123320Z
+DTSTAMP:20260911T140402Z
 DTSTART:20261107T190000
 DTEND:20261107T230000
 SUMMARY:RVA Burlesque Festival: Saturday Showcase
@@ -169,29 +191,17 @@ DESCRIPTION:Saturday night showcase for the 2026 RVA Burlesque Festival\, h
 URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-07-2000-burlesque-right-meow@rvaburlesque
-DTSTAMP:20260908T123320Z
-DTSTART:20261107T200000
-DTEND:20261107T220000
-SUMMARY:2026 RVA Burlesque Festival: Saturday Showcase
-LOCATION:Bolling Haxall House\, 211 E Franklin Street\, Richmond VA 23219
-DESCRIPTION:Saturday night showcase of the 2026 RVA Burlesque Festival\, ho
- sted by the Virginia Burlesque Association. Doors at 7pm\, show at 8pm.\n\
- nCost: $30\n\nInfo: https://www.zeffy.com/en-US/ticketing/2026-rva-burlesq
- ue-festival
-URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-04-2000-blue-bee@rvaburlesque
-DTSTAMP:20260908T123320Z
+UID:2026-12-04-2000-ellie-quinn@rvaburlesque
+DTSTAMP:20260911T140402Z
 DTSTART:20261204T200000
-DTEND:20261204T213000
+DTEND:20261204T220000
 SUMMARY:Orchard After Dark: A Burlesque Fantasy
-LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd Ste A\, Richmond\, VA 23230
+LOCATION:Blue Bee Cider\, 4811 Bethlehem Rd\, Richmond\, VA
 DESCRIPTION:A sultry\, whimsical burlesque experience set in an enchanted o
  rchard at Blue Bee Cider\, featuring Conejita Luxxe\, Empress de Naste'\, 
- Valentina\, and Venessa Chevelle. 18+\, doors at 7:30 PM.\n\nInfo: https:/
- /elliequinnpresents.square.site/
-URL:https://elliequinnpresents.square.site/
+ Valentina\, and Venessa Chevelle. Doors 7:30PM\, show 8:00PM\, 18+.\n\nCos
+ t: $21.00\n\nInfo: https://elliequinnpresents.square.site/product/orchard-
+ after-dark-12-4/2YM7HHDYVAYJKRIDNF2SVUPP
+URL:https://elliequinnpresents.square.site/product/orchard-after-dark-12-4/2YM7HHDYVAYJKRIDNF2SVUPP
 END:VEVENT
 END:VCALENDAR

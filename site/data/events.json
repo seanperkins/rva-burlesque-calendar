@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-09-08T12:33:20Z",
+  "lastUpdated": "2026-09-11T14:04:02Z",
   "events": [
     {
-      "source": "burlesque-right-meow",
-      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
+      "source": "outrva",
+      "sourceUrl": "https://outrva.com/events",
       "title": "Pours and Pasties Burlesque and Variety Show",
       "date": "2026-09-12",
       "startTime": null,
       "endTime": null,
       "location": "Strangeways Brewing - Scott's Addition",
-      "address": null,
+      "address": "Richmond, VA",
       "cost": "",
       "costValue": null,
-      "url": "https://buytickets.at/burlesquerightmeowllc/2371532",
-      "description": "Burlesque and variety show produced by Burlesque Right Meow at Strangeways Brewing in Scott's Addition.",
+      "url": "",
+      "description": "",
       "tags": [
         "variety"
       ],
@@ -97,7 +97,7 @@
       "cost": "$15-$80",
       "costValue": 15.0,
       "url": "https://www.eventbrite.com/e/nrc-presents-black-champagne-ii-tickets-1975035791218?aff=oddtdtcreator",
-      "description": "Nu Rodeo Caldonia presents Black Champagne II, a burlesque night hosted by Qing Blaze & Jo'Rie Tigerlily featuring Jungle Julia, Kayy Lovely, Venessa Chevelle and more. Doors at 8pm, show at 9pm, 18+.",
+      "description": "Nu Rodeo Caldonia's 3rd Saturday burlesque night returns with a Black-wealth, Sophista-Ratchet themed show hosted by Qing Blaze & Jo'Rie Tigerlily, featuring Jungle Julia, Kayy Lovely, Venessa Chevelle and more. 18+, doors 8pm, show 9pm.",
       "tags": [
         "variety",
         "themed",
@@ -135,14 +135,15 @@
       "date": "2026-09-26",
       "startTime": null,
       "endTime": null,
-      "location": "Basic City Beer Co",
-      "address": null,
+      "location": "Basic City Beer Co - Southside",
+      "address": "212 West 6th Street, Richmond, VA",
       "cost": "",
       "costValue": null,
       "url": "https://buytickets.at/burlesquerightmeowllc/2371548",
-      "description": "Burlesque student showcase produced by Burlesque Right Meow at Basic City Beer Co.",
+      "description": "Student showcase produced by Burlesque Right Meow featuring new performers making their burlesque debut.",
       "tags": [
-        "variety"
+        "variety",
+        "adult"
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
@@ -159,13 +160,57 @@
       "address": "212 W 6th St, Richmond, VA 23224",
       "cost": "",
       "costValue": null,
-      "url": "https://basiccityrva.com/calendar",
-      "description": "Burlesque Right Meow performs at Basic City RVA.",
+      "url": "https://basiccityrva.com/",
+      "description": "Burlesque show at Basic City RVA.",
       "tags": [
         "variety"
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "ellie-quinn",
+      "sourceUrl": "https://elliequinnpresents.square.site/",
+      "title": "Orchard After Dark: A Burlesque Fantasy",
+      "date": "2026-10-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "location": "Blue Bee Cider",
+      "address": "4811 Bethlehem Rd, Richmond, VA",
+      "cost": "$21.00",
+      "costValue": 21.0,
+      "url": "https://elliequinnpresents.square.site/product/orchard-after-dark-10-2/CS6XB3HLEEROTX6GZUCC3VHC",
+      "description": "A sultry, whimsical burlesque experience set in an enchanted orchard at Blue Bee Cider, featuring Anya Yabbos, Boobarella, Twirlisha Devine, and Ellie Quinn, hosted by Venessa Chevelle. Doors 7:30PM, show 8:00PM, 18+.",
+      "tags": [
+        "themed",
+        "immersive",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "burlesque-right-meow",
+      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
+      "title": "2026 RVA Burlesque Festival: Thursday Kick-Off Showcase",
+      "date": "2026-11-05",
+      "startTime": null,
+      "endTime": null,
+      "location": "The Workshop by T&D",
+      "address": null,
+      "cost": "$20",
+      "costValue": 20.0,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Kick-off showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association.",
+      "tags": [
+        "festival",
+        "variety",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
@@ -193,19 +238,20 @@
     {
       "source": "burlesque-right-meow",
       "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
-      "title": "2026 RVA Burlesque Festival: Kick-Off Show",
-      "date": "2026-11-05",
-      "startTime": "20:00",
+      "title": "2026 RVA Burlesque Festival: Friday Showcase",
+      "date": "2026-11-06",
+      "startTime": null,
       "endTime": null,
-      "location": "The Workshop by T&D",
-      "address": "1400 Mactavish Ave, Richmond VA 23230",
-      "cost": "$20",
-      "costValue": 20.0,
+      "location": "Ember Music Hall",
+      "address": null,
+      "cost": "$25",
+      "costValue": 25.0,
       "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
-      "description": "Kick-off showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors at 7pm, show at 8pm.",
+      "description": "Friday night showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association.",
       "tags": [
         "festival",
-        "variety"
+        "variety",
+        "adult"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -236,19 +282,20 @@
     {
       "source": "burlesque-right-meow",
       "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
-      "title": "2026 RVA Burlesque Festival: Friday Showcase",
-      "date": "2026-11-06",
-      "startTime": "20:00",
+      "title": "2026 RVA Burlesque Festival: Saturday Showcase",
+      "date": "2026-11-07",
+      "startTime": null,
       "endTime": null,
-      "location": "Ember Music Hall",
-      "address": "309 E Broad Street, Richmond VA 23219",
-      "cost": "$25",
-      "costValue": 25.0,
+      "location": "Bolling Haxall House",
+      "address": null,
+      "cost": "$30",
+      "costValue": 30.0,
       "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
-      "description": "Friday night showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors at 7pm, show at 8pm.",
+      "description": "Saturday night showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association.",
       "tags": [
         "festival",
-        "variety"
+        "variety",
+        "adult"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -277,48 +324,25 @@
       "instructor": null
     },
     {
-      "source": "burlesque-right-meow",
-      "sourceUrl": "https://burlesquerightmeow.ticketspice.com/",
-      "title": "2026 RVA Burlesque Festival: Saturday Showcase",
-      "date": "2026-11-07",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "Bolling Haxall House",
-      "address": "211 E Franklin Street, Richmond VA 23219",
-      "cost": "$30",
-      "costValue": 30.0,
-      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
-      "description": "Saturday night showcase of the 2026 RVA Burlesque Festival, hosted by the Virginia Burlesque Association. Doors at 7pm, show at 8pm.",
-      "tags": [
-        "festival",
-        "variety"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "blue-bee",
-      "sourceUrl": "https://www.bluebeecider.com/events",
+      "source": "ellie-quinn",
+      "sourceUrl": "https://elliequinnpresents.square.site/",
       "title": "Orchard After Dark: A Burlesque Fantasy",
       "date": "2026-12-04",
       "startTime": "20:00",
-      "endTime": "21:30",
+      "endTime": null,
       "location": "Blue Bee Cider",
-      "address": "4811 Bethlehem Rd Ste A, Richmond, VA 23230",
-      "cost": "",
-      "costValue": null,
-      "url": "https://elliequinnpresents.square.site/",
-      "description": "A sultry, whimsical burlesque experience set in an enchanted orchard at Blue Bee Cider, featuring Conejita Luxxe, Empress de Naste', Valentina, and Venessa Chevelle. 18+, doors at 7:30 PM.",
+      "address": "4811 Bethlehem Rd, Richmond, VA",
+      "cost": "$21.00",
+      "costValue": 21.0,
+      "url": "https://elliequinnpresents.square.site/product/orchard-after-dark-12-4/2YM7HHDYVAYJKRIDNF2SVUPP",
+      "description": "A sultry, whimsical burlesque experience set in an enchanted orchard at Blue Bee Cider, featuring Conejita Luxxe, Empress de Naste', Valentina, and Venessa Chevelle. Doors 7:30PM, show 8:00PM, 18+.",
       "tags": [
-        "variety",
         "themed",
         "immersive",
-        "adult",
-        "recurring"
+        "adult"
       ],
       "status": "confirmed",
-      "registrationStatus": "unknown",
+      "registrationStatus": "available",
       "instructor": null
     }
   ]
