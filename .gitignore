@@ -11,3 +11,7 @@ logs/
 .update.lock
 .discover.lock
 .last-discover
+
+# Ad-hoc scrape outputs dumped in the repo root
+/*_events.json
+/*_scan.json

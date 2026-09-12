@@ -1,8 +1,8 @@
 """Claude-based scraper for burlesque event sources.
 
 Each source listed in scripts/sources.json is scraped by invoking Claude
-with Playwright MCP. Results are cached per-source to avoid redundant
-calls when the TTL hasn't elapsed.
+with the ml:scrape skill (agent-browser CLI). Results are cached per-source
+to avoid redundant calls when the TTL hasn't elapsed.
 """
 
 import json
@@ -14,9 +14,14 @@ from .base import BaseScraper, Event
 
 SOURCES_FILE = Path(__file__).parent.parent / "sources.json"
 
-SCRAPE_PROMPT = '''You are scraping burlesque shows in Richmond, VA. Use Playwright to visit the URL and extract events.
+SCRAPE_PROMPT = '''You are scraping burlesque shows in Richmond, VA. Use the ml:scrape skill to visit the URL and extract events; it drives the agent-browser CLI. Do not use Playwright.
 
 Visit: {url}
+
+Report only what you actually saw rendered on the page. If the page did not
+load, was blocked by a login wall or bot check, or showed no event details,
+return [] — never reconstruct events from alt-text, link slugs, memory, or
+what a venue "usually" schedules.
 
 Output a JSON array of events (no markdown, just raw JSON):
 [
@@ -41,6 +46,10 @@ Rules:
 - Only include future events (today or later)
 - Extract actual announced dates only — never extrapolate a recurring pattern
 - If the page is an Instagram profile or other source without explicit dates, return []
+- Every event you emit must have its date visible in the page content you
+  retrieved. If you cannot point to where a date appeared, drop the event.
+  Returning [] is always correct when the page did not render — a partial or
+  empty result is useful, an invented one corrupts the calendar.
 - All times are local Eastern time; format as 24-hour HH:MM
 - Output ONLY a valid JSON array, nothing else (no prose, no markdown fences)
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """RVA Burlesque - scrape orchestrator.
 
-Calls each source listed in scripts/sources.json via Claude + Playwright,
+Calls each source listed in scripts/sources.json via Claude + agent-browser,
 merges the results into the current site/data/events.json (promoting
 tentative entries when a scraped event covers the same source + month),
 and writes the result.

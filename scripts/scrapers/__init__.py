@@ -1,7 +1,7 @@
 """RVA Burlesque - scraper package.
 
 Exposes `run_all_scrapers()` which calls each source defined in
-scripts/sources.json (via Claude + Playwright) and returns the combined
+scripts/sources.json (via Claude + agent-browser) and returns the combined
 event list. Uses scripts/.cache for source-level caching with TTLs.
 """
 
