@@ -354,5 +354,17 @@
     ],
     "cacheTtlHours": 168,
     "extraInstructions": "Annual pop-culture convention (typically late March) that runs an 18+ 'After Dark Cabaret' featuring nerdlesque, crossplay, and burlesque variety acts as a ticketed add-on. Capture the specific After Dark Cabaret date/time and ticket link for the current year's con \u2014 do not pull unrelated daytime programming. Only announced dates; this is not a monthly recurring show."
+  },
+  {
+    "id": "brm-linktree",
+    "url": "https://linktr.ee/burlesquerightmeow",
+    "location": "Burlesque Right Meow (Linktree hub)",
+    "address": "Richmond, VA",
+    "defaultTags": [
+      "variety",
+      "adult"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Burlesque Right Meow's link hub. It is often updated before the Ticketspice page and lists upcoming Pours and Pasties (Strangeways, Scott's Addition), Dazzling Debuts and Reveal Revue dates, and the RVA Burlesque Festival (Nov 5-7, 2026) ticket links on buytickets.at and zeffy.com. Capture title, venue, date, time and ticket URL. Exclude the 'Pours and Pasties FXBG' shows, which are in Fredericksburg. Skip the performer-application and casting links, and ignore the unrelated Linktree promo links."
   }
 ]
