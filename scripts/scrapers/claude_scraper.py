@@ -85,20 +85,18 @@ class ClaudePlaywrightScraper(BaseScraper):
 
         try:
             result = subprocess.run(
-                ["claude", "-p", prompt, "--print", "--output-format", "text", "--model", "sonnet"],
+                ["onecli", "run", "--", "claude", "-p", prompt, "--print", "--output-format", "text", "--model", "sonnet"],
                 capture_output=True,
                 text=True,
                 timeout=600,
             )
 
             if result.returncode != 0:
-                print(f"  [{self.source_id}] Claude error: {result.stderr}")
-                return []
+                raise RuntimeError(f"Claude error: {result.stderr.strip() or result.stdout.strip()}")
 
             events_data = self._extract_json(result.stdout.strip())
             if events_data is None:
-                print(f"  [{self.source_id}] No valid JSON in output")
-                return []
+                raise RuntimeError("No valid JSON in output")
 
             events = []
             for data in events_data:
@@ -122,12 +120,10 @@ class ClaudePlaywrightScraper(BaseScraper):
                 ))
             return events
 
-        except subprocess.TimeoutExpired:
-            print(f"  [{self.source_id}] Claude timed out")
-            return []
-        except Exception as e:
-            print(f"  [{self.source_id}] Error: {e}")
-            return []
+        # Failures raise rather than returning [] so BaseScraper.run() doesn't
+        # cache them as a valid empty result.
+        except subprocess.TimeoutExpired as e:
+            raise RuntimeError("Claude timed out") from e
 
     def _extract_json(self, text: str) -> Optional[list]:
         try:
