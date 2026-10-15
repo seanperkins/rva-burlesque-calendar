@@ -85,8 +85,8 @@ PROMPT_EOF
 )
 
 echo "Searching for new sources..."
-if ! RESULT=$(claude -p "$PROMPT" --print --output-format text --model sonnet 2>> "$LOG_FILE"); then
-    echo "$(date '+%Y-%m-%d %H:%M:%S') - Claude failed" >> "$LOG_FILE"
+if ! RESULT=$(onecli run -- claude -p "$PROMPT" --print --output-format text --model sonnet 2>> "$LOG_FILE"); then
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - Claude failed: $RESULT" >> "$LOG_FILE"
     notify_error "RVA Burlesque" "Source discovery failed" "$LOG_FILE"
     exit 1
 fi
