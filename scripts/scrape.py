@@ -41,6 +41,11 @@ def main():
     parser.add_argument("--output", "-o", type=str, help="Output file path (default: site/data/events.json)")
     parser.add_argument("--sources", "-s", type=str, help="Comma-separated list of source IDs to scrape")
     parser.add_argument("--no-merge", action="store_true", help="Write scraped events only (skip merge with existing)")
+    parser.add_argument(
+        "--merge-from",
+        type=str,
+        help="Existing events file to merge into (default: site/data/events.json, even when -o differs)",
+    )
     args = parser.parse_args()
 
     cache = get_cache()
@@ -64,10 +69,14 @@ def main():
 
     output_path = Path(args.output) if args.output else DEFAULT_DATA_FILE
 
+    # Merge against the live data file, not the output path: update.sh writes to
+    # events.json.tmp, and merging against that empty file let a partial scrape
+    # replace the whole calendar.
+    merge_path = Path(args.merge_from) if args.merge_from else DEFAULT_DATA_FILE
     existing_events = []
-    if output_path.exists() and not args.no_merge:
+    if merge_path.exists() and not args.no_merge:
         try:
-            with open(output_path, "r", encoding="utf-8") as f:
+            with open(merge_path, "r", encoding="utf-8") as f:
                 existing_events = json.load(f).get("events", [])
         except (json.JSONDecodeError, FileNotFoundError):
             existing_events = []
