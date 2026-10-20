@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Fri, 16 Oct 2026 12:00:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 12:15:24 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>Spooky-ish, Presented by SparkDazzle Entertainment</title>
@@ -23,6 +23,16 @@
     <guid isPermaLink="false">2026-10-30-2000-reveler@rvaburlesque</guid>
     <pubDate>Fri, 30 Oct 2026 20:00:00 +0000</pubDate>
     <description><![CDATA[<p><strong>When:</strong> Friday, October 30, 2026 · 8pm</p><p><strong>Where:</strong> Révéler</p><p>Halloween edition of Révéler Cabaret featuring Qing Blaze, Alisa Miles, Gordita Maricona &quot;The Vampire Goddess of Burlesque&quot;, Jo&#x27;Rie Tigerlily and more.</p>]]></description>
+    <category>variety</category>
+    <category>themed</category>
+    <category>adult</category>
+  </item>
+  <item>
+    <title>ScreamHaus Halloween Spookeasy</title>
+    <link>https://www.dreamerfxstudios.com/event-details-registration/screamhaus-spookeasy</link>
+    <guid isPermaLink="false">2026-10-31-1900-dreamhaus@rvaburlesque</guid>
+    <pubDate>Sat, 31 Oct 2026 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, October 31, 2026 · 7pm – 2am</p><p><strong>Where:</strong> DreamHaus, 110 N 18th St, Richmond, VA 23223</p><p><strong>Cost:</strong> $10</p><p>DreamHaus becomes a haunted speakeasy with ghost stories by Strange Tours RVA, special drag and burlesque performances, and DJ Alta Tude spinning Halloween and disco classics. 18+ with valid ID.</p>]]></description>
     <category>variety</category>
     <category>themed</category>
     <category>adult</category>
@@ -71,6 +81,15 @@
     <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
     <description><![CDATA[<p><strong>When:</strong> Saturday, November 7, 2026 · 7pm – 11pm</p><p><strong>Where:</strong> Bolling Haxall House, Richmond, VA</p><p><strong>Cost:</strong> $30 advance, $35 at the door</p><p>Saturday night of the 2026 RVA Burlesque Festival, three days of burlesque performers from across the country. Weekender passes are also available ($65 GA, $100 VIP).</p>]]></description>
     <category>festival</category>
+    <category>adult</category>
+  </item>
+  <item>
+    <title>Nerdleque by Psycho 7 Productions</title>
+    <link>https://basiccityrva.com/calendar</link>
+    <guid isPermaLink="false">2026-11-27-1900-basic-city@rvaburlesque</guid>
+    <pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Friday, November 27, 2026 · 7pm – 10pm</p><p><strong>Where:</strong> Basic City Beer Co., 212 W 6th St, Richmond, VA 23224</p><p>Nerdleque (nerd-themed burlesque) presented by Psycho 7 Productions at Basic City Beer Co. Listed on the venue&#x27;s Events calendar.</p>]]></description>
+    <category>themed</category>
     <category>adult</category>
   </item>
   <item>
