@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-10-17-2000-gallery5@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261017T200000
 DTEND:20261017T230000
 SUMMARY:Spooky-ish\, Presented by SparkDazzle Entertainment
@@ -20,7 +20,7 @@ URL:https://gallery5arts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-2000-reveler@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261030T200000
 DTEND:20261030T220000
 SUMMARY:Révéler Cabaret: Halloween Edition
@@ -33,7 +33,7 @@ URL:https://www.revelerexperiences.com/event/reveler-cabaret-halloween-edition-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-1900-dreamhaus@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261031T190000
 DTEND:20261031T020000
 SUMMARY:ScreamHaus Halloween Spookeasy
@@ -47,7 +47,7 @@ URL:https://www.dreamerfxstudios.com/event-details-registration/screamhaus-spook
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
@@ -59,7 +59,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-brm-linktree@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:The 2026 RVA Burlesque Festival
@@ -71,7 +71,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261105T190000
 DTEND:20261105T230000
 SUMMARY:RVA Burlesque Festival – Thursday Night
@@ -85,7 +85,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261106T190000
 DTEND:20261106T230000
 SUMMARY:RVA Burlesque Festival – Friday Night
@@ -99,7 +99,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261107T190000
 DTEND:20261107T230000
 SUMMARY:RVA Burlesque Festival – Saturday Night
@@ -112,8 +112,35 @@ DESCRIPTION:Saturday night of the 2026 RVA Burlesque Festival\, three days
 URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-08-1400-gallery5@rvaburlesque
+DTSTAMP:20261027T121952Z
+DTSTART:20261108T140000
+DTEND:20261108T160000
+SUMMARY:Briney Brunch Variety Show
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:Michelle Livigne hosts a Dolly Parton homage variety show of pi
+ ckle puns\, parodies and spectacles\, with live music\, comedy and burlesq
+ ue. Doors at 1:00pm\, show at 2:00pm.\n\nInfo: https://www.eventbrite.com/
+ e/briney-brunch-variety-hour-tickets-2003848446646
+URL:https://www.eventbrite.com/e/briney-brunch-variety-hour-tickets-2003848446646
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-2000-crescent-collective@rvaburlesque
+DTSTAMP:20261027T121952Z
+DTSTART:20261114T200000
+DTEND:20261114T220000
+SUMMARY:A Knight of Secrets & Seduction
+LOCATION:Crescent Collective\, 1800 Decatur St\, Richmond\, VA 23224
+DESCRIPTION:Pink Faeries present a night of romantasy-themed bookish burles
+ que with performers from across the coast and beyond. Doors 6:30 PM\, show
+  at 8 PM\, with an optional Blood on the Clocktower game at 7 PM.\n\nCost:
+  $15-$30\n\nInfo: https://www.rvacrescentcollective.com/events/a-knight-of
+ -secrets-seduction
+URL:https://www.rvacrescentcollective.com/events/a-knight-of-secrets-seduction
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-1900-basic-city@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261127T190000
 DTEND:20261127T220000
 SUMMARY:Nerdleque by Psycho 7 Productions
@@ -124,8 +151,19 @@ DESCRIPTION:Nerdleque (nerd-themed burlesque) presented by Psycho 7 Product
 URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-1930-basic-city@rvaburlesque
+DTSTAMP:20261027T121952Z
+DTSTART:20261128T193000
+DTEND:20261128T220000
+SUMMARY:Burlesque Right Meow
+LOCATION:Basic City Beer Co.\, 212 W 6th St\, Richmond\, VA 23224
+DESCRIPTION:Burlesque Right Meow show listed on the Basic City RVA public e
+ vents calendar.\n\nInfo: https://basiccityrva.com/calendar
+URL:https://basiccityrva.com/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-2000-blue-bee@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261204T200000
 DTEND:20261204T213000
 SUMMARY:Orchard After Dark December
@@ -138,7 +176,7 @@ URL:https://www.bluebeecider.com/facebook-event/orchard-after-dark-december/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-2000-gallery5@rvaburlesque
-DTSTAMP:20261023T120116Z
+DTSTAMP:20261027T121952Z
 DTSTART:20261210T200000
 DTEND:20261210T230000
 SUMMARY:Nerdy Thirsty Thursdays

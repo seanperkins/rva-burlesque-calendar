@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T12:01:16Z",
+  "lastUpdated": "2026-10-27T12:19:51Z",
   "events": [
     {
       "source": "gallery5",
@@ -173,6 +173,49 @@
       "instructor": null
     },
     {
+      "source": "gallery5",
+      "sourceUrl": "https://gallery5arts.org/calendar",
+      "title": "Briney Brunch Variety Show",
+      "date": "2026-11-08",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "location": "Gallery5",
+      "address": "200 West Marshall Street, Richmond, VA 23220",
+      "cost": "",
+      "costValue": null,
+      "url": "https://www.eventbrite.com/e/briney-brunch-variety-hour-tickets-2003848446646",
+      "description": "Michelle Livigne hosts a Dolly Parton homage variety show of pickle puns, parodies and spectacles, with live music, comedy and burlesque. Doors at 1:00pm, show at 2:00pm.",
+      "tags": [
+        "variety",
+        "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "crescent-collective",
+      "sourceUrl": "https://www.rvacrescentcollective.com/events",
+      "title": "A Knight of Secrets & Seduction",
+      "date": "2026-11-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "location": "Crescent Collective",
+      "address": "1800 Decatur St, Richmond, VA 23224",
+      "cost": "$15-$30",
+      "costValue": 15.0,
+      "url": "https://www.rvacrescentcollective.com/events/a-knight-of-secrets-seduction",
+      "description": "Pink Faeries present a night of romantasy-themed bookish burlesque with performers from across the coast and beyond. Doors 6:30 PM, show at 8 PM, with an optional Blood on the Clocktower game at 7 PM.",
+      "tags": [
+        "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "basic-city",
       "sourceUrl": "https://basiccityrva.com/",
       "title": "Nerdleque by Psycho 7 Productions",
@@ -187,6 +230,26 @@
       "description": "Nerdleque (nerd-themed burlesque) presented by Psycho 7 Productions at Basic City Beer Co. Listed on the venue's Events calendar.",
       "tags": [
         "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "basic-city",
+      "sourceUrl": "https://basiccityrva.com/",
+      "title": "Burlesque Right Meow",
+      "date": "2026-11-28",
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "location": "Basic City Beer Co.",
+      "address": "212 W 6th St, Richmond, VA 23224",
+      "cost": "",
+      "costValue": null,
+      "url": "https://basiccityrva.com/calendar",
+      "description": "Burlesque Right Meow show listed on the Basic City RVA public events calendar.",
+      "tags": [
         "adult"
       ],
       "status": "confirmed",
