@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-10-17-2000-gallery5@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261017T200000
 DTEND:20261017T230000
 SUMMARY:Spooky-ish\, Presented by SparkDazzle Entertainment
@@ -20,7 +20,7 @@ URL:https://gallery5arts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-2000-reveler@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261030T200000
 DTEND:20261030T220000
 SUMMARY:Révéler Cabaret: Halloween Edition
@@ -33,7 +33,7 @@ URL:https://www.revelerexperiences.com/event/reveler-cabaret-halloween-edition-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-1900-dreamhaus@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261031T190000
 DTEND:20261031T020000
 SUMMARY:ScreamHaus Halloween Spookeasy
@@ -47,7 +47,7 @@ URL:https://www.dreamerfxstudios.com/event-details-registration/screamhaus-spook
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
@@ -59,7 +59,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-brm-linktree@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:The 2026 RVA Burlesque Festival
@@ -71,7 +71,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261105T190000
 DTEND:20261105T230000
 SUMMARY:RVA Burlesque Festival – Thursday Night
@@ -85,7 +85,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261106T190000
 DTEND:20261106T230000
 SUMMARY:RVA Burlesque Festival – Friday Night
@@ -99,7 +99,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261107T190000
 DTEND:20261107T230000
 SUMMARY:RVA Burlesque Festival – Saturday Night
@@ -113,7 +113,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-1400-gallery5@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261108T140000
 DTEND:20261108T160000
 SUMMARY:Briney Brunch Variety Show
@@ -126,7 +126,7 @@ URL:https://www.eventbrite.com/e/briney-brunch-variety-hour-tickets-200384844664
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-2000-crescent-collective@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261114T200000
 DTEND:20261114T220000
 SUMMARY:A Knight of Secrets & Seduction
@@ -140,7 +140,7 @@ URL:https://www.rvacrescentcollective.com/events/a-knight-of-secrets-seduction
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-1900-basic-city@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261127T190000
 DTEND:20261127T220000
 SUMMARY:Nerdleque by Psycho 7 Productions
@@ -152,7 +152,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-1930-basic-city@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261128T193000
 DTEND:20261128T220000
 SUMMARY:Burlesque Right Meow
@@ -163,7 +163,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-2000-blue-bee@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261204T200000
 DTEND:20261204T213000
 SUMMARY:Orchard After Dark December
@@ -176,7 +176,7 @@ URL:https://www.bluebeecider.com/facebook-event/orchard-after-dark-december/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-2000-gallery5@rvaburlesque
-DTSTAMP:20261027T121952Z
+DTSTAMP:20261030T120022Z
 DTSTART:20261210T200000
 DTEND:20261210T230000
 SUMMARY:Nerdy Thirsty Thursdays
