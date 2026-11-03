@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T12:00:22Z",
+  "lastUpdated": "2026-11-03T13:19:20Z",
   "events": [
     {
       "source": "gallery5",
@@ -110,6 +110,27 @@
       "instructor": null
     },
     {
+      "source": "rva-burlesque-festival",
+      "sourceUrl": "https://rvaburlesquefestival.com/",
+      "title": "RVA Burlesque Festival 2026 \u2013 Thursday",
+      "date": "2026-11-05",
+      "startTime": null,
+      "endTime": null,
+      "location": "The Workshop by T&D",
+      "address": null,
+      "cost": "",
+      "costValue": null,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Thursday night of the annual RVA Burlesque Festival, Nov 5-7, 2026 in Richmond, VA. Showtimes and lineup were not visible on the pages retrieved.",
+      "tags": [
+        "festival",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "richmond-cultureworks",
       "sourceUrl": "https://calendar.richmondcultureworks.org",
       "title": "RVA Burlesque Festival \u2013 Thursday Night",
@@ -131,6 +152,27 @@
       "instructor": null
     },
     {
+      "source": "rva-burlesque-festival",
+      "sourceUrl": "https://rvaburlesquefestival.com/",
+      "title": "RVA Burlesque Festival 2026 \u2013 Friday",
+      "date": "2026-11-06",
+      "startTime": null,
+      "endTime": null,
+      "location": "Ember Music Hall",
+      "address": null,
+      "cost": "",
+      "costValue": null,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Friday night of the annual RVA Burlesque Festival, Nov 5-7, 2026 in Richmond, VA. Showtimes and lineup were not visible on the pages retrieved.",
+      "tags": [
+        "festival",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "richmond-cultureworks",
       "sourceUrl": "https://calendar.richmondcultureworks.org",
       "title": "RVA Burlesque Festival \u2013 Friday Night",
@@ -143,6 +185,27 @@
       "costValue": 25.0,
       "url": "https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/",
       "description": "Friday night of the 2026 RVA Burlesque Festival, three days of burlesque performers from across the country. Weekender passes are also available ($65 GA, $100 VIP).",
+      "tags": [
+        "festival",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "rva-burlesque-festival",
+      "sourceUrl": "https://rvaburlesquefestival.com/",
+      "title": "RVA Burlesque Festival 2026 \u2013 Saturday",
+      "date": "2026-11-07",
+      "startTime": null,
+      "endTime": null,
+      "location": "Bolling Haxall House",
+      "address": null,
+      "cost": "",
+      "costValue": null,
+      "url": "https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival",
+      "description": "Saturday of the annual RVA Burlesque Festival, Nov 5-7, 2026 in Richmond, VA. Showtimes and lineup were not visible on the pages retrieved.",
       "tags": [
         "festival",
         "adult"
@@ -177,6 +240,27 @@
       "sourceUrl": "https://gallery5arts.org/calendar",
       "title": "Briney Brunch Variety Show",
       "date": "2026-11-08",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Gallery5",
+      "address": "200 West Marshall Street, Richmond, VA 23220",
+      "cost": "",
+      "costValue": null,
+      "url": "https://gallery5arts.org/calendar/richmond-pickle-party-briney-brunch-variety-show",
+      "description": "Michelle Livigne hosts a Dolly Parton homage variety show of pickle puns, parodies and spectacles, with live music, comedy and burlesque. Doors 1 p.m., show 2 p.m.",
+      "tags": [
+        "variety",
+        "themed"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "gallery5",
+      "sourceUrl": "https://gallery5arts.org/calendar",
+      "title": "Briney Brunch Variety Show",
+      "date": "2026-11-08",
       "startTime": "14:00",
       "endTime": "16:00",
       "location": "Gallery5",
@@ -188,6 +272,26 @@
       "tags": [
         "variety",
         "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "gallery5",
+      "sourceUrl": "https://gallery5arts.org/calendar",
+      "title": "Artfully Exposed: Burlesque Student Recital | 18+",
+      "date": "2026-11-11",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "location": "Gallery5",
+      "address": "200 West Marshall Street, Richmond, VA 23220",
+      "cost": "$11.11",
+      "costValue": 11.11,
+      "url": "https://gallery5arts.org/calendar/artfully-exposed-burlesque-student-recital",
+      "description": "Jo'Rie Tigerlily's 8-week burlesque students make their debut in a recital. Doors 7pm, show 7:30pm, 18+ only.",
+      "tags": [
         "adult"
       ],
       "status": "confirmed",
@@ -208,6 +312,28 @@
       "url": "https://www.rvacrescentcollective.com/events/a-knight-of-secrets-seduction",
       "description": "Pink Faeries present a night of romantasy-themed bookish burlesque with performers from across the coast and beyond. Doors 6:30 PM, show at 8 PM, with an optional Blood on the Clocktower game at 7 PM.",
       "tags": [
+        "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "crescent-collective",
+      "sourceUrl": "https://www.rvacrescentcollective.com/events",
+      "title": "Karaokque - Karaoke Sing & Striptacular!",
+      "date": "2026-11-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "location": "Crescent Collective",
+      "address": "1800 Decatur St, Richmond, VA 23224",
+      "cost": "$10",
+      "costValue": 10.0,
+      "url": "https://www.rvacrescentcollective.com/events",
+      "description": "Karaoke burlesque party hosted by Saffron Soleil & Venessa Chevelle, with a draglesque-style intermission set to audience karaoke performances. Doors at 7 PM, karaoke at 7:30 PM, show at 8 PM; sober-friendly with mocktails.",
+      "tags": [
+        "variety",
         "themed",
         "adult"
       ],
@@ -239,6 +365,27 @@
     {
       "source": "basic-city",
       "sourceUrl": "https://basiccityrva.com/",
+      "title": "Nerdleque by Psycho 7 Productions",
+      "date": "2026-11-27",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "location": "Basic City RVA",
+      "address": "212 W 6th St, Richmond, VA 23224",
+      "cost": "",
+      "costValue": null,
+      "url": "https://basiccityrva.com/calendar",
+      "description": "Nerdleque, a nerd-themed burlesque show by Psycho 7 Productions, listed on the Basic City RVA events calendar.",
+      "tags": [
+        "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "basic-city",
+      "sourceUrl": "https://basiccityrva.com/",
       "title": "Burlesque Right Meow",
       "date": "2026-11-28",
       "startTime": "19:30",
@@ -250,6 +397,27 @@
       "url": "https://basiccityrva.com/calendar",
       "description": "Burlesque Right Meow show listed on the Basic City RVA public events calendar.",
       "tags": [
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "basic-city",
+      "sourceUrl": "https://basiccityrva.com/",
+      "title": "Burlesque Right Meow",
+      "date": "2026-11-28",
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "location": "Basic City RVA",
+      "address": "212 W 6th St, Richmond, VA 23224",
+      "cost": "",
+      "costValue": null,
+      "url": "https://basiccityrva.com/calendar",
+      "description": "Burlesque Right Meow show listed on the Basic City RVA events calendar.",
+      "tags": [
+        "variety",
         "adult"
       ],
       "status": "confirmed",
