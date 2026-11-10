@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T13:00:06Z",
+  "lastUpdated": "2026-11-10T13:15:30Z",
   "events": [
     {
       "source": "gallery5",
@@ -384,6 +384,27 @@
       "instructor": null
     },
     {
+      "source": "brm-linktree",
+      "sourceUrl": "https://linktr.ee/burlesquerightmeow",
+      "title": "The Reveal Revue: A Night Of Budding Burlesque Performances",
+      "date": "2026-11-28",
+      "startTime": null,
+      "endTime": null,
+      "location": "Basic City Beer Co",
+      "address": null,
+      "cost": "",
+      "costValue": null,
+      "url": "https://buytickets.at/burlesquerightmeowllc/2506569",
+      "description": "A night of budding burlesque performances presented by Burlesque Right Meow.",
+      "tags": [
+        "variety",
+        "themed"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
       "source": "basic-city",
       "sourceUrl": "https://basiccityrva.com/",
       "title": "Burlesque Right Meow",
@@ -467,6 +488,27 @@
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "brm-linktree",
+      "sourceUrl": "https://linktr.ee/burlesquerightmeow",
+      "title": "Pours and Pasties Burlesque and Variety Show",
+      "date": "2026-12-12",
+      "startTime": null,
+      "endTime": null,
+      "location": "Strangeways Brewing - Scott's Addition",
+      "address": null,
+      "cost": "",
+      "costValue": null,
+      "url": "https://buytickets.at/burlesquerightmeowllc/2512512",
+      "description": "Burlesque and variety show presented by Burlesque Right Meow at Strangeways Brewing in Scott's Addition.",
+      "tags": [
+        "variety",
+        "recurring"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
       "instructor": null
     }
   ]

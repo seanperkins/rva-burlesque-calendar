@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Nov 2026 13:00:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 13:15:30 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>Spooky-ish, Presented by SparkDazzle Entertainment</title>
@@ -175,6 +175,15 @@
     <category>adult</category>
   </item>
   <item>
+    <title>The Reveal Revue: A Night Of Budding Burlesque Performances</title>
+    <link>https://buytickets.at/burlesquerightmeowllc/2506569</link>
+    <guid isPermaLink="false">2026-11-28-0000-brm-linktree@rvaburlesque</guid>
+    <pubDate>Sat, 28 Nov 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 28, 2026</p><p><strong>Where:</strong> Basic City Beer Co</p><p>A night of budding burlesque performances presented by Burlesque Right Meow.</p>]]></description>
+    <category>variety</category>
+    <category>themed</category>
+  </item>
+  <item>
     <title>Burlesque Right Meow</title>
     <link>https://basiccityrva.com/calendar</link>
     <guid isPermaLink="false">2026-11-28-1930-basic-city@rvaburlesque</guid>
@@ -210,6 +219,15 @@
     <description><![CDATA[<p><strong>When:</strong> Thursday, December 10, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10 adv / $14 door</p><p>Pop-culture cozyback with a free Jackbox competition, trading cards and merch, and pop-up nerdlesque performances from across the DMV. 18+ only.</p>]]></description>
     <category>themed</category>
     <category>adult</category>
+    <category>recurring</category>
+  </item>
+  <item>
+    <title>Pours and Pasties Burlesque and Variety Show</title>
+    <link>https://buytickets.at/burlesquerightmeowllc/2512512</link>
+    <guid isPermaLink="false">2026-12-12-0000-brm-linktree@rvaburlesque</guid>
+    <pubDate>Sat, 12 Dec 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, December 12, 2026</p><p><strong>Where:</strong> Strangeways Brewing - Scott&#x27;s Addition</p><p>Burlesque and variety show presented by Burlesque Right Meow at Strangeways Brewing in Scott&#x27;s Addition.</p>]]></description>
+    <category>variety</category>
     <category>recurring</category>
   </item>
 </channel>
