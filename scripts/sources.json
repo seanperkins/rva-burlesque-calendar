@@ -366,5 +366,17 @@
     ],
     "cacheTtlHours": 72,
     "extraInstructions": "Burlesque Right Meow's link hub. It is often updated before the Ticketspice page and lists upcoming Pours and Pasties (Strangeways, Scott's Addition), Dazzling Debuts and Reveal Revue dates, and the RVA Burlesque Festival (Nov 5-7, 2026) ticket links on buytickets.at and zeffy.com. Capture title, venue, date, time and ticket URL. Exclude the 'Pours and Pasties FXBG' shows, which are in Fredericksburg. Skip the performer-application and casting links, and ignore the unrelated Linktree promo links."
+  },
+  {
+    "id": "saffron-soleil",
+    "url": "https://saffronsoleil.bigcartel.com/schedule",
+    "location": "Saffron Soleil (Burlesque Performer & Instructor)",
+    "address": "1800 Decatur St, Richmond, VA 23224",
+    "defaultTags": [
+      "variety",
+      "adult"
+    ],
+    "cacheTtlHours": 72,
+    "extraInstructions": "Richmond burlesque performer and instructor who teaches 18+ burlesque classes and workshops at Crescent Collective (costuming, hosting, pastie-making). Her Big Cartel schedule page lists class dates, and her shop may also list ticketed showcases or student shows. Capture only public shows and showcases with a concrete date, venue and ticket URL. Skip pure classes and workshops unless they are labeled as performances. Her shows at Gallery5 are also captured via the gallery5 source, so prioritize any non-Gallery5 bookings."
   }
 ]
