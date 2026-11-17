@@ -6,7 +6,7 @@
   <description>Burlesque shows in Richmond, VA. Confirmed dates only; tentative [TBD] dates are kept out of the feed until firmed up.</description>
   <atom:link href="https://seanperkins.github.io/rva-burlesque-calendar/data/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Nov 2026 13:00:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 13:13:51 +0000</lastBuildDate>
   <generator>scripts/generate_rss.py</generator>
   <item>
     <title>Spooky-ish, Presented by SparkDazzle Entertainment</title>
@@ -157,6 +157,15 @@
     <category>adult</category>
   </item>
   <item>
+    <title>Jo'Rie's Bday Jump Off Vol. 5 | 18+</title>
+    <link>https://gallery5arts.org/calendar/2026/10/22/jories-bday-jump-off-vol-5</link>
+    <guid isPermaLink="false">2026-11-21-2000-gallery5@rvaburlesque</guid>
+    <pubDate>Sat, 21 Nov 2026 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Saturday, November 21, 2026 · 8pm – 11pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p>The 5th installment of Jo&#x27;Rie&#x27;s Bday Jumpoff, a live burlesque mixtape featuring Charliecakesss (MD), Venessa Chevelle, Qing Blaze, Tha Wondah Twins, Storm Psycho 6, Poppy la Fae, Miss Good &amp; Plenty and Jo&#x27;Rie Tigerlily. Doors 8pm, show 9pm.</p>]]></description>
+    <category>variety</category>
+    <category>adult</category>
+  </item>
+  <item>
     <title>Nerdleque by Psycho 7 Productions</title>
     <link>https://basiccityrva.com/calendar</link>
     <guid isPermaLink="false">2026-11-27-1900-basic-city@rvaburlesque</guid>
@@ -229,6 +238,16 @@
     <description><![CDATA[<p><strong>When:</strong> Saturday, December 12, 2026</p><p><strong>Where:</strong> Strangeways Brewing - Scott&#x27;s Addition</p><p>Burlesque and variety show presented by Burlesque Right Meow at Strangeways Brewing in Scott&#x27;s Addition.</p>]]></description>
     <category>variety</category>
     <category>recurring</category>
+  </item>
+  <item>
+    <title>RadQueer Productions presents SADQUEER</title>
+    <link>https://gallery5arts.org/calendar/2026/12/13/radqueer-productions-presents-sadqueer</link>
+    <guid isPermaLink="false">2026-12-13-1800-gallery5@rvaburlesque</guid>
+    <pubDate>Sun, 13 Dec 2026 18:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong>When:</strong> Sunday, December 13, 2026 · 6pm – 10pm</p><p><strong>Where:</strong> Gallery5, 200 West Marshall Street, Richmond, VA 23220</p><p><strong>Cost:</strong> $10-$25 sliding scale</p><p>A burlesque and variety celebration of the sad and the sultry, hosted by Mx. Casey Camp, featuring Hunny Du Bunns, Jo&#x27;Rie Tigerlily, Jungle Julia, Kill Gil, Leila Lovely, Mathis Menagerie, Mister E, Salem Sirene and Santobella Spark. Doors 6pm, show 7pm.</p>]]></description>
+    <category>variety</category>
+    <category>themed</category>
+    <category>adult</category>
   </item>
 </channel>
 </rss>

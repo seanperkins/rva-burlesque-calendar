@@ -7,7 +7,7 @@ X-WR-CALNAME:RVA Burlesque
 X-WR-CALDESC:Burlesque shows in Richmond, VA
 BEGIN:VEVENT
 UID:2026-10-17-2000-gallery5@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261017T200000
 DTEND:20261017T230000
 SUMMARY:Spooky-ish\, Presented by SparkDazzle Entertainment
@@ -20,7 +20,7 @@ URL:https://gallery5arts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-2000-reveler@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261030T200000
 DTEND:20261030T220000
 SUMMARY:Révéler Cabaret: Halloween Edition
@@ -33,7 +33,7 @@ URL:https://www.revelerexperiences.com/event/reveler-cabaret-halloween-edition-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-1900-dreamhaus@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261031T190000
 DTEND:20261031T020000
 SUMMARY:ScreamHaus Halloween Spookeasy
@@ -47,7 +47,7 @@ URL:https://www.dreamerfxstudios.com/event-details-registration/screamhaus-spook
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026
@@ -59,7 +59,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-brm-linktree@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:The 2026 RVA Burlesque Festival
@@ -71,7 +71,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:RVA Burlesque Festival 2026 – Thursday
@@ -84,7 +84,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261105T190000
 DTEND:20261105T230000
 SUMMARY:RVA Burlesque Festival – Thursday Night
@@ -98,7 +98,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:RVA Burlesque Festival 2026 – Friday
@@ -111,7 +111,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261106T190000
 DTEND:20261106T230000
 SUMMARY:RVA Burlesque Festival – Friday Night
@@ -125,7 +125,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-0000-rva-burlesque-festival@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:RVA Burlesque Festival 2026 – Saturday
@@ -138,7 +138,7 @@ URL:https://www.zeffy.com/en-US/ticketing/2026-rva-burlesque-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-1900-richmond-cultureworks@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261107T190000
 DTEND:20261107T230000
 SUMMARY:RVA Burlesque Festival – Saturday Night
@@ -152,7 +152,7 @@ URL:https://calendar.richmondcultureworks.org/events/rva-burlesque-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-1300-gallery5@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261108T130000
 DTEND:20261108T160000
 SUMMARY:Briney Brunch Variety Show
@@ -165,7 +165,7 @@ URL:https://gallery5arts.org/calendar/richmond-pickle-party-briney-brunch-variet
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-1400-gallery5@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261108T140000
 DTEND:20261108T160000
 SUMMARY:Briney Brunch Variety Show
@@ -178,7 +178,7 @@ URL:https://www.eventbrite.com/e/briney-brunch-variety-hour-tickets-200384844664
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-1900-gallery5@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261111T190000
 DTEND:20261111T220000
 SUMMARY:Artfully Exposed: Burlesque Student Recital | 18+
@@ -191,7 +191,7 @@ URL:https://gallery5arts.org/calendar/artfully-exposed-burlesque-student-recital
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-2000-crescent-collective@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261114T200000
 DTEND:20261114T220000
 SUMMARY:A Knight of Secrets & Seduction
@@ -205,7 +205,7 @@ URL:https://www.rvacrescentcollective.com/events/a-knight-of-secrets-seduction
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-1900-crescent-collective@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261119T190000
 DTEND:20261119T210000
 SUMMARY:Karaokque - Karaoke Sing & Striptacular!
@@ -218,8 +218,22 @@ DESCRIPTION:Karaoke burlesque party hosted by Saffron Soleil & Venessa Chev
 URL:https://www.rvacrescentcollective.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-21-2000-gallery5@rvaburlesque
+DTSTAMP:20261117T131351Z
+DTSTART:20261121T200000
+DTEND:20261121T230000
+SUMMARY:Jo'Rie's Bday Jump Off Vol. 5 | 18+
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:The 5th installment of Jo'Rie's Bday Jumpoff\, a live burlesque
+  mixtape featuring Charliecakesss (MD)\, Venessa Chevelle\, Qing Blaze\, T
+ ha Wondah Twins\, Storm Psycho 6\, Poppy la Fae\, Miss Good & Plenty and J
+ o'Rie Tigerlily. Doors 8pm\, show 9pm.\n\nInfo: https://gallery5arts.org/c
+ alendar/2026/10/22/jories-bday-jump-off-vol-5
+URL:https://gallery5arts.org/calendar/2026/10/22/jories-bday-jump-off-vol-5
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-1900-basic-city@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261127T190000
 DTEND:20261127T220000
 SUMMARY:Nerdleque by Psycho 7 Productions
@@ -231,7 +245,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-1900-basic-city@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261127T190000
 DTEND:20261127T220000
 SUMMARY:Nerdleque by Psycho 7 Productions
@@ -243,7 +257,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-0000-brm-linktree@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Reveal Revue: A Night Of Budding Burlesque Performances
@@ -254,7 +268,7 @@ URL:https://buytickets.at/burlesquerightmeowllc/2506569
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-1930-basic-city@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261128T193000
 DTEND:20261128T220000
 SUMMARY:Burlesque Right Meow
@@ -265,7 +279,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-1930-basic-city@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261128T193000
 DTEND:20261128T220000
 SUMMARY:Burlesque Right Meow
@@ -276,7 +290,7 @@ URL:https://basiccityrva.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-2000-blue-bee@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261204T200000
 DTEND:20261204T213000
 SUMMARY:Orchard After Dark December
@@ -289,7 +303,7 @@ URL:https://www.bluebeecider.com/facebook-event/orchard-after-dark-december/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-2000-gallery5@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART:20261210T200000
 DTEND:20261210T230000
 SUMMARY:Nerdy Thirsty Thursdays
@@ -302,7 +316,7 @@ URL:https://gallery5arts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-0000-brm-linktree@rvaburlesque
-DTSTAMP:20261113T130031Z
+DTSTAMP:20261117T131351Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Pours and Pasties Burlesque and Variety Show
@@ -311,5 +325,20 @@ DESCRIPTION:Burlesque and variety show presented by Burlesque Right Meow at
   Strangeways Brewing in Scott's Addition.\n\nInfo: https://buytickets.at/b
  urlesquerightmeowllc/2512512
 URL:https://buytickets.at/burlesquerightmeowllc/2512512
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-1800-gallery5@rvaburlesque
+DTSTAMP:20261117T131351Z
+DTSTART:20261213T180000
+DTEND:20261213T220000
+SUMMARY:RadQueer Productions presents SADQUEER
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:A burlesque and variety celebration of the sad and the sultry\,
+  hosted by Mx. Casey Camp\, featuring Hunny Du Bunns\, Jo'Rie Tigerlily\, 
+ Jungle Julia\, Kill Gil\, Leila Lovely\, Mathis Menagerie\, Mister E\, Sal
+ em Sirene and Santobella Spark. Doors 6pm\, show 7pm.\n\nCost: $10-$25 sli
+ ding scale\n\nInfo: https://gallery5arts.org/calendar/2026/12/13/radqueer-
+ productions-presents-sadqueer
+URL:https://gallery5arts.org/calendar/2026/12/13/radqueer-productions-presents-sadqueer
 END:VEVENT
 END:VCALENDAR

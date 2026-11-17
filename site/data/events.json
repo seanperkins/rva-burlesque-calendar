@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T13:00:31Z",
+  "lastUpdated": "2026-11-17T13:13:51Z",
   "events": [
     {
       "source": "gallery5",
@@ -342,6 +342,27 @@
       "instructor": null
     },
     {
+      "source": "gallery5",
+      "sourceUrl": "https://gallery5arts.org/calendar",
+      "title": "Jo'Rie's Bday Jump Off Vol. 5 | 18+",
+      "date": "2026-11-21",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "location": "Gallery5",
+      "address": "200 West Marshall Street, Richmond, VA 23220",
+      "cost": "",
+      "costValue": null,
+      "url": "https://gallery5arts.org/calendar/2026/10/22/jories-bday-jump-off-vol-5",
+      "description": "The 5th installment of Jo'Rie's Bday Jumpoff, a live burlesque mixtape featuring Charliecakesss (MD), Venessa Chevelle, Qing Blaze, Tha Wondah Twins, Storm Psycho 6, Poppy la Fae, Miss Good & Plenty and Jo'Rie Tigerlily. Doors 8pm, show 9pm.",
+      "tags": [
+        "variety",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "basic-city",
       "sourceUrl": "https://basiccityrva.com/",
       "title": "Nerdleque by Psycho 7 Productions",
@@ -509,6 +530,28 @@
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "gallery5",
+      "sourceUrl": "https://gallery5arts.org/calendar",
+      "title": "RadQueer Productions presents SADQUEER",
+      "date": "2026-12-13",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "location": "Gallery5",
+      "address": "200 West Marshall Street, Richmond, VA 23220",
+      "cost": "$10-$25 sliding scale",
+      "costValue": 10.0,
+      "url": "https://gallery5arts.org/calendar/2026/12/13/radqueer-productions-presents-sadqueer",
+      "description": "A burlesque and variety celebration of the sad and the sultry, hosted by Mx. Casey Camp, featuring Hunny Du Bunns, Jo'Rie Tigerlily, Jungle Julia, Kill Gil, Leila Lovely, Mathis Menagerie, Mister E, Salem Sirene and Santobella Spark. Doors 6pm, show 7pm.",
+      "tags": [
+        "variety",
+        "themed",
+        "adult"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     }
   ]
